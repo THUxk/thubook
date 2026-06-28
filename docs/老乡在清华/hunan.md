@@ -1,0 +1,95 @@
+# 湖南省专区
+
+## 北京湘菜推荐
+
+### 潇湘阁
+
+<span style="font-weight:bold">位置：</span>海淀区海淀大街中关村5号商场B1层
+
+<span style="font-weight:bold">评价：</span>距离适中，可以地铁、打车、骑车、走路。建议提早去，饭点一般都得排队。
+
+<span style="font-weight:bold">推荐：</span>擂辣椒、茄子煲
+
+
+
+### 嬲塞de湘菜馆
+
+<span style="font-weight:bold">位置：</span>海淀区成府路29号
+
+<span style="font-weight:bold">评价：</span>就在五道口，在日昌餐馆那儿左转，步行街往里走右手边。
+
+<span style="font-weight:bold">推荐：</span>金钱蛋、牛蛙
+
+
+
+### 湘食晚
+
+<span style="font-weight:bold">位置：</span>海淀区学清路甲18号中关村东升科技园-学院园B座F1层
+
+<span style="font-weight:bold">评价：</span>在圣熙8号里，可以顺路看个电影之类的
+
+
+
+### 越恰越湘
+
+<span style="font-weight:bold">位置：</span>海淀区中关村82楼西平房4号楼二层
+
+<span style="font-weight:bold">评价：</span>在中关村附近，附近有个领展购物广场，可以顺路去逛。
+
+<span style="font-weight:bold">推荐：</span>空心菜、糖油粑粑
+
+
+
+### 湘彬萱
+
+<span style="font-weight:bold">位置：</span>海淀区花园路2号33号楼(牡丹园地铁站A西北口步行310米)
+
+<span style="font-weight:bold">推荐：</span>炒螺肉
+
+
+
+### 兰湘子
+
+<span style="font-weight:bold">位置：</span>没有离学校比较近的，出去玩可以顺路去看看
+
+<span style="font-weight:bold">推荐：</span>大盆花菜
+
+
+
+## 湖南文化特色活动
+
+
+
+### 湖湘美食节
+
+邀请湘菜大厨进校园，或探访北京地道湘菜馆，宣传湖南的饮食文化
+
+### 湖湘文化传承
+
+“湖湘讲堂”，邀请各界湘籍知名人士分享人生经历与智慧，弘扬湖湘文化精神。
+
+### 红色文化相关活动
+
+组织参观毛主席纪念堂（含二楼）、《毛泽东选集》读书会，帮助同学们深入了解湖湘文化、伟人精神的红色底蕴。
+
+### “清韵潇湘“社会实践项目
+
+带领同学们利用寒暑假时间来到湖南，深入基层，开展社会调研、支教等公益实践活动。
+
+
+
+## 弗兰人来北京生活小窍门
+
+* 可以学习一下普通话（也可以考虑把周围的同学都带成塑普x
+  
+* 花粉：北京春天会有花粉，可能会引发过敏症状，有过敏史的同学要注意。而且如果之前不过敏，在北京呆久了也可能会花粉过敏
+
+* 北京为什么不怎么下雨（但为什么一下雨就总是下暴雨）？
+
+* 冬天在北京如何选择衣物：比较不习惯的是冬天北京的室外温差比较大，室内很暖和（甚至有点热），室外的话风比较大，还是很冷的。个人习惯从短袖开始穿，外面穿羽绒服，进入室内之后可以根据温度和自身情况穿脱衣物。在学校，暖气采用的是水暖，还是比较给力的。可能有的同学不习惯暖气带来的干燥环境，出现流鼻血等情况，可以注意一下。
+
+<br/>
+<hr/>
+<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-8-12</span>
+<br></br>
+<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">清华大学学生湖湘文化交流协会</span>

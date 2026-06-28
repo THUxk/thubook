@@ -1,0 +1,340 @@
+# 运动场所
+
+## 操场
+
+整体布局概览
+
+<img src="../assets/cc_3.webp" alt="cc_3" style="zoom: 50%;" />
+
+
+
+### 紫荆操场
+
+<img src="../assets/cc_1.jpg" alt="cc_1" style="zoom: 80%;" />
+
+<img src="../assets/cc_2.jpg" alt="cc_2" style="zoom:44%;" />
+
+<span style="font-weight:bold">位置：</span>紫荆宿舍区，C楼东侧。 [紫荆操场](https://surl.amap.com/dXi6cJa1h8JN)
+
+<span style="font-weight:bold">简介：</span>紫荆操场为长方形，主体为<span style="font-weight:bold">标准的橄榄球场地</span>，外圈跑道一圈<span style="font-weight:bold">475米</span>，除过日常的体育锻炼，紫操也经常举办各种活动。
+
+除过橄榄场地，紫操周围还有<span style="font-weight:bold">紫荆篮球场</span>，<span style="font-weight:bold">网球场</span>
+
+<img src="../assets/cc_6.jpg" alt="cc_6" style="zoom:50;" />
+
+
+
+#### 紫荆篮球场
+
+<img src="../assets/cc_4.jpg" alt="cc_4" style="zoom:50%;" />
+
+* 免费场地，带球直入
+* 灯光开放到晚上22:30
+
+
+
+#### 紫荆网球场
+
+![cc_5](../assets/cc_5.jpg)
+
+* 网球场<span style="font-weight:bold">开放时间：</span>周一至周三、周五：17：00-22：00，周四、周末：8:00-12:00和13:00-22:00
+
+* 网球场需要提前[预约](http://50.tsinghua.edu.cn)
+* 网球场设有12块双打场地、4块单打场地
+* 价格 15元/h
+
+
+
+### 东大操场
+
+<img src="../assets/cc_8.jpg" alt="cc_8" style="zoom:50%;" />
+
+<img src="../assets/cc_9.jpg" alt="cc_9" style="zoom:50%;" />
+
+![cc_10](../assets/cc_10.jpg)
+
+
+
+<span style="font-weight:bold">位置：</span>[东大操场](https://surl.amap.com/foL6TrG1o8wM)
+
+<SPAN STYLE="FONT-WEIGHT:BOLD">介绍：</SPAN>东大操场是<span style="font-weight:bold">标准的400米跑道操场</span>，内部草坪为<span style="font-weight:bold">真草</span>，两侧有标准看台。东大操场通常用于<span style="font-weight:bold">重大活动</span>的开幕式，大型集体活动，运动赛事等。日常会有体育队在这里训练，通常下午5点后对外开放。另外，学生会组织的<span style="font-weight:bold">音乐跑</span>也在东操进行。
+
+往期东操音乐跑：
+
+[周深场](https://mp.weixin.qq.com/s/NycT4K9rDs3Ub5GAdcRveQ)
+
+[国风场](https://mp.weixin.qq.com/s/kTOnyLkSUifPbl-106sDSw)
+
+[泰勒斯威夫特场](https://mp.weixin.qq.com/s/AfyDcfzdbx6zjA6_rs_KYg)
+
+
+
+东大操场旁边有<span style="font-weight:bold">东操篮球场</span>和<span style="font-weight:bold">东操排球场</span>，<span style="font-weight:bold">网球场</span>，<span style="font-weight:bold">棒垒球场</span>，<span style="font-weight:bold">沙滩排球场</span>
+
+![cc_7](../assets/cc_7.jpg)
+
+* 篮球场/排球场为免费开放，灯光晚上22:00关闭
+
+![cc_9](../assets/cc_9.png)
+
+​																						东操篮球场
+
+* 棒垒球场/沙排场 通常为校队训练和上课使用
+
+* 网球场 15元/h，预约同紫操网球场
+
+
+
+### 西大操场
+
+![cc_10](../assets/cc_10.webp)
+
+<span style="font-weight:bold">位置：</span>北馆西侧，[西大操场位置](https://surl.amap.com/7aDyQoz65h)
+
+<SPAN STYLE="FONT-WEIGHT:BOLD">介绍：</SPAN>西大操场为<span style="font-weight:bold">蓝色跑道</span>，紧邻图书馆北馆，是<span style="font-weight:bold">标准的400米</span>跑道。西侧为西体育馆。西操由于近家属区，所以周末会有较多的小朋友，清华附中附小的同学。不过远离学生宿舍，也是一个散心的好地方。图书馆自习累了也可以去西操散散步。
+
+#### 西操篮球场
+
+<img src="../assets/cc_12.jpg" alt="cc_12" style="zoom:67%;" />
+
+* 周末都是开放的，工作日只有上课时间不对外开放，晚上十点过后大概率会关门。夜间无灯光
+
+
+
+### 北操
+
+北操主要是足球场和棒球场
+
+<img src="../assets/cc_13.png" alt="cc_13" style="zoom:50%;" />
+
+<img src="../assets/cc_12.png" alt="cc_12" style="zoom:50%;" />
+
+<span style="font-weight:bold">位置：</span>学生公寓34,35号楼东侧，紫操篮球场南侧，[北操位置](https://surl.amap.com/ikh6Xg4p7X6)
+
+注意，北操足球场和棒球场的入口在南侧的小路。
+
+
+
+
+
+## 体育馆
+
+### 北体育馆
+
+清华最大的室内活动场地，2023年开放使用
+
+<img src="../assets/cc_14.png" alt="cc_14" style="zoom:50%;" />
+
+<span style="font-weight:bold">位置：</span>陈明游泳馆东侧，东操东北侧，[北体育馆](https://surl.amap.com/jU2QO081v8Eu)
+
+<SPAN STYLE="FONT-WEIGHT:BOLD">介绍：</SPAN>北体育馆集<span style="font-weight:bold">网球馆、乒乓球馆、篮排球馆、健身中心、体能与训练康复中心、模拟滑雪馆、冰上运动中心、击剑馆、壁球馆、多功能操房、攀岩墙</span>等于一体，<span style="font-weight:bold">地上部分两层，地下部分两层</span>，是清华最大的室内运动场馆。
+
+
+
+* 4块专业篮球场
+
+<img src="../assets/cc_25.jpg" alt="cc_25" style="zoom:50%;" />
+
+* 4块专业网球场
+
+<img src="../assets/cc_26.jpg" alt="cc_26" style="zoom:50%;" />
+
+* 大量乒乓球台
+
+<img src="../assets/cc_27.jpg" alt="cc_27" style="zoom:50%;" />
+
+* 3000平米的健身中心
+* 室内冰场，可滑冰
+
+
+
+#### 冰上中心
+
+<img src="../assets/cc_15.jpg" alt="cc_15" style="zoom:50%;" />
+
+<img src="../assets/cc_16.jpg" alt="cc_16" style="zoom:80%;" />
+
+<span style="font-weight:bold">位置：</span>北馆B2层
+
+<span style="font-weight:bold">收费：</span>在校生30元/场，校外人员120元/场。免费提供冰鞋，护具等
+
+<span style="font-weight:bold">进入方式：</span>现场根据场次购票进入
+
+<span style="font-weight:bold">电话：</span>62781097
+
+
+
+#### 健身房
+
+<img src="../assets/cc_23.jpg" alt="cc_23" style="zoom:50%;" />
+
+
+
+<span style="font-weight:bold">位置：</span>北馆B1层
+
+<span style="font-weight:bold">收费：</span>年卡1180/年，此外还有半年卡，季卡，月卡等
+
+<span style="font-weight:bold">布局：</span>分为健身厅一，健身厅二，团课厅
+
+<img src="../assets/cc_18.jpg" alt="cc_18" style="zoom:50%;" />
+
+​																					健身厅一
+
+<img src="../assets/cc_19.jpg" alt="cc_19" style="zoom:50%;" />
+
+​																						健身厅二
+
+器械情况：
+
+* 有氧器械近120件，力量设备110台
+
+<img src="../assets/cc_20.jpg" alt="cc_20" style="zoom:50%;" />
+
+* 9台卧推架
+
+<img src="../assets/cc_17.jpg" alt="cc_17" style="zoom:50%;" />
+
+* 另有40台免费跑步机在篮球馆北侧
+
+<img src="../assets/cc_21.jpg" alt="cc_21" style="zoom:50%;" />
+
+<span style="font-weight:bold">电话：</span>62782578
+
+~~写到这绷不住了，壕无人性啊~~
+
+
+
+
+
+### 气膜馆
+
+<img src="../assets/cc_30.jpg" alt="cc_30" style="zoom:80%;" />
+
+<span style="font-weight:bold">位置：</span>紫荆公寓东北角，18号楼北侧。[气膜馆](https://surl.amap.com/lu2yGOs1zcC4)
+
+<SPAN STYLE="FONT-WEIGHT:BOLD">介绍：</SPAN>气膜馆是<span style="font-weight:bold">羽毛球，乒乓球</span>的场所，设有<span style="font-weight:bold">12块羽毛球场地、9座乒乓球台</span>，有专业的塑胶场地、灯光。
+
+![cc_28](../assets/cc_28.jpg)
+
+<span style="font-weight:bold">价格：</span>羽毛球场20/h，乒乓球台10元/h
+
+<img src="../assets/cc_29.jpg" alt="cc_29" style="zoom:50%;" />
+
+<span style="font-weight:bold">预约方式：</span>[预约](http://50.tsinghua.edu.cn)
+
+<span style="font-weight:bold">电话：</span>62798605
+
+### 综合体育馆
+
+<img src="../assets/cc_31.jpg" alt="cc_31" style="zoom:50%;" />
+
+<span style="font-weight:bold">位置：</span>东大操场南侧。[综体](https://surl.amap.com/lXuK3VCg0sh)
+
+<img src="../assets/cc_32.jpg" alt="cc_32" style="zoom:50%;" />
+
+<span style="font-weight:bold">介绍：</span>多功能的体育馆，不仅有篮球场、羽毛球场、排球场，还有健身房等多种运动空间，满足你的各种运动需求。同时也是重大室内活动的场所，比如开学典礼，毕业典礼，元旦晚会等。
+
+<img src="../assets/cc_35.jpg" alt="cc_35" style="zoom: 33%;" />
+
+
+
+<span style="font-weight:bold">开放时间：</span>一般为8:00-22:00，详见预约系统
+
+<span style="font-weight:bold">价格：</span>
+
+* 综体篮球场：300元/2h
+* 综体羽毛球场：40元/2h
+* 排球场：300元/1.5h
+* 健身房：半年卡600元，年卡900元
+
+<span style="font-weight:bold">预约：</span>[预约](http://50.tsinghua.edu.cn)
+
+<span style="font-weight:bold">电话：</span>62794436
+
+
+
+### 西体育馆
+
+<img src="../assets/cc_11.jpg" alt="cc_11" style="zoom:80%;" />
+
+清华第一个体育馆，早期四大建筑之一，但现在依然在使用，和大礼堂同辈分。
+
+<span style="font-weight:bold">位置：</span>西大操场西侧
+
+<img src="../assets/cc_33.jpg" alt="cc_33" style="zoom:50%;" />
+
+<span style="font-weight:bold">介绍：</span>内设有羽毛球场、篮球场、台球场。
+
+* 羽毛球场：开设时间：18:30-22:30 场地价格：40元/2h
+
+* 篮球场：周一到周五不开放预约，周末按照两小时为一个单位预约，600元/2h
+
+* 台球场：开放时间：工作日17:00 - 21:00，周末 9:00 - 21:00，价格 15元/h
+
+  <img src="../assets/cc_34.jpg" alt="cc_34" style="zoom:50%;" />
+
+  
+
+<span style="font-weight:bold">预约：</span>同其他体育馆
+
+<span style="font-weight:bold">电话：</span>62782489
+
+
+
+### 陈明游泳馆
+
+<img src="../assets/cc_37.png" alt="cc_37" style="zoom:50%;" />
+
+<span style="font-weight:bold">位置：</span>北体育馆西侧，[陈明游泳馆](https://surl.amap.com/mCqaE6co28W)
+
+<SPAN STYLE="FONT-WEIGHT:BOLD">介绍：</SPAN>室内恒温游泳馆，游泳馆内共有8条50米标准泳道，其中4条浅水，4条深水（进入深水区需要考深水证）。浅水区1.2米，深水区2.4米。
+
+<span style="font-weight:bold">开放时间：</span>
+
+工作日场：12:00-13:00、17:30-18:30、20:00-21:00、21:30-22:30 
+
+周末场：12:00-13:30、14:00-15:30、17:00-18:30、20:00-21:00、21:30-22:30
+
+<span style="font-weight:bold">价格：</span>单次票学生7元/人，计次卡（有效次数30次，限期3个月）学生150元/张
+
+<span style="font-weight:bold">预约：</span>公众号“清华大学游泳馆”进行预约
+
+
+
+## 活动室
+
+### 南区8号楼活动中心
+
+<span style="font-weight:bold">位置：</span>南区8号楼地下
+
+<SPAN STYLE="FONT-WEIGHT:BOLD">介绍：</SPAN>免费的健身设备，乒乓球桌
+
+<span style="font-weight:bold">进入方式：</span>提前1天拨打学生公寓总服务台电话预约使用62783333
+
+
+
+### 南区31号楼活动中心
+
+<span style="font-weight:bold">位置：</span>南区31号楼地下
+
+<SPAN STYLE="FONT-WEIGHT:BOLD">介绍：</SPAN>内有健身房、影音室、琴房、瑜伽室和舞蹈室等，免费使用。
+
+<span style="font-weight:bold">进入方式：</span>提前1天拨打学生公寓总服务台电话预约使用62783333
+
+
+
+## 其他
+
+### 紫操网球墙
+
+<span style="font-weight:bold">地点</span>：紫操东南侧，快递点方向  
+<span style="font-weight:bold">营业时间</span>：全天开放  
+<span style="font-weight:bold">预约方式</span>：免费，自由  
+
+
+
+<br/>
+<hr/>
+<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-6-1</span>
+<br></br>
+<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">自76张广昱</span>

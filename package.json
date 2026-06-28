@@ -1,0 +1,35 @@
+{
+  "name": "thubook",
+  "version": "2.0.0",
+  "description": "A project of vuepress-theme-hope",
+  "keywords": [
+    "thubook"
+  ],
+  "homepage": "https://github.com/THUxk/thubook#readme",
+  "bugs": {
+    "url": "https://github.com/THUxk/thubook/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/THUxk/thubook.git"
+  },
+  "license": "MIT",
+  "author": "THUxk",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:build": "vuepress-vite build src",
+    "docs:clean-dev": "vuepress-vite dev src --clean-cache",
+    "docs:dev": "vuepress-vite dev src",
+    "docs:update-package": "npx vp-update"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.8",
+    "vue": "^3.4.16",
+    "vuepress": "2.0.0-rc.8",
+    "vuepress-theme-hope": "2.0.0-rc.26"
+  }
+}
