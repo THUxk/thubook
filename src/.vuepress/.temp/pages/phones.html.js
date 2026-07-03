@@ -1,0 +1,14 @@
+export const data = JSON.parse("{\"key\":\"v-26d12a9b\",\"path\":\"/phones.html\",\"title\":\"校园常用电话\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"综合类\",\"slug\":\"综合类\",\"link\":\"#综合类\",\"children\":[]},{\"level\":2,\"title\":\"出行类\",\"slug\":\"出行类\",\"link\":\"#出行类\",\"children\":[]},{\"level\":2,\"title\":\"洗衣\",\"slug\":\"洗衣\",\"link\":\"#洗衣\",\"children\":[]},{\"level\":2,\"title\":\"饮用水\",\"slug\":\"饮用水\",\"link\":\"#饮用水\",\"children\":[]},{\"level\":2,\"title\":\"超市\",\"slug\":\"超市\",\"link\":\"#超市\",\"children\":[]},{\"level\":2,\"title\":\"文创打印\",\"slug\":\"文创打印\",\"link\":\"#文创打印\",\"children\":[]},{\"level\":2,\"title\":\"理发\",\"slug\":\"理发\",\"link\":\"#理发\",\"children\":[]},{\"level\":2,\"title\":\"网络电子维修\",\"slug\":\"网络电子维修\",\"link\":\"#网络电子维修\",\"children\":[]},{\"level\":2,\"title\":\"修车铺\",\"slug\":\"修车铺\",\"link\":\"#修车铺\",\"children\":[]},{\"level\":2,\"title\":\"搬运师傅\",\"slug\":\"搬运师傅\",\"link\":\"#搬运师傅\",\"children\":[]},{\"level\":2,\"title\":\"图书馆\",\"slug\":\"图书馆\",\"link\":\"#图书馆\",\"children\":[]},{\"level\":2,\"title\":\"酒店\",\"slug\":\"酒店\",\"link\":\"#酒店\",\"children\":[]},{\"level\":2,\"title\":\"体育类\",\"slug\":\"体育类\",\"link\":\"#体育类\",\"children\":[]},{\"level\":2,\"title\":\"配眼镜\",\"slug\":\"配眼镜\",\"link\":\"#配眼镜\",\"children\":[]}],\"readingTime\":{\"minutes\":1.41,\"words\":422},\"filePathRelative\":\"phones.md\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

@@ -1,0 +1,14 @@
+export const data = JSON.parse("{\"key\":\"v-04d9ad63\",\"path\":\"/%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/yinhang.html\",\"title\":\"银行\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"中国银行\",\"slug\":\"中国银行\",\"link\":\"#中国银行\",\"children\":[]},{\"level\":2,\"title\":\"中国邮政储蓄银行\",\"slug\":\"中国邮政储蓄银行\",\"link\":\"#中国邮政储蓄银行\",\"children\":[]},{\"level\":2,\"title\":\"中国建设银行\",\"slug\":\"中国建设银行\",\"link\":\"#中国建设银行\",\"children\":[]},{\"level\":2,\"title\":\"北京银行\",\"slug\":\"北京银行\",\"link\":\"#北京银行\",\"children\":[]},{\"level\":2,\"title\":\"中国工商银行\",\"slug\":\"中国工商银行\",\"link\":\"#中国工商银行\",\"children\":[]},{\"level\":2,\"title\":\"中国银行ATM\",\"slug\":\"中国银行atm\",\"link\":\"#中国银行atm\",\"children\":[]},{\"level\":2,\"title\":\"中国建设银行24h自助银行\",\"slug\":\"中国建设银行24h自助银行\",\"link\":\"#中国建设银行24h自助银行\",\"children\":[]},{\"level\":2,\"title\":\"北京银行24h自助银行\",\"slug\":\"北京银行24h自助银行\",\"link\":\"#北京银行24h自助银行\",\"children\":[]},{\"level\":2,\"title\":\"北京银行ATM\",\"slug\":\"北京银行atm\",\"link\":\"#北京银行atm\",\"children\":[]},{\"level\":2,\"title\":\"北京银行24h自助银行\",\"slug\":\"北京银行24h自助银行-1\",\"link\":\"#北京银行24h自助银行-1\",\"children\":[]}],\"readingTime\":{\"minutes\":1.5,\"words\":449},\"filePathRelative\":\"校内生活设施/yinhang.md\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

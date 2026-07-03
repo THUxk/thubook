@@ -1,0 +1,14 @@
+export const data = JSON.parse("{\"key\":\"v-22630621\",\"path\":\"/%E4%B8%93%E9%A2%98/tiyu.html\",\"title\":\"运动场所\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"操场\",\"slug\":\"操场\",\"link\":\"#操场\",\"children\":[{\"level\":3,\"title\":\"紫荆操场\",\"slug\":\"紫荆操场\",\"link\":\"#紫荆操场\",\"children\":[]},{\"level\":3,\"title\":\"东大操场\",\"slug\":\"东大操场\",\"link\":\"#东大操场\",\"children\":[]},{\"level\":3,\"title\":\"西大操场\",\"slug\":\"西大操场\",\"link\":\"#西大操场\",\"children\":[]},{\"level\":3,\"title\":\"北操\",\"slug\":\"北操\",\"link\":\"#北操\",\"children\":[]}]},{\"level\":2,\"title\":\"体育馆\",\"slug\":\"体育馆\",\"link\":\"#体育馆\",\"children\":[{\"level\":3,\"title\":\"北体育馆\",\"slug\":\"北体育馆\",\"link\":\"#北体育馆\",\"children\":[]},{\"level\":3,\"title\":\"气膜馆\",\"slug\":\"气膜馆\",\"link\":\"#气膜馆\",\"children\":[]},{\"level\":3,\"title\":\"综合体育馆\",\"slug\":\"综合体育馆\",\"link\":\"#综合体育馆\",\"children\":[]},{\"level\":3,\"title\":\"西体育馆\",\"slug\":\"西体育馆\",\"link\":\"#西体育馆\",\"children\":[]},{\"level\":3,\"title\":\"陈明游泳馆\",\"slug\":\"陈明游泳馆\",\"link\":\"#陈明游泳馆\",\"children\":[]}]},{\"level\":2,\"title\":\"活动室\",\"slug\":\"活动室\",\"link\":\"#活动室\",\"children\":[{\"level\":3,\"title\":\"南区8号楼活动中心\",\"slug\":\"南区8号楼活动中心\",\"link\":\"#南区8号楼活动中心\",\"children\":[]},{\"level\":3,\"title\":\"南区31号楼活动中心\",\"slug\":\"南区31号楼活动中心\",\"link\":\"#南区31号楼活动中心\",\"children\":[]}]},{\"level\":2,\"title\":\"其他\",\"slug\":\"其他\",\"link\":\"#其他\",\"children\":[{\"level\":3,\"title\":\"紫操网球墙\",\"slug\":\"紫操网球墙\",\"link\":\"#紫操网球墙\",\"children\":[]}]}],\"readingTime\":{\"minutes\":8.18,\"words\":2454},\"filePathRelative\":\"专题/tiyu.md\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

@@ -1,0 +1,48 @@
+<template><div><h1 id="入学分级考试" tabindex="-1"><a class="header-anchor" href="#入学分级考试" aria-hidden="true">#</a> 入学分级考试</h1>
+<h2 id="英语分级考试" tabindex="-1"><a class="header-anchor" href="#英语分级考试" aria-hidden="true">#</a> 英语分级考试</h2>
+<ul>
+<li>
+<p>听力20题，每题一分</p>
+</li>
+<li>
+<p>阅读20题，每题2分</p>
+</li>
+<li>
+<p>完成句子20题，每题0.5分</p>
+</li>
+<li>
+<p>完形填空20题，每题一分</p>
+<p>题目均为有四个选项的选择题</p>
+</li>
+</ul>
+<h3 id="听力" tabindex="-1"><a class="header-anchor" href="#听力" aria-hidden="true">#</a> 听力</h3>
+<p>时长约30分钟，播送三段短新闻（每段两道题），一段长对话（四道题目），三段短材料（按3 3 4分配题目），每次读两遍内容一遍题干，<span style="font-weight:bold">试卷上没有题干，需要自行听取</span>
+听力语速整体与高考听力持平，词汇难度亦符合高考正常难度。但由于内容较长，且题目形式诡异，因此如果想获得好成绩建议提前练习。</p>
+<h3 id="阅读" tabindex="-1"><a class="header-anchor" href="#阅读" aria-hidden="true">#</a> 阅读</h3>
+<p>阅读题目难度高于高考，个人认为识读难度略低于雅思（只考过雅思），大致在雅思阅读7.5分左右。</p>
+<p>（事实上，这个比较是不确切的，雅思的题目出处一般不会来源于太过诡异的词汇，分级考试则几乎相反。按照需要掌握的词汇量，个人划分出这个水平）</p>
+<h3 id="完成句子" tabindex="-1"><a class="header-anchor" href="#完成句子" aria-hidden="true">#</a> 完成句子</h3>
+<p>主要考察语法的运用，固定搭配的使用和相近单词的辨析。本人为河北省考生，使用维克多词典准备高考，其中所有的考查词汇几乎均可在维克多上找到原词。但所考单词较为偏僻且混淆单词较多，四个放一起完全不知道在说啥。如果想在这个部分得到好成绩需要切实的词汇量积累，和扎实的语法基础。（大致可对标雅思写作7.0）</p>
+<h3 id="完形填空题" tabindex="-1"><a class="header-anchor" href="#完形填空题" aria-hidden="true">#</a> 完形填空题</h3>
+<p>考察了大量的词义辨析和固定搭配，与上面的完成句子几乎如出一辙。</p>
+<h3 id="总体评价" tabindex="-1"><a class="header-anchor" href="#总体评价" aria-hidden="true">#</a> 总体评价</h3>
+<p>较为困难</p>
+<h2 id="物理分级考试" tabindex="-1"><a class="header-anchor" href="#物理分级考试" aria-hidden="true">#</a> 物理分级考试</h2>
+<p>一共32道选择题，每题三分</p>
+<h3 id="重点" tabindex="-1"><a class="header-anchor" href="#重点" aria-hidden="true">#</a> 重点</h3>
+<ul>
+<li>基础物理公式和数学公式的应用</li>
+<li>一些较为基础的二级结论，比如柯尼西定理</li>
+<li>物理的思维能力，具体指在遇到没有接触过的符号和物理量时凭借特值法等奇技淫巧得出答案的方法</li>
+<li>对一些“反直觉”题目的客观分析能力：如果有题目看上去某个答案一眼是对的，那么就要当心了，应该尝试具体地分析一下，看看究竟哪个是正确的</li>
+<li>并没有出现大量的计算和极度复杂的分析，不需要害怕</li>
+<li>个人认为在高中物理范围内，结合一些技巧，是可以完美解决绝大多数乃至所有问题的</li>
+<li>另外关于计算器，我整次考试下来唯一可能有用到的地方是一个三角函数的恒等变换，需要求取arccos。但在使用数学方法后答案是显然的，因此计算器也就可有可无了</li>
+</ul>
+<br/>
+<hr/>
+<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-8-23</span>
+<br></br>
+<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">生42冬天的雨</span></div></template>
+
+

@@ -1,0 +1,14 @@
+export const data = JSON.parse("{\"key\":\"v-73563ac1\",\"path\":\"/%E8%80%81%E4%B9%A1%E5%9C%A8%E6%B8%85%E5%8D%8E/\",\"title\":\"老乡在清华\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"老乡在清华\",\"article\":false},\"headers\":[],\"readingTime\":{\"minutes\":0,\"words\":1},\"filePathRelative\":null}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}
