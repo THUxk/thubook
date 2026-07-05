@@ -1,3 +1,6 @@
+---
+title: "新生骨干"
+---
 # 新生骨干
 
 <p style="font-weight:bold">核心：学生工作，班委，社工</p>

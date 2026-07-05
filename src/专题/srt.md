@@ -1,3 +1,6 @@
+---
+title: "SRT 项目指南"
+---
 # SRT 项目指南
 
 Student Research Training,简称SRT,是大多数本科生参与科研的一种方式。

@@ -1,3 +1,6 @@
+---
+title: "上课时间表"
+---
 # 上课时间表
 
 <table align="center">

@@ -112,6 +112,7 @@
 <hr/>
 <span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-8-23</span>
 <br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">生42冬天的雨，自76张广昱</span></div></template>
+<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">生42冬天的雨，自76张广昱</span>
+</div></template>
 
 

@@ -49,6 +49,7 @@
 <hr/>
 <span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-8-12</span>
 <br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">清华大学学生湖湘文化交流协会</span></div></template>
+<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">清华大学学生湖湘文化交流协会</span>
+</div></template>
 
 

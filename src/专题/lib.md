@@ -1,3 +1,6 @@
+---
+title: "图书馆介绍"
+---
 # 图书馆介绍
 
 图书馆由图书馆总馆（老馆与西馆、北馆） ，文科、美术、金融、法律、经管、建筑等六个专业图书馆和若干院系资料室组成
@@ -160,4 +163,3 @@
 <span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-6-1</span>
 <br></br>
 <span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">自76张广昱</span>
-

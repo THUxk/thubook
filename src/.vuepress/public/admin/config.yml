@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
-  branch: main
   repo: THUxk/thubook
+  branch: main
   base_url: https://yourschool.cc.cd/thubook/
   identity_url: https://api.yourschool.cc.cd/identity
   gateway_url: https://api.yourschool.cc.cd/git/github
@@ -14,7 +14,7 @@ backend:
     uploadMedia: "CMS: 上传媒体文件 {{path}}"
     deleteMedia: "CMS: 删除媒体文件 {{path}}"
 
-local_backend: true  # 允许本地开发时使用
+# local_backend: true  # 仅本地开发时启用，生产环境建议注释
 
 site_url: https://yourschool.cc.cd/thubook/
 display_url: https://yourschool.cc.cd/thubook/
@@ -22,7 +22,6 @@ display_url: https://yourschool.cc.cd/thubook/
 media_folder: "src/assets"
 public_folder: "/assets"
 
-# 不使用 posts 集合，因为文章散落在各处
 collections:
   - name: "pages"
     label: "页面与文章"
@@ -31,15 +30,21 @@ collections:
     create: true
     extension: .md
     format: frontmatter
-    slug: "{{slug}}"  # 保持原文件名
+    # 注意：Decap CMS 无法自动处理子目录 slug，建议让用户手动输入路径
+    # 如果你希望支持子目录，请取消注释下面两行（但需用户输入完整路径）
+    # path: "{{path}}"
+    # slug: "{{slug}}"
     editor:
       preview: true
     fields:
       - { label: "标题", name: "title", widget: "string", required: false }
-      - { label: "发布日期", name: "date", widget: "datetime", required: false, hint: "可选，用于排序" }
+      - { label: "发布日期", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss", required: false, hint: "可选，用于排序" }
       - { label: "标签", name: "tags", widget: "list", default: [], required: false }
       - { label: "分类", name: "categories", widget: "list", default: [], required: false }
-      - { label: "摘要", name: "description", widget: "text", required: false }
-      - { label: "草稿", name: "draft", widget: "boolean", default: false, required: false, hint: "设为 true 将不在网站显示（需主题支持）" }
       - { label: "封面图", name: "cover", widget: "image", required: false }
+        # 可选：若想将封面图单独存放，可取消下一行注释
+        # media_folder: "src/assets/covers"
+        # public_folder: "/assets/covers"
+      - { label: "摘要", name: "description", widget: "text", required: false }
+      - { label: "草稿", name: "draft", widget: "boolean", default: false, required: false, hint: "设为 true 将不在网站显示（需 VuePress 支持）" }
       - { label: "内容", name: "body", widget: "markdown", required: true }

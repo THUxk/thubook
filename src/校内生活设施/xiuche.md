@@ -1,3 +1,6 @@
+---
+title: "修车铺"
+---
 # 修车铺
 ## 紫3
 
@@ -46,4 +49,3 @@
 <span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-6-1</span>
 <br></br>
 <span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">计76林慎吾</span>
-

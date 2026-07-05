@@ -1,3 +1,6 @@
+---
+title: "体测"
+---
 # 体测
 
 秋季学期需参加教育部要求的<span style="font-weight:bold">体质测试</span>。

@@ -1,3 +1,6 @@
+---
+title: "本科招生报考指南"
+---
 # 本科招生报考指南
 
 详见：[本科招生报考指南](https://www.join-tsinghua.edu.cn/ebook/index.html)

@@ -1,1 +1,14 @@
-export const data = JSON.parse("{\"key\":\"v-4bf7f20e\",\"path\":\"/log.html\",\"title\":\"更新日志\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[],\"git\":{\"createdTime\":1783099945000,\"updatedTime\":1783099945000,\"contributors\":[{\"name\":\"root\",\"email\":\"root@LIN-LAPTOP.localdomain\",\"commits\":1}]},\"readingTime\":{\"minutes\":2.5,\"words\":751},\"filePathRelative\":\"log.md\",\"localizedDate\":\"2026年7月3日\"}")
+export const data = JSON.parse("{\"key\":\"v-4bf7f20e\",\"path\":\"/log.html\",\"title\":\"更新日志\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"更新日志\"},\"headers\":[],\"readingTime\":{\"minutes\":2.52,\"words\":756},\"filePathRelative\":\"log.md\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

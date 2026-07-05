@@ -1,3 +1,6 @@
+---
+title: "常用公众号小程序"
+---
 # 常用公众号小程序
 
 ## 官方公众号
@@ -95,4 +98,3 @@
 ##### <p style="font-weight:bold">掌上艺教：校内琴房，舞蹈房预约</p>
 
 <img src="./assets/gzh_22.jpg" alt="gzh_22" style="zoom:33%;" />
-
