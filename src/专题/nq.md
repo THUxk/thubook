@@ -388,7 +388,7 @@
 
 * 可以
 * 电脑也可以，录音笔也可以（大概
-* 这个帖子值得一看 <https://yourschool.cc/share/wD4YyQ8l1QFKIns9dsKNag-->
+* 这个帖子值得一看 <https://yourschool.cc.cd/share/wD4YyQ8l1QFKIns9dsKNag-->
 
 ### 6图书馆用游戏本会尴尬吗？
 

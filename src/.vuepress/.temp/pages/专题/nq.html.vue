@@ -372,7 +372,7 @@
 <ul>
 <li>可以</li>
 <li>电脑也可以，录音笔也可以（大概</li>
-<li>这个帖子值得一看 <a href="https://yourschool.cc/share/wD4YyQ8l1QFKIns9dsKNag--" target="_blank" rel="noopener noreferrer">https://yourschool.cc/share/wD4YyQ8l1QFKIns9dsKNag--<ExternalLinkIcon/></a></li>
+<li>这个帖子值得一看 <a href="https://yourschool.cc.cd/share/wD4YyQ8l1QFKIns9dsKNag--" target="_blank" rel="noopener noreferrer">https://yourschool.cc.cd/share/wD4YyQ8l1QFKIns9dsKNag--<ExternalLinkIcon/></a></li>
 </ul>
 <h3 id="_6图书馆用游戏本会尴尬吗" tabindex="-1"><a class="header-anchor" href="#_6图书馆用游戏本会尴尬吗" aria-hidden="true">#</a> 6图书馆用游戏本会尴尬吗？</h3>
 <ul>

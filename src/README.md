@@ -30,7 +30,7 @@
 
 ### 网页访问
 
-可以在网页端输入<https://yourschool.cc/thubook>来访问本手册。
+可以在网页端输入<https://yourschool.cc.cd/thubook>来访问本手册。
 
 本手册支持手机，平板，电脑屏幕自适应。
 

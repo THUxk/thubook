@@ -168,11 +168,11 @@
 
 注：非官方指由清华在校生or毕业生开发与维护
 
-### [THU选课社区](https://yourschool.cc/thucourse)
+### [THU选课社区](https://yourschool.cc.cd/thucourse)
 
 清华课程评测网站
 
-网址：https://yourschool.cc/thucourse
+网址：https://yourschool.cc.cd/thucourse
 
 <img src="./assets/wb7.png" alt="wb7" style="zoom:20%;" />
 

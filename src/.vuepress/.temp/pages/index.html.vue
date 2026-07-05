@@ -12,7 +12,7 @@
 <p>本手册由所有愿意参与维护的<span style="font-weight:bold">清华同学</span>共同维护和补充</p>
 <h2 id="访问本手册" tabindex="-1"><a class="header-anchor" href="#访问本手册" aria-hidden="true">#</a> 访问本手册</h2>
 <h3 id="网页访问" tabindex="-1"><a class="header-anchor" href="#网页访问" aria-hidden="true">#</a> 网页访问</h3>
-<p>可以在网页端输入<a href="https://yourschool.cc/thubook" target="_blank" rel="noopener noreferrer">https://yourschool.cc/thubook<ExternalLinkIcon/></a>来访问本手册。</p>
+<p>可以在网页端输入<a href="https://yourschool.cc.cd/thubook" target="_blank" rel="noopener noreferrer">https://yourschool.cc.cd/thubook<ExternalLinkIcon/></a>来访问本手册。</p>
 <p>本手册支持手机，平板，电脑屏幕自适应。</p>
 <img src="@source/assets/index1.jpg" alt="index1" style="zoom:25%;" />
 <p>​</p>

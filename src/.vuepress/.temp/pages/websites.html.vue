@@ -83,9 +83,9 @@
 <p>网址：https://www.tsinghua.edu.cn/jyjx/bksjy/bkzy.htm</p>
 <h2 id="非官方" tabindex="-1"><a class="header-anchor" href="#非官方" aria-hidden="true">#</a> 非官方</h2>
 <p>注：非官方指由清华在校生or毕业生开发与维护</p>
-<h3 id="thu选课社区" tabindex="-1"><a class="header-anchor" href="#thu选课社区" aria-hidden="true">#</a> <a href="https://yourschool.cc/thucourse" target="_blank" rel="noopener noreferrer">THU选课社区<ExternalLinkIcon/></a></h3>
+<h3 id="thu选课社区" tabindex="-1"><a class="header-anchor" href="#thu选课社区" aria-hidden="true">#</a> <a href="https://yourschool.cc.cd/thucourse" target="_blank" rel="noopener noreferrer">THU选课社区<ExternalLinkIcon/></a></h3>
 <p>清华课程评测网站</p>
-<p>网址：https://yourschool.cc/thucourse</p>
+<p>网址：https://yourschool.cc.cd/thucourse</p>
 <img src="@source/assets/wb7.png" alt="wb7" style="zoom:20%;" />
 <img src="@source/assets/wb8.jpg" alt="wb8" style="zoom:33%;" />
 <h3 id="清华ppt模版-简约风" tabindex="-1"><a class="header-anchor" href="#清华ppt模版-简约风" aria-hidden="true">#</a> <a href="https://github.com/atomiechen/THU-PPT-Theme.git" target="_blank" rel="noopener noreferrer">清华ppt模版-简约风<ExternalLinkIcon/></a></h3>
