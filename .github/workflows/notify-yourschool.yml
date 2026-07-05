@@ -1,0 +1,14 @@
+name: Notify Yourschool
+on:
+  push:
+    branches: [main]
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          curl -X POST \
+            -H "Authorization: token ${{ secrets.DEPLOY_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/THUxk/yourschool/dispatches \
+            -d '{"event_type":"thubook-updated"}'
