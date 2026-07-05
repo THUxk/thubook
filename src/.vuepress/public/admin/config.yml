@@ -19,8 +19,14 @@ backend:
 site_url: https://yourschool.cc.cd/thubook/
 display_url: https://yourschool.cc.cd/thubook/
 
-media_folder: "src/assets"
-public_folder: "/assets"
+# ⚠️ 重要：media_folder 指向 cms/ 子目录，而不是整个 src/assets
+# 原因：Decap CMS 登录后会全量遍历 media_folder 下的所有文件，
+# src/assets 下有 277 个历史图片（174MB），全量扫描会撞上后端 60次/分钟 的限速 → 429
+# 改成 cms/ 后，CMS 默认只扫描这个几乎为空的目录，登录后请求数降到个位数。
+# 历史图片用的是 <img src="../assets/xxx"> 相对路径，不走 CMS 媒体库，照常显示不受影响。
+# 如果需要在 CMS 里复用某张老图，可以手动把那张图复制到 cms/ 下。
+media_folder: "src/assets/cms"
+public_folder: "/assets/cms"
 
 collections:
   - name: "pages"
