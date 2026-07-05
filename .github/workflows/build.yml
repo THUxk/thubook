@@ -1,0 +1,100 @@
+# ===================================================================
+# CI: 把 thubook 源码编译成静态网页，推送到 THUxk/yourschool 仓库
+# ===================================================================
+# 工作流程：
+#   1. thubook 仓库的 main 分支收到 push → 触发本 CI
+#   2. 拉取代码，安装 Node.js + 依赖
+#   3. 执行 npm run docs:build，把 markdown 编译成静态网页
+#   4. 把编译产物（src/.vuepress/dist）推送到 yourschool 仓库的 thubook/ 子目录
+#
+# 前置条件（必须做，否则 CI 会失败）：
+#   在 thubook 仓库的 Settings → Secrets and variables → Actions → 添加：
+#   - 名字：DEPLOY_TOKEN
+#   - 值：一个有 repo 权限的 Personal Access Token (PAT)
+#   详见 README 或下方"配置说明"注释
+# ===================================================================
+
+name: Build and Deploy
+
+on:
+  push:
+    branches: [ main ]          # main 分支 push 时触发
+  workflow_dispatch:             # 允许在 GitHub 网页手动触发（调试用）
+
+# 同一时间只跑一个部署任务，避免新旧推送互相覆盖
+concurrency:
+  group: deploy-thubook
+  cancel-in-progress: true
+
+# 让 CI 有权限读写（推送到 yourschool 时用 DEPLOY_TOKEN，这里给默认权限即可）
+permissions:
+  contents: read
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest       # 用 GitHub 提供的 Ubuntu 机器跑
+
+    steps:
+      # ---------- 第 1 步：拉取 thubook 源码 ----------
+      - name: 📥 Checkout source code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0         # 拉取完整历史（部分主题/插件需要）
+
+      # ---------- 第 2 步：安装 Node.js ----------
+      # VuePress 2 需要 Node 18+，这里用 20 LTS（稳定版）
+      - name: 🔧 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'           # 自动缓存 npm 依赖，加速后续运行
+
+      # ---------- 第 3 步：安装依赖 ----------
+      - name: 📦 Install dependencies
+        run: npm ci              # 类似 npm install，但严格按 lock 文件安装，更快更稳
+
+      # ---------- 第 4 步：编译 ----------
+      - name: 🔨 Build static site
+        run: npm run docs:build  # 产物输出到 src/.vuepress/dist
+
+      # ---------- 第 5 步：部署到 yourschool 仓库 ----------
+      - name: 🚀 Deploy to yourschool repo
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          # 用 PAT 跨仓库推送（不能用默认 GITHUB_TOKEN，它只有本仓库权限）
+          personal_token: ${{ secrets.DEPLOY_TOKEN }}
+          # 目标仓库
+          external_repository: THUxk/yourschool
+          # 目标分支
+          publish_branch: main
+          # 关键：放进 thubook/ 子目录，而不是根目录！
+          # 这样 yourschool 的首页（根目录）和 thucourse/ 都不受影响
+          publish_dir: ./src/.vuepress/dist
+          destination_dir: thubook
+          # 提交信息
+          full_commit_message: ${{ github.event.head_commit.message }}
+          # 保留 yourschool 仓库里的其他文件（.nojekyll 等）
+          keep_files: true
+          # 用户信息（显示在 yourschool 的 commit 历史里）
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+
+# ===================================================================
+# 配置说明（必读）：
+# ===================================================================
+# 1. 生成 Personal Access Token (PAT)：
+#    - 打开 https://github.com/settings/tokens?type=beta （Fine-grained tokens，推荐）
+#    - 点 "Generate new token"
+#    - Repository access 选 "Only select repositories" → 选 THUxk/thubook 和 THUxk/yourschool
+#    - Permissions → Repository permissions → Contents → 设为 "Read and write"
+#    - 生成后立刻复制 token（只显示一次！）
+#
+# 2. 把 token 加到 thubook 仓库的 Secrets：
+#    - 打开 https://github.com/THUxk/thubook/settings/secrets/actions
+#    - 点 "New repository secret"
+#    - Name 填：DEPLOY_TOKEN
+#    - Secret 粘贴刚才的 token
+#    - 点 "Add secret"
+#
+# 3. 测试：往 main 分支 push 任意改动，去 thubook 仓库的 Actions 页面看运行情况
+# ===================================================================
