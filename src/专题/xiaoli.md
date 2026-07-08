@@ -4,20 +4,10 @@
 
 [清华校历](https://www.tsinghua.edu.cn/zjqh/syxx/qhxl.htm)
 
+## 2026-2027 秋
 
+![xl](2026qiuji.jpg)
 
-## 2024-2025 秋
+## 2026-2027 春
 
-![xl](../assets/xl024-20251.jpg)
-
-
-
-
-
-## 2023-2024 春
-
-
-
-![xl](../assets/xiaoli23242.jpg)
-
-
+![xl](2027chunji.jpg)
