@@ -1,16 +1,16 @@
 <template><div><h1 id="🍺thu手册" tabindex="-1"><a class="header-anchor" href="#🍺thu手册" aria-hidden="true">#</a> 🍺THU手册</h1>
 <p>欢迎使用<a href="#%F0%9F%8D%BATHU%E6%89%8B%E5%86%8C">THU手册!</a></p>
-<p>这是一份关于清华校内生活，学习方面的<span style="font-weight:bold">百科全书</span></p>
+<p>这是一份关于清华校内生活，学习方面的<strong>百科全书</strong></p>
 <p>我们尽可能的收集各种实用信息和数据，让这本手册成为你大学之路上消除信息差的利器！</p>
 <h2 id="_2026新生群群号" tabindex="-1"><a class="header-anchor" href="#_2026新生群群号" aria-hidden="true">#</a> 2026新生群群号</h2>
 <p>本来写在<RouterLink to="/newstudent.html">新生指南</RouterLink>那一篇，但是发现很多人还是没找到，所以直接搬到这里。</p>
-<p><span style = "font-weight:bold">非实名群：793410424</span></p>
-<p><span style = "font-weight:bold">实名群：1048842005</span></p>
+<p><strong>非实名群：793410424</strong></p>
+<p><strong>实名群：1048842005</strong></p>
 <p>欢迎六字班同学进群！</p>
 <h2 id="关于" tabindex="-1"><a class="header-anchor" href="#关于" aria-hidden="true">#</a> 关于</h2>
-<p>本手册的所有内容均来自<span style="font-weight:bold">公开信息</span></p>
+<p>本手册的所有内容均来自<strong>公开信息</strong></p>
 <p>本手册由自动化系，计算机系七字班同学编写和部署第一版</p>
-<p>本手册由所有愿意参与维护的<span style="font-weight:bold">清华同学</span>共同维护和补充</p>
+<p>本手册由所有愿意参与维护的<strong>清华同学</strong>共同维护和补充</p>
 <h2 id="访问本手册" tabindex="-1"><a class="header-anchor" href="#访问本手册" aria-hidden="true">#</a> 访问本手册</h2>
 <h3 id="网页访问" tabindex="-1"><a class="header-anchor" href="#网页访问" aria-hidden="true">#</a> 网页访问</h3>
 <p>可以在网页端输入<a href="https://yourschool.cc.cd/thubook" target="_blank" rel="noopener noreferrer">https://yourschool.cc.cd/thubook<ExternalLinkIcon/></a>来访问本手册。</p>
@@ -21,7 +21,7 @@
 <h2 id="我是新生" tabindex="-1"><a class="header-anchor" href="#我是新生" aria-hidden="true">#</a> 我是新生</h2>
 <p>我们制作了本手册的目录索引<RouterLink to="/newstudent.html">新生指南</RouterLink>，方便新生更好的查阅</p>
 <h2 id="待更新清单-招募志愿者" tabindex="-1"><a class="header-anchor" href="#待更新清单-招募志愿者" aria-hidden="true">#</a> 待更新清单（招募志愿者）</h2>
-<p>部分内容因编写时间较早，信息可能已过时，<span style="font-weight:bold">急需同学们帮忙核实和更新</span>。以下按紧迫程度排列：</p>
+<p>部分内容因编写时间较早，信息可能已过时，<strong>急需同学们帮忙核实和更新</strong>。以下按紧迫程度排列：</p>
 <h3 id="🔴-高优先级" tabindex="-1"><a class="header-anchor" href="#🔴-高优先级" aria-hidden="true">#</a> 🔴 高优先级</h3>
 <table>
 <thead>
@@ -214,7 +214,7 @@
 <h2 id="关于开源" tabindex="-1"><a class="header-anchor" href="#关于开源" aria-hidden="true">#</a> 关于开源</h2>
 <p>已经开源在THUxk/thubook。</p>
 <h2 id="所有贡献者列表" tabindex="-1"><a class="header-anchor" href="#所有贡献者列表" aria-hidden="true">#</a> 所有贡献者列表</h2>
-<p><span style = "color:gray">电41花青，生31秋，自43琪，生42冬天的雨，航11赤舟，经05易文卓，软3 eric，计科23 evel，计37陈筱涵，法32于大虾，数41施计芸，计76林慎吾，自76张广昱</span></p>
+<p>电41花青，生31秋，自43琪，生42冬天的雨，航11赤舟，经05易文卓，软3 eric，计科23 evel，计37陈筱涵，法32于大虾，数41施计芸，计76林慎吾，自76张广昱</p>
 </div></template>
 
 

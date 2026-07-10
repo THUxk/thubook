@@ -12,10 +12,9 @@
 <p>全国图书馆参考咨询联盟 <a href="http://www.ucdrs.superlib.net/" target="_blank" rel="noopener noreferrer">http://www.ucdrs.superlib.net/<ExternalLinkIcon/></a></p>
 <p>开放存取资源图书馆（Open Access Library）<a href="http://www.oalib.com" target="_blank" rel="noopener noreferrer">http://www.oalib.com<ExternalLinkIcon/></a></p>
 <p>谷歌学术 <a href="https://scholar.google.com/" target="_blank" rel="noopener noreferrer">https://scholar.google.com/<ExternalLinkIcon/></a></p>
-<br/>
-<hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-6-13</span>
-<br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">计76林慎吾</span></div></template>
+<hr>
+<p><em>上次修改时间：2024-6-13</em>
+<em>贡献者：计76林慎吾</em></p>
+</div></template>
 
 

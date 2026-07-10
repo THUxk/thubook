@@ -15,10 +15,9 @@
 <p>未抽中的同学，会随机进入wl（waiting list）等待候补。（如果已经选中的同学退课，则候补队列中的同学自动补上）</p>
 <h2 id="防沉迷机制" tabindex="-1"><a class="header-anchor" href="#防沉迷机制" aria-hidden="true">#</a> 防沉迷机制</h2>
 <p>为了防止大家沉迷学习，学校规定选课每学期除体育和重修外，大一不超过26学分，大二大三不超过30学分。如想解除防沉迷限制，需申请特批学分，审批通过后才可选课。</p>
-<br/>
-<hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-6-1</span>
-<br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">自76张广昱</span></div></template>
+<hr>
+<p><em>上次修改时间：2024-6-1</em>
+<em>贡献者：自76张广昱</em></p>
+</div></template>
 
 

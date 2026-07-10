@@ -1,5 +1,5 @@
 <template><div><h1 id="新生常见问题汇总" tabindex="-1"><a class="header-anchor" href="#新生常见问题汇总" aria-hidden="true">#</a> 新生常见问题汇总</h1>
-<p><span style="font-weight:bold">开学前每天中午12点更新。</span></p>
+<p><strong>开学前每天中午12点更新。</strong></p>
 <p>源自2024新生群新生常见问题共享文档，欢迎随时补充。</p>
 <p>推荐在电脑浏览器里打开，方便搜索关键词。（ctrl+f在页面内搜索）</p>
 <h2 id="开学相关" tabindex="-1"><a class="header-anchor" href="#开学相关" aria-hidden="true">#</a> 开学相关</h2>

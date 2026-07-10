@@ -1,38 +1,38 @@
 <template><div><h1 id="经济资助及勤工助学" tabindex="-1"><a class="header-anchor" href="#经济资助及勤工助学" aria-hidden="true">#</a> 经济资助及勤工助学</h1>
 <h2 id="资助项目" tabindex="-1"><a class="header-anchor" href="#资助项目" aria-hidden="true">#</a> 资助项目</h2>
 <h3 id="入学前" tabindex="-1"><a class="header-anchor" href="#入学前" aria-hidden="true">#</a> 入学前</h3>
-<p><span style="font-weight:bold">入学困难补助</span></p>
+<p><strong>入学困难补助</strong></p>
 <ul>
 <li>家庭经济特别困难的学生可申请来校路费及部分生活费补助。按照录取通知书中《致家庭经济困难新生的一封信》说明，与学生资助管理中心办公室联系。</li>
 </ul>
-<p><span style="font-weight:bold">生源地信用助学贷款</span></p>
+<p><strong>生源地信用助学贷款</strong></p>
 <ul>
 <li>每人每年最高贷款12000元，用于支付学费和住宿费。学生和家长向户籍所在地的学生资助管理中心或金融机构申请。</li>
 </ul>
 <h3 id="报到时" tabindex="-1"><a class="header-anchor" href="#报到时" aria-hidden="true">#</a> 报到时</h3>
-<p><span style="font-weight:bold">绿色通道</span></p>
+<p><strong>绿色通道</strong></p>
 <ul>
 <li>新生报到时如有缴费困难，可通过报到现场的“绿色通道”申请无息临时借款，用于缴费，完成注册手续。</li>
 </ul>
 <h3 id="入学后" tabindex="-1"><a class="header-anchor" href="#入学后" aria-hidden="true">#</a> 入学后</h3>
-<p><span style="font-weight:bold">助学金</span></p>
+<p><strong>助学金</strong></p>
 <ul>
 <li>家庭经济困难学生每年秋季学期可申请，金额为每年3000-16000元。学生需撰写感谢信或参与公益活动。平均每年有3000人获得，平均金额8000元。</li>
 </ul>
-<p><span style="font-weight:bold">勤工助学</span></p>
+<p><strong>勤工助学</strong></p>
 <ul>
 <li>大一入学后即可申请校设勤工助学岗位，每小时报酬25-50元，帮助学生减轻经济负担，锻炼能力。</li>
 </ul>
-<p><span style="font-weight:bold">困难补助</span></p>
+<p><strong>困难补助</strong></p>
 <ul>
 <li>包括临时困难补助和各类专项补助，如大病紧急救助、新生教材、理发、交通补助等。</li>
 </ul>
-<p><span style="font-weight:bold">海外交流“鸿雁计划”</span></p>
+<p><strong>海外交流“鸿雁计划”</strong></p>
 <ul>
 <li>家庭经济困难学生获得学校学期交换或海外研修机会，可申请国际旅费和生活费支持。</li>
 </ul>
 <h3 id="毕业后" tabindex="-1"><a class="header-anchor" href="#毕业后" aria-hidden="true">#</a> 毕业后</h3>
-<p><span style="font-weight:bold">学费补偿或助学贷款代偿</span></p>
+<p><strong>学费补偿或助学贷款代偿</strong></p>
 <ul>
 <li>在校期间应征入伍或毕业后选择去基层就业的学生可申请学费补偿或助学贷款代偿。</li>
 </ul>
@@ -41,11 +41,9 @@
 <li>清华学生资助</li>
 <li>thu勤工之家</li>
 </ul>
-<br/>
-<hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-6-1</span>
-<br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">计76林慎吾</span>
+<hr>
+<p><em>上次修改时间：2024-6-1</em>
+<em>贡献者：计76林慎吾</em></p>
 </div></template>
 
 

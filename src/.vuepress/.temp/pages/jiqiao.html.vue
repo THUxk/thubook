@@ -56,9 +56,9 @@
 <p>金蝉脱壳：在作业提交日期截止前还没写完，可以先提交一个“网盘链接”，后面再把作业传到网盘链接里。该方法成功的前提是助教不会立即去网络学堂收作业，因此给自己多了一个缓冲的机会。</p>
 </li>
 </ul>
-<hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-6-4</span>
-<br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">数41施计芸，计76林慎吾，自76张广昱，法32于大虾</span></div></template>
+<hr>
+<p><em>上次修改时间：2024-6-4</em>
+<em>贡献者：数41施计芸，计76林慎吾，自76张广昱，法32于大虾</em></p>
+</div></template>
 
 

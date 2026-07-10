@@ -9,11 +9,9 @@
 <p>通常本科生类别码为01</p>
 <p>例如2022年入学的小李，学号可能是2022010376</p>
 <p><RouterLink to="/%E4%B8%93%E9%A2%98/xuehao56.html">学号5-6位的含义</RouterLink></p>
-<br/>
-<hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-6-1</span>
-<br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">自76张广昱</span>
+<hr>
+<p><em>上次修改时间：2024-6-1</em>
+<em>贡献者：自76张广昱</em></p>
 </div></template>
 
 

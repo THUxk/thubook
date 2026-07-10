@@ -143,16 +143,16 @@
 <p>校医院内看病无需报销，自动按公费医疗处理。报销只针对转诊至校外就医的情况：</p>
 <ul>
 <li>
-<p>在校医院某个科室就诊，发现需要更进一步的检查或更明确的诊断，校医院医生可以开出<span style="font-weight:bold">转诊单</span>。</p>
+<p>在校医院某个科室就诊，发现需要更进一步的检查或更明确的诊断，校医院医生可以开出<strong>转诊单</strong>。</p>
 </li>
 <li>
-<p>转诊单在校医院一层挂号大厅<span style="font-weight:bold">综合服务台</span>盖“<span style="font-weight:bold">清华大学医院医疗专用章</span>”。</p>
+<p>转诊单在校医院一层挂号大厅<strong>综合服务台</strong>盖“<strong>清华大学医院医疗专用章</strong>”。</p>
 </li>
 <li>
-<p>在转诊医院就诊时，先以“<span style="font-weight:bold">非医保</span>”途径<span style="font-weight:bold">自费</span>就诊，所有产生费用的项目要开成规范的单据。</p>
+<p>在转诊医院就诊时，先以“<strong>非医保</strong>”途径<strong>自费</strong>就诊，所有产生费用的项目要开成规范的单据。</p>
 </li>
 <li>
-<p>就诊结束后，所有单据拿回<span style="font-weight:bold">校医院北三楼报销处</span>报销。</p>
+<p>就诊结束后，所有单据拿回<strong>校医院北三楼报销处</strong>报销。</p>
 </li>
 </ul>
 <p>1.准备材料：</p>
@@ -169,22 +169,18 @@
 <p>校医院北楼三层</p>
 </li>
 </ul>
-<p>tips: 学生发生的医疗费用，按照公费医疗管理规定扣除自费部分后可<span style="font-weight:bold">100%报销</span>。</p>
+<p>tips: 学生发生的医疗费用，按照公费医疗管理规定扣除自费部分后可<strong>100%报销</strong>。</p>
 <h2 id="就诊全流程示意图" tabindex="-1"><a class="header-anchor" href="#就诊全流程示意图" aria-hidden="true">#</a> 就诊全流程示意图</h2>
-<p><img src="/assets/xxy_3.jpg" alt="xxy_3">
-<br></br>
-<br></br>
-<br></br></p>
+<p><img src="/assets/xxy_3.jpg" alt="xxy_3"></p>
 <h2 id="更多校医院指南" tabindex="-1"><a class="header-anchor" href="#更多校医院指南" aria-hidden="true">#</a> 更多校医院指南</h2>
 <p><a href="https://mp.weixin.qq.com/s/xNLOoYxrIFn9v1DNEAe2vA" target="_blank" rel="noopener noreferrer">转诊与公费医疗报销<ExternalLinkIcon/></a></p>
 <p><a href="https://mp.weixin.qq.com/s/X5XmVIxSD5PKMwbZ_Yf52g" target="_blank" rel="noopener noreferrer">预约挂号与就医指南<ExternalLinkIcon/></a></p>
 <p><a href="https://mp.weixin.qq.com/s/cXx_DQ1iBXCxtwJKK0rKBA" target="_blank" rel="noopener noreferrer">公众号挂号指南<ExternalLinkIcon/></a></p>
 <p><a href="https://mp.weixin.qq.com/s/Q5VryO8rOEzZh9RraRgPQA" target="_blank" rel="noopener noreferrer">校医院自助机操作指南<ExternalLinkIcon/></a></p>
 <p><a href="https://mp.weixin.qq.com/s/E9RuW1SN5N1lEIPNBr9gOA" target="_blank" rel="noopener noreferrer">校医院体检指南<ExternalLinkIcon/></a></p>
-<br/>
-<hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-6-1</span>
-<br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">自76张广昱</span></div></template>
+<hr>
+<p><em>上次修改时间：2024-6-1</em>
+<em>贡献者：自76张广昱</em></p>
+</div></template>
 
 

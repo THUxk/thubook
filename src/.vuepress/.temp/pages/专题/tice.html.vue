@@ -1,6 +1,6 @@
 <template><div><h1 id="体测" tabindex="-1"><a class="header-anchor" href="#体测" aria-hidden="true">#</a> 体测</h1>
-<p>秋季学期需参加教育部要求的<span style="font-weight:bold">体质测试</span>。</p>
-<p>除此之外，学校在<span style="font-weight:bold">秋季学期会有耐力专项（长跑，立定跳远）</span>，<span style="font-weight:bold">春季学期会有力量专项（引体向上，仰卧起坐，短跑）</span>。</p>
+<p>秋季学期需参加教育部要求的<strong>体质测试</strong>。</p>
+<p>除此之外，学校在<strong>秋季学期会有耐力专项（长跑，立定跳远）</strong>，<strong>春季学期会有力量专项（引体向上，仰卧起坐，短跑）</strong>。</p>
 <h2 id="体质测试表" tabindex="-1"><a class="header-anchor" href="#体质测试表" aria-hidden="true">#</a> 体质测试表</h2>
 <p>体质测试通常占总成绩的10%，只要各项加起来达到60分，即可获取这总评的10分</p>
 <p>此测试标准全国统一</p>
@@ -339,10 +339,9 @@
 </tr>
 </tbody>
 </table>
-<br/>
-<hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-7-15</span>
-<br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">自76张广昱</span></div></template>
+<hr>
+<p><em>上次修改时间：2024-7-15</em>
+<em>贡献者：自76张广昱</em></p>
+</div></template>
 
 

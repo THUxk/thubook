@@ -10,10 +10,9 @@
 <h2 id="紫荆书咖" tabindex="-1"><a class="header-anchor" href="#紫荆书咖" aria-hidden="true">#</a> 紫荆书咖</h2>
 <p><strong>地点</strong>：观畴园底下猫超边上</p>
 <p><strong>介绍</strong>：书店改成的咖啡厅，开到两点，刷夜绝佳场所。但是书籍很少，不推荐来这买书</p>
-<br/>
-<hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-9-7</span>
-<br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">电41花青</span></div></template>
+<hr>
+<p><em>上次修改时间：2024-9-7</em>
+<em>贡献者：电41花青</em></p>
+</div></template>
 
 

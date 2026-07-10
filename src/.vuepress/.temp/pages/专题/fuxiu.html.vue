@@ -1,22 +1,22 @@
 <template><div><h1 id="辅修专业设置" tabindex="-1"><a class="header-anchor" href="#辅修专业设置" aria-hidden="true">#</a> 辅修专业设置</h1>
 <ul>
-<li><span style = "font-weight:bold">2020年起调整</span>：辅修专业改为辅修学位修读，满足要求者可申请辅修学位。</li>
-<li><span style = "font-weight:bold">辅修专业数量</span>：共有44个本科专业开放辅修，全部为本科专业目录中的专业。</li>
-<li><span style = "font-weight:bold">培养要求</span>：一般要求30学分左右，以课程修读为主，自2026年起，所有辅修专业均需要完成毕业设计。</li>
+<li><strong>2020年起调整</strong>：辅修专业改为辅修学位修读，满足要求者可申请辅修学位。</li>
+<li><strong>辅修专业数量</strong>：共有44个本科专业开放辅修，全部为本科专业目录中的专业。</li>
+<li><strong>培养要求</strong>：一般要求30学分左右，以课程修读为主，自2026年起，所有辅修专业均需要完成毕业设计。</li>
 </ul>
 <h2 id="学生网上申请辅修学位方法" tabindex="-1"><a class="header-anchor" href="#学生网上申请辅修学位方法" aria-hidden="true">#</a> 学生网上申请辅修学位方法</h2>
 <ol>
 <li>
-<p><span style = "font-weight:bold">登录门户</span>：</p>
+<p><strong>登录门户</strong>：</p>
 <ul>
 <li>登录info信息门户 -&gt; 学习 -&gt; 快捷导航 -&gt; 公告，点击下面的二级菜单“申请辅修学位”。</li>
 </ul>
 </li>
 <li>
-<p><span style = "font-weight:bold">新增申请</span>：</p>
+<p><strong>新增申请</strong>：</p>
 <ul>
-<li><span style = "font-weight:bold">选择辅修培养方案</span>：选择相应年份的辅修培养方案、辅修学位院系、辅修学位专业。</li>
-<li><span style = "font-weight:bold">填写联系方式</span>：填写个人联系电话及E-mail。</li>
+<li><strong>选择辅修培养方案</strong>：选择相应年份的辅修培养方案、辅修学位院系、辅修学位专业。</li>
+<li><strong>填写联系方式</strong>：填写个人联系电话及E-mail。</li>
 <li>辅修课程认定：
 <ul>
 <li>点击【确定&amp;下一步】进入辅修课程认定界面。</li>
@@ -29,11 +29,11 @@
 <li>注意应优先保证主修可以正常毕业。</li>
 </ul>
 </li>
-<li><span style = "font-weight:bold">提交申请</span>：确认后点击【提交申请】完成辅修学位申请。</li>
+<li><strong>提交申请</strong>：确认后点击【提交申请】完成辅修学位申请。</li>
 </ul>
 </li>
 <li>
-<p><span style = "font-weight:bold">注意事项</span>：</p>
+<p><strong>注意事项</strong>：</p>
 <ul>
 <li>请务必在规定时间内提交申请，以最终提交的名单为准，逾期不予受理。</li>
 </ul>
@@ -62,30 +62,28 @@
 </ul>
 <h2 id="选课要求" tabindex="-1"><a class="header-anchor" href="#选课要求" aria-hidden="true">#</a> 选课要求</h2>
 <ul>
-<li><span style = "font-weight:bold">选课时间</span>：辅修课程与主修课程选课同时进行。</li>
-<li><span style = "font-weight:bold">课程重复</span>：辅修课程与主修课程重复时，经辅修专业院系批准，另选其他课程。</li>
-<li><span style = "font-weight:bold">成绩单显示</span>：辅修课程在修读过程中以“任选”属性显示在主修成绩单上，只有在通过辅修学位审核后才标注为“辅修”。</li>
+<li><strong>选课时间</strong>：辅修课程与主修课程选课同时进行。</li>
+<li><strong>课程重复</strong>：辅修课程与主修课程重复时，经辅修专业院系批准，另选其他课程。</li>
+<li><strong>成绩单显示</strong>：辅修课程在修读过程中以“任选”属性显示在主修成绩单上，只有在通过辅修学位审核后才标注为“辅修”。</li>
 </ul>
 <h2 id="辅修学位获得要求" tabindex="-1"><a class="header-anchor" href="#辅修学位获得要求" aria-hidden="true">#</a> 辅修学位获得要求</h2>
 <ul>
-<li><span style = "font-weight:bold">申请辅修学位</span>：完成辅修专业培养要求的学生，在主修专业毕业学期向辅修专业院系提交辅修学位授予申请。</li>
-<li><span style = "font-weight:bold">未完成辅修要求</span>：主修专业毕业时未完成辅修要求，所修课程计入主修专业成绩单，不可补修。</li>
+<li><strong>申请辅修学位</strong>：完成辅修专业培养要求的学生，在主修专业毕业学期向辅修专业院系提交辅修学位授予申请。</li>
+<li><strong>未完成辅修要求</strong>：主修专业毕业时未完成辅修要求，所修课程计入主修专业成绩单，不可补修。</li>
 </ul>
 <h2 id="其他重要提示" tabindex="-1"><a class="header-anchor" href="#其他重要提示" aria-hidden="true">#</a> 其他重要提示</h2>
 <ul>
 <li>本科辅修学位专业培养方案详见：<a href="https://info.tsinghua.edu.cn/f/info/xxfb_fg/xnzx/template/detail?xxid=0afb426b5f68c601a081640f6fa42dea" target="_blank" rel="noopener noreferrer">本科辅修专业培养方案 - 清华大学信息门户<ExternalLinkIcon/></a></li>
-<li><span style = "font-weight:bold">建议开始时间</span>：大二开始修读辅修较为合适。</li>
-<li><span style = "font-weight:bold">转为辅修学位</span>：符合要求的旧辅修、二学位学生可申请转为辅修学位修读。</li>
-<li><span style = "font-weight:bold">课程证书项目</span>：停开的特色辅修专业转为课程证书项目。</li>
-<li><span style = "font-weight:bold">中途退出</span>：如需退出辅修，请咨询辅修专业院系教学办。</li>
-<li><span style = "font-weight:bold">未来调整</span>：每年接受辅修学位修读的专业可能调整，请关注公告。</li>
-<li><span style = "font-weight:bold">课程认定</span>：报名前已经修读的课程，在辅修专业毕业资格审查时进行认定。</li>
+<li><strong>建议开始时间</strong>：大二开始修读辅修较为合适。</li>
+<li><strong>转为辅修学位</strong>：符合要求的旧辅修、二学位学生可申请转为辅修学位修读。</li>
+<li><strong>课程证书项目</strong>：停开的特色辅修专业转为课程证书项目。</li>
+<li><strong>中途退出</strong>：如需退出辅修，请咨询辅修专业院系教学办。</li>
+<li><strong>未来调整</strong>：每年接受辅修学位修读的专业可能调整，请关注公告。</li>
+<li><strong>课程认定</strong>：报名前已经修读的课程，在辅修专业毕业资格审查时进行认定。</li>
 </ul>
-<br/>
-<hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2026-7-8</span>
-<br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">计76林慎吾、未央58韩弈超</span>
+<hr>
+<p><em>上次修改时间：2026-7-8</em>
+<em>贡献者：计76林慎吾、未央58韩弈超</em></p>
 </div></template>
 
 

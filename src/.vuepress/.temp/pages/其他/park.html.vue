@@ -125,11 +125,11 @@
 <li><strong>特点</strong>: 仙居谷以自然景观为主，有丰富的山水景观和植被，是一个宁静的自然保护区。这里适合徒步、露营和观鸟，特别是喜欢静谧自然环境的游客。</li>
 <li><strong>最佳游玩季节</strong>: <strong>春季和秋季</strong>，春季满山绿意盎然，秋季则是红叶与清泉相映。</li>
 </ul>
-<hr/>
+<hr>
 <p>如果你愿意去得更远，那么我倾情推荐离华子6小时车程的北农林场！这个位于怀柔区宝山镇四道河村的小众宝藏地，风景如画，空气清新，远离城市喧嚣。无论是认植物、抓虫子，还是在雨中挑战登顶，北农林场都能让你彻底放松，感受大自然的纯粹美好。趁着周末或假期，和朋友们来这里享受一场治愈心灵的绿色之旅吧！<s>（生物人流下幸福的泪水</s></p>
-<hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-9-4</span>
-<br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">生31秋</span></div></template>
+<hr>
+<p><em>上次修改时间：2024-9-4</em>
+<em>贡献者：生31秋</em></p>
+</div></template>
 
 

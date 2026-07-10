@@ -22,17 +22,17 @@
 <p>深蓝书院：行健书院。因院徽得名。</p>
 <p>六边形书院：探微书院。因院徽得名。</p>
 <h2 id="假人" tabindex="-1"><a class="header-anchor" href="#假人" aria-hidden="true">#</a> 假人</h2>
-<p>又称伪人。由于清华北大备受瞩目，每年都会有大量<span style="font-weight:bold">不是清华的</span>（非清华在校生，毕业生）伪装成清华的在校生，学长学姐等，骗取新生信任。其实体是校外<span style = "font-weight:bold">与清华无关</span>的商业团体。其伪装的目的是为了<span style = "font-weight:bold">骗取新生信任，然后引流到其微信群，小程序，朋友圈，垃圾校园墙等，以收集清华流量，最后推送商业广告谋取利益</span>。</p>
-<p>这些假人<span style = "font-weight:bold">常见的骗术与话语</span>是：</p>
+<p>又称伪人。由于清华北大备受瞩目，每年都会有大量<strong>不是清华的</strong>（非清华在校生，毕业生）伪装成清华的在校生，学长学姐等，骗取新生信任。其实体是校外<strong>与清华无关</strong>的商业团体。其伪装的目的是为了<strong>骗取新生信任，然后引流到其微信群，小程序，朋友圈，垃圾校园墙等，以收集清华流量，最后推送商业广告谋取利益</strong>。</p>
+<p>这些假人<strong>常见的骗术与话语</strong>是：</p>
 <ul>
 <li>非官方，民间：用来误导新生以为是学生自建与校方无关。其实是与清华都没任何关系。</li>
 <li>学长学姐：拉进关系，骗取新生信任。</li>
 <li>喜欢在名称中加入THU，水木等字样，误导新生其与清华的关系。</li>
 </ul>
-<p>目前最猖獗的假人是：<span style = "font-weight:bold">thu小助手，thu小助手2号，thu小助手3号，thu小/大喇叭，水木助手，某群号为102****606的QQ群以及其背后运作的“某上校友圈”小程序</span>。请大家自觉抵制。注意，以上所有账号平台均为同一团伙运营。</p>
+<p>目前最猖獗的假人是：<strong>thu小助手，thu小助手2号，thu小助手3号，thu小/大喇叭，水木助手，某群号为102****606的QQ群以及其背后运作的“某上校友圈”小程序</strong>。请大家自觉抵制。注意，以上所有账号平台均为同一团伙运营。</p>
 <p><img src="/assets/thuc2.jpg" alt="thuc2">    <img src="/assets/thuc1.jpg" alt="thuc1"></p>
 <p><a href="https://mp.weixin.qq.com/s/nHz-Np2eaaPvxUShfZHkCg" target="_blank" rel="noopener noreferrer">清新时报锤垃圾校园墙引流推文<ExternalLinkIcon/></a></p>
-<p>垃圾校园墙往往会用<span style = "font-weight:bold">免费公开</span>的校内<RouterLink to="/websites.html">资源</RouterLink>作为诱饵，<span style = "font-weight:bold">诱导大家转发推送，集赞，进引流群等</span>。请大家自觉抵制，不要转发假人的推送，不要进垃圾校园墙的引流群。</p>
+<p>垃圾校园墙往往会用<strong>免费公开</strong>的校内<RouterLink to="/websites.html">资源</RouterLink>作为诱饵，<strong>诱导大家转发推送，集赞，进引流群等</strong>。请大家自觉抵制，不要转发假人的推送，不要进垃圾校园墙的引流群。</p>
 <h2 id="其他" tabindex="-1"><a class="header-anchor" href="#其他" aria-hidden="true">#</a> 其他</h2>
 <p>ddl：deadline，指作业、任务的截止时间</p>
 <p>工字厅：校长办公室所在地，也可代指学校管理人员</p>
@@ -43,11 +43,9 @@
 <p>文图：凯风人文社科图书馆</p>
 <p>X教：第X教室楼（教学楼）</p>
 <p>刷夜：通宵做某事，通常是学习</p>
-<br/>
-<hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-9-4</span>
-<br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">自76张广昱</span>
+<hr>
+<p><em>上次修改时间：2024-9-4</em>
+<em>贡献者：自76张广昱</em></p>
 </div></template>
 
 

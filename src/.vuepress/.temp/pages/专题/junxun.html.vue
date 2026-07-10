@@ -2,67 +2,48 @@
 <p>军训是大家进入大学的第一门<RouterLink to="/words.html#%E5%AD%A6%E5%88%86">课程</RouterLink></p>
 <p>内容主要包括理论部分（军事理论 2学分）和实践部分（军事训练 2学分）</p>
 <h2 id="军事理论" tabindex="-1"><a class="header-anchor" href="#军事理论" aria-hidden="true">#</a> 军事理论</h2>
-<p><span style="font-weight:bold">日常：</span>听武装部or国防科大的教授做军事专题讲座，每个讲座彼此无前后关系，相对独立，内容包括不限于军事历史，武器，地缘战略等相关话题。</p>
-<p><span style="font-weight:bold">考核方式：</span>开卷考试。内容主要为讲座中的细节。</p>
-<p><span style="font-weight:bold">注意事项：</span>开卷考试携带的材料较为关键。经测试军理书帮助不大，军理课上课期间也不按照军理书讲，购买此书意义不大。</p>
+<p>**日常：**听武装部or国防科大的教授做军事专题讲座，每个讲座彼此无前后关系，相对独立，内容包括不限于军事历史，武器，地缘战略等相关话题。</p>
+<p>**考核方式：**开卷考试。内容主要为讲座中的细节。</p>
+<p>**注意事项：**开卷考试携带的材料较为关键。经测试军理书帮助不大，军理课上课期间也不按照军理书讲，购买此书意义不大。</p>
 <p>考试前打印店or辅导员会提供前两年的军理考试原题，这个帮助非常大，一定要打印携带。</p>
-<p><span style="font-weight:bold">优秀率：</span>大部分可以<RouterLink to="/words.html#gpa">4.0</RouterLink>，就算没有拿4.0也不必灰心被影响心情。</p>
+<p>**优秀率：**大部分可以<RouterLink to="/words.html#gpa">4.0</RouterLink>，就算没有拿4.0也不必灰心被影响心情。</p>
 <p><img src="/assets/junxun_1.jpg" alt="junli"></p>
 <h2 id="军事训练" tabindex="-1"><a class="header-anchor" href="#军事训练" aria-hidden="true">#</a> 军事训练</h2>
-<p><span style="font-weight:bold">1.军事训练主要包括</span></p>
+<p><strong>1.军事训练主要包括</strong></p>
 <ul>
-<li>
-<p>常规的队列训练（立正，走路，跑步，蹲姿，站姿等）</p>
-</li>
-<li>
-<p>军体拳（可以理解为一种武术）</p>
-</li>
-<li>
-<p>实弹射击（前往某射击馆，真枪实弹的进行射击，每人5发子弹）</p>
-</li>
-<li>
-<p>参观军事博物馆（通常与实弹射击一起进行）</p>
-</li>
-<li>
-<p>内务与作风检查（宿舍要收拾整齐）</p>
-</li>
-<li>
-<p>定向越野</p>
-</li>
-<li>
-<p>20公里拉练</p>
-</li>
+<li>常规的队列训练（立正，走路，跑步，蹲姿，站姿等）</li>
+<li>军体拳（可以理解为一种武术）</li>
+<li>实弹射击（前往某射击馆，真枪实弹的进行射击，每人5发子弹）</li>
+<li>参观军事博物馆（通常与实弹射击一起进行）</li>
+<li>内务与作风检查（宿舍要收拾整齐）</li>
+<li>定向越野</li>
+<li>20公里拉练</li>
 </ul>
 <p><img src="/assets/junxun_2.jpg" alt="jx2"></p>
-<p><span style="font-weight:bold">2.军训期间的作息</span></p>
+<p><strong>2.军训期间的作息</strong></p>
 <p>早上6:30-晚上9:00。</p>
 <p>通常晚上训练强度较弱，第一周晚上可能更多的是班级活动，入学教育。</p>
-<p><span style="font-weight:bold">3.实弹射击</span></p>
-<p>会分批次带到专业的射击馆（一般是北方国际射击中心），每人5发子弹进行实弹射击。会根据射击成绩计入军训成绩的5%</p>
-<p><span style="font-weight:bold">4.定向越野</span></p>
+<p><strong>3.实弹射击</strong></p>
+<p>会分批次带到北体育馆2F，每人10发进行射击。会根据射击成绩计入军训成绩的5%</p>
+<p><strong>4.定向越野</strong></p>
 <p>可以理解为“校内根据地图寻宝”。每人会发一张地图，然后地图上会有打卡点，完成所有打卡即可。注意定向越野需徒步完成 ，骑自行车为违规行为。</p>
-<p><img src="/assets/junxun_3.jpg" alt="jx2"></p>
-<p><span style="font-weight:bold">5.拉练</span></p>
+<p><img src="@source/assets/junxun_3.jpg" alt="jx2"></p>
+<p><strong>5.拉练</strong></p>
 <p>拉练会在某个晚上12点开始，全体新生集体出校，暴走20公里返校，整个过程持续4-5个小时。</p>
-<p>拉练前会要求打包被子，被个人背上自己的被子出行，可以穿自己的鞋。</p>
-<p><img src="/assets/junxun_5.jpg" alt="jx5"></p>
-<p>拉练后的第二天白天通常为休息。下午和晚上会有观影活动，训练强度较小，以休息为主.</p>
-<p><img src="/assets/junxun_4.jpg" alt="jx4"></p>
-<p><img src="/assets/junxun_6.jpg" alt="jx6"></p>
-<p><img src="/assets/junxun_7.jpg" alt="jx7"></p>
+<p>拉练前会要求打包被子，被个人背上自己的被子鞋子出行，可以穿自己的鞋。</p>
+<p><img src="@source/assets/junxun_5.jpg" alt="jx5"></p>
+<p>拉练后的第二天白天通常为休息。</p>
+<p><img src="@source/assets/junxun_4.jpg" alt="jx4"></p>
+<p><img src="@source/assets/junxun_6.jpg" alt="jx6"></p>
+<p><img src="@source/assets/junxun_7.jpg" alt="jx7"></p>
 <h2 id="其他活动" tabindex="-1"><a class="header-anchor" href="#其他活动" aria-hidden="true">#</a> 其他活动</h2>
 <p>军训结束时会有文艺汇演</p>
 <h2 id="注意事项" tabindex="-1"><a class="header-anchor" href="#注意事项" aria-hidden="true">#</a> 注意事项</h2>
 <ul>
-<li>
-<p>鞋。军训的迷彩鞋底子很硬，长时间站立行走脚会废掉，所以建议自己购买鞋垫（或其他鞋垫类似物）垫入。</p>
-</li>
-<li>
-<p>休息。军训期间起的很早，一般7点前会完成集合。中午午休时间通常也不充足（吃完饭一般只剩下20分钟左右）。所以建议晚上11点前入睡，不要玩手机嗨过头，影响第二天训练。</p>
-</li>
-<li>
-<p>不要和教官发生矛盾。军训只有短短的三周，教官可能会出于训练要求严厉要求大家，但绝不会故意刁难大家。如果内心感到不满建议收着，三周很快就结束了。（军训的最终成绩是教官给打分的）</p>
-</li>
+<li>鞋。军训的迷彩鞋底子很硬，长时间站立行走脚会废掉，所以建议自己购买鞋垫（或其他鞋垫类似物）垫入。部分院系允许军训期间穿着深色或黑色运动鞋。</li>
+<li>休息。军训期间起的很早，一般8点前会完成集合。中午午休时间通常也不充足（吃完饭一般只剩下20分钟左右）。所以建议晚上11点前入睡，不要玩手机嗨过头，影响第二天训练。</li>
+<li>不要和教官发生矛盾。军训只有短短的三周，教官可能会出于训练要求严厉要求大家，但绝不会故意刁难大家。如果内心感到不满建议收着，三周很快就结束了。（军训的最终成绩是教官给打分的）</li>
+<li>水杯。不需要买太大的，既重还不方便携带。</li>
 </ul>
 <h2 id="学长心得" tabindex="-1"><a class="header-anchor" href="#学长心得" aria-hidden="true">#</a> 学长心得</h2>
 <h3 id="定向越野" tabindex="-1"><a class="header-anchor" href="#定向越野" aria-hidden="true">#</a> 定向越野</h3>
@@ -75,27 +56,19 @@
 </li>
 <li>
 <p>路线安排建议顺or逆时针绕一圈回到原点。下面附上我个人规划的路线图。</p>
-<p><img src="/assets/jx20.jpg" alt="jx20"></p>
+<p><img src="@source/assets/jx20.jpg" alt="jx20"></p>
 </li>
 <li>
-<p>会发一个类似电子手表的小牌牌，可以带在手指上，用来打卡。<span style = "font-weight:bold">建议多刷两次，听他多哔哔两声，避免刷不上。</span></p>
+<p>会发一个类似电子手表的小牌牌，可以带在手指上，用来打卡。<strong>建议多刷两次，听他多哔哔两声，避免刷不上。</strong></p>
 </li>
 <li>
 <p>有些点位位置比较偏僻或者诡异（请看下面的地图）</p>
-<p><img src="/assets/jx21.jpg" alt="jx21"></p>
+<p><img src="@source/assets/jx21.jpg" alt="jx21"></p>
 <ul>
-<li>
-<p>比如69号点在小丘正中央的一棵树干上；</p>
-</li>
-<li>
-<p>49号点在水木清华对面的陡坡上的一个平台；</p>
-</li>
-<li>
-<p>55号点在操场角上，需要迈进草丛里；</p>
-</li>
-<li>
-<p>据说还有藏在地上的点位</p>
-</li>
+<li>比如69号点在小丘正中央的一棵树干上；</li>
+<li>49号点在水木清华对面的陡坡上的一个平台；</li>
+<li>55号点在操场角上，需要迈进草丛里；</li>
+<li>据说还有藏在地上的点位</li>
 </ul>
 </li>
 <li>
@@ -108,10 +81,9 @@
 <p>集合的时候可能很晒，很热，建议做好防晒。</p>
 </li>
 </ul>
-<br/>
-<hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-8-23</span>
-<br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">生42冬天的雨，自76张广昱</span></div></template>
+<hr>
+<p><em>上次修改时间：2024-8-23</em>
+<em>贡献者：生42冬天的雨，自76张广昱</em></p>
+</div></template>
 
 

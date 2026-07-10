@@ -17,11 +17,9 @@
 37：港澳台学生
 38：留学生
 39：访问生</p>
-<br/>
-<hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-6-1</span>
-<br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">自76张广昱</span>
+<hr>
+<p><em>上次修改时间：2024-6-1</em>
+<em>贡献者：自76张广昱</em></p>
 </div></template>
 
 

@@ -297,13 +297,11 @@
 </tbody>
 </table>
 <h2 id="小程序" tabindex="-1"><a class="header-anchor" href="#小程序" aria-hidden="true">#</a> 小程序</h2>
-<h5 id="水木汇-综合类校内咨询平台-提供活动信息和演出信息及抢票等" tabindex="-1"><a class="header-anchor" href="#水木汇-综合类校内咨询平台-提供活动信息和演出信息及抢票等" aria-hidden="true">#</a> <p style="font-weight:bold">水木汇：综合类校内咨询平台，提供活动信息和演出信息及抢票等</p></h5>
+<h5 id="水木汇-综合类校内咨询平台-提供活动信息和演出信息及抢票等" tabindex="-1"><a class="header-anchor" href="#水木汇-综合类校内咨询平台-提供活动信息和演出信息及抢票等" aria-hidden="true">#</a> <strong>水木汇：综合类校内咨询平台，提供活动信息和演出信息及抢票等</strong></h5>
 <p><img src="/assets/gzh_24.jpg" alt="gzh_24"></p>
-<p><br></br></p>
-<h5 id="清华校园巴士-校巴专用小程序" tabindex="-1"><a class="header-anchor" href="#清华校园巴士-校巴专用小程序" aria-hidden="true">#</a> <p style="font-weight:bold">清华校园巴士：校巴专用小程序</p></h5>
+<h5 id="清华校园巴士-校巴专用小程序" tabindex="-1"><a class="header-anchor" href="#清华校园巴士-校巴专用小程序" aria-hidden="true">#</a> <strong>清华校园巴士：校巴专用小程序</strong></h5>
 <p><img src="/assets/gzh_23.jpg" alt="gzh_23"></p>
-<p><br></br></p>
-<h5 id="掌上艺教-校内琴房-舞蹈房预约" tabindex="-1"><a class="header-anchor" href="#掌上艺教-校内琴房-舞蹈房预约" aria-hidden="true">#</a> <p style="font-weight:bold">掌上艺教：校内琴房，舞蹈房预约</p></h5>
+<h5 id="掌上艺教-校内琴房-舞蹈房预约" tabindex="-1"><a class="header-anchor" href="#掌上艺教-校内琴房-舞蹈房预约" aria-hidden="true">#</a> <strong>掌上艺教：校内琴房，舞蹈房预约</strong></h5>
 <p><img src="/assets/gzh_22.jpg" alt="gzh_22"></p>
 </div></template>
 

@@ -1,7 +1,7 @@
 <template><div><h1 id="二招及学堂班" tabindex="-1"><a class="header-anchor" href="#二招及学堂班" aria-hidden="true">#</a> 二招及学堂班</h1>
 <h2 id="学堂班" tabindex="-1"><a class="header-anchor" href="#学堂班" aria-hidden="true">#</a> 学堂班</h2>
 <h3 id="数学班" tabindex="-1"><a class="header-anchor" href="#数学班" aria-hidden="true">#</a> 数学班</h3>
-<p>以“领跑者、国际化、重基础、尊个性”为培养模式。<span style = "font-weight:bold">丘成桐</span>先生主持邀请了一批国际著名学者来清华开设讲座，讲授数学基础和专业课程；协 助学生联系活跃在科研前沿的国内外学者作为指导教师，给予学生课程学习、 毕业论文和研究生攻读等一系列深入学术指导。数学班的主流方向是跟随国际 数学大师学习和工作。</p>
+<p>以“领跑者、国际化、重基础、尊个性”为培养模式。<strong>丘成桐</strong>先生主持邀请了一批国际著名学者来清华开设讲座，讲授数学基础和专业课程；协 助学生联系活跃在科研前沿的国内外学者作为指导教师，给予学生课程学习、 毕业论文和研究生攻读等一系列深入学术指导。数学班的主流方向是跟随国际 数学大师学习和工作。</p>
 <h3 id="叶企孙物理班" tabindex="-1"><a class="header-anchor" href="#叶企孙物理班" aria-hidden="true">#</a> 叶企孙物理班</h3>
 <p>以营造氛围、使一流人才冒出来为理念，为学生开设 Feynman Lectures  on  Physics、物理原理与实验等基础课程、海外杰出学者课程。建设科 研实践基地，提供自主科研探索的实验平台，选派经验丰富的教师指导学生开 展科研实践探索活动。鼓励学生自主举办学术沙龙， 自主学习研究， 自主科研 探索。在校内外自主选择导师参加 Seminar 科研训练。</p>
 <h3 id="化学班" tabindex="-1"><a class="header-anchor" href="#化学班" aria-hidden="true">#</a> 化学班</h3>
@@ -9,7 +9,7 @@
 <h3 id="生命科学班" tabindex="-1"><a class="header-anchor" href="#生命科学班" aria-hidden="true">#</a> 生命科学班</h3>
 <p>采用富有挑战性的科研实践、优秀科学家指导以及多种渠道的 国际化交流等举措。每位同学与导师共同制定独立的研究课题，撰写英文研究 计划。毕业前的学术年会，为毕业班同学提供展示自己科研成果的平台。</p>
 <h3 id="计算机科学实验班" tabindex="-1"><a class="header-anchor" href="#计算机科学实验班" aria-hidden="true">#</a> 计算机科学实验班</h3>
-<p>由<span style = "font-weight:bold">姚期智</span>院士等一大批名师躬亲教学一线，拥有“厚基  础、深实践、广交叉、探前沿”的课程体系。开设“图灵讲座”“素质教育讲座” 等品牌系列讲座。设立课题项目等激励机制， 激发学生创新思维。建立多层次、立体化的高端国际联合培养基地。</p>
+<p>由<strong>姚期智</strong>院士等一大批名师躬亲教学一线，拥有“厚基  础、深实践、广交叉、探前沿”的课程体系。开设“图灵讲座”“素质教育讲座” 等品牌系列讲座。设立课题项目等激励机制， 激发学生创新思维。建立多层次、立体化的高端国际联合培养基地。</p>
 <h3 id="钱学森力学班" tabindex="-1"><a class="header-anchor" href="#钱学森力学班" aria-hidden="true">#</a> 钱学森力学班</h3>
 <p>以创新挑战赛进行学生选拔。引导学生进行挑战性学习。与 全校及周边科研院所资源合作共建形成本科生科研训练体系。邀请国际知名学者作为国际导师，支持学生到国际导师的学校或研究机构参与科研工作。通过 与世界顶尖大学和国家重大工程合作，为学生提供更多的锻炼平台。</p>
 <h3 id="哲学班" tabindex="-1"><a class="header-anchor" href="#哲学班" aria-hidden="true">#</a> 哲学班</h3>
@@ -18,70 +18,75 @@
 <p>通过配备一流的师资力量，提供本研贯通的课程体系，致力于 培养出能够引领经济学学科发展、具有国际影响力的学术型领军人才。</p>
 <h2 id="二招" tabindex="-1"><a class="header-anchor" href="#二招" aria-hidden="true">#</a> 二招</h2>
 <p>第二次招生，主要是学堂班面向校内学生的招生</p>
-<table align="center">
-	<tr align="center">
-		<td>学科</td>
-		<td>招生时间</td>
-		<td>招生面向</td>
-		<td>联系人</td>
-	</tr>
-	<tr align="center">
-		<td >数学班</td>
-		<td>春季期中考试后</td>
-		<td>大一，二，三学生，大一为主</td>
-		<td>62788547</td>
-	</tr>
-	<tr align="center">
-		<td rowspan="2">物理班</td>
-		<td>大一秋季期中后</td>
-		<td>大一物理系</td>
-		<td rowspan="2">62784551</td>
-	</tr>
-	<tr align="center">
-		<td>大二秋季期中后</td>
-		<td>物理系</td>
-	</tr>
-	<tr align="center">
-		<td >化学班</td>
-		<td>大一下期末</td>
-		<td>化学系</td>
-		<td>62798297</td>
-	</tr>
-	<tr align="center">
-		<td >生命科学班</td>
-		<td>大二上第一周</td>
-		<td>生命学院和医学院</td>
-		<td>62783603</td>
-	</tr>
-	<tr align="center">
-		<td >计算机科学实验班</td>
-		<td>新生报到时</td>
-		<td>全校学生</td>
-		<td>62782373</td>
-	</tr>
-	<tr align="center">
-		<td >钱学森力学班</td>
-		<td>新生报到时</td>
-		<td>全校学生</td>
-		<td>62798028</td>
-	</tr>
-	<tr align="center">
-		<td >哲学班</td>
-		<td>大二秋季</td>
-		<td>日新哲学专业大二学生，全校非强基计划学生</td>
-		<td>62782777</td>
-	</tr>
-	<tr align="center">
-		<td >经济学班</td>
-		<td>新生报到，大一春季转专业时</td>
-		<td>全校学生</td>
-		<td>62773942</td>
-	</tr>
+<table>
+<thead>
+<tr>
+<th>学科</th>
+<th>招生时间</th>
+<th>招生面向</th>
+<th>联系人</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>数学班</td>
+<td>春季期中考试后</td>
+<td>大一，二，三学生，大一为主</td>
+<td>62788547</td>
+</tr>
+<tr>
+<td>物理班</td>
+<td>大一秋季期中后</td>
+<td>大一物理系</td>
+<td>62784551</td>
+</tr>
+<tr>
+<td>物理班</td>
+<td>大二秋季期中后</td>
+<td>物理系</td>
+<td>62784551</td>
+</tr>
+<tr>
+<td>化学班</td>
+<td>大一下期末</td>
+<td>化学系</td>
+<td>62798297</td>
+</tr>
+<tr>
+<td>生命科学班</td>
+<td>大二上第一周</td>
+<td>生命学院和医学院</td>
+<td>62783603</td>
+</tr>
+<tr>
+<td>计算机科学实验班</td>
+<td>新生报到时</td>
+<td>全校学生</td>
+<td>62782373</td>
+</tr>
+<tr>
+<td>钱学森力学班</td>
+<td>新生报到时</td>
+<td>全校学生</td>
+<td>62798028</td>
+</tr>
+<tr>
+<td>哲学班</td>
+<td>大二秋季</td>
+<td>日新哲学专业大二学生，全校非强基计划学生</td>
+<td>62782777</td>
+</tr>
+<tr>
+<td>经济学班</td>
+<td>新生报到，大一春季转专业时</td>
+<td>全校学生</td>
+<td>62773942</td>
+</tr>
+</tbody>
 </table>
-<br/>
-<hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-7-9</span>
-<br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">自76张广昱</span></div></template>
+<hr>
+<p><em>上次修改时间：2024-7-9</em>
+<em>贡献者：自76张广昱</em></p>
+</div></template>
 
 

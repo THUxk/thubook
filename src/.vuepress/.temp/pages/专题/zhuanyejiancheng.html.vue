@@ -127,11 +127,9 @@
 </table>
 <p>以上为官方简称，另有一些非官方的俗称，见:
 <RouterLink to="/%E4%B8%93%E9%A2%98/thuculture.html">清华文化</RouterLink></p>
-<br/>
-<hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-6-21</span>
-<br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">航11赤舟，自76张广昱</span>
+<hr>
+<p><em>上次修改时间：2024-6-21</em>
+<em>贡献者：航11赤舟，自76张广昱</em></p>
 </div></template>
 
 

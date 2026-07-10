@@ -15,10 +15,9 @@
 <p>每年选派约80人，先有国际处手机合作院校的研修岗位信息，然后院系推荐前往。通常是暑假到海外合作院校的实验室进行为期不短于6周的暑期研修，由海外导师指导并安排科研任务</p>
 <h2 id="国际组织实习项目" tabindex="-1"><a class="header-anchor" href="#国际组织实习项目" aria-hidden="true">#</a> 国际组织实习项目</h2>
 <p>关注“清华职业辅导”公众号。前往国际组织进行实习，例如联合国，全职实习两个月以上的，学校可以为其保留学籍，最多延长两年，并且可以根据实习经历获得学分认定，同时可以申请学校的专项资助。在校生既可以参加学校发布的国际组织实习公开选拔，也可以自己申请后向学校报备。</p>
-<br/>
-<hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-6-1</span>
-<br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">自76张广昱</span></div></template>
+<hr>
+<p><em>上次修改时间：2024-6-1</em>
+<em>贡献者：自76张广昱</em></p>
+</div></template>
 
 

@@ -32,38 +32,33 @@
 <p>所有教学楼的空教室都可以直接进去自习</p>
 <p><RouterLink to="/%E4%B8%93%E9%A2%98/sushe.html">宿舍</RouterLink></p>
 <h2 id="刷夜点" tabindex="-1"><a class="header-anchor" href="#刷夜点" aria-hidden="true">#</a> 刷夜点</h2>
-<h5 id="紫荆书咖" tabindex="-1"><a class="header-anchor" href="#紫荆书咖" aria-hidden="true">#</a> <span style="font-weight:bold">紫荆书咖</span></h5>
+<h5 id="紫荆书咖" tabindex="-1"><a class="header-anchor" href="#紫荆书咖" aria-hidden="true">#</a> <strong>紫荆书咖</strong></h5>
 <p><img src="/assets/zixi_1.jpg" alt="zixi_1"></p>
-<p><span style="font-weight:bold">地点：</span>观畴负一</p>
-<p><span style="font-weight:bold">环境：</span>部分座位无电源，无wifi，信号较差</p>
-<p><span style="font-weight:bold">营业时间：</span>至凌晨2点</p>
-<p><br></br></p>
-<h5 id="邺架轩" tabindex="-1"><a class="header-anchor" href="#邺架轩" aria-hidden="true">#</a> <span style="font-weight:bold">邺架轩</span></h5>
+<p>**地点：**观畴负一</p>
+<p>**环境：**部分座位无电源，无wifi，信号较差</p>
+<p>**营业时间：**至凌晨2点</p>
+<h5 id="邺架轩" tabindex="-1"><a class="header-anchor" href="#邺架轩" aria-hidden="true">#</a> <strong>邺架轩</strong></h5>
 <p><img src="/assets/zixi_2.jpg" alt="zixi_2"></p>
-<p><span style="font-weight:bold">地点：</span>北馆地下（从北馆西侧下沉天井进入）</p>
-<p><span style="font-weight:bold">环境：</span>部分座位无电源，有wifi</p>
-<p><span style="font-weight:bold">营业时间：</span> 24小时</p>
-<p><br></br></p>
-<h5 id="c楼3楼" tabindex="-1"><a class="header-anchor" href="#c楼3楼" aria-hidden="true">#</a> <span style="font-weight:bold">C楼3楼</span></h5>
+<p>**地点：**北馆地下（从北馆西侧下沉天井进入）</p>
+<p>**环境：**部分座位无电源，有wifi</p>
+<p><strong>营业时间：</strong> 24小时</p>
+<h5 id="c楼3楼" tabindex="-1"><a class="header-anchor" href="#c楼3楼" aria-hidden="true">#</a> <strong>C楼3楼</strong></h5>
 <p><img src="/assets/zixi_3.jpg" alt="zixi_3"></p>
-<p><span style="font-weight:bold">地点：</span> C楼</p>
-<p><span style="font-weight:bold">环境：</span> 部分座位无电源，有wifi</p>
-<p><span style="font-weight:bold">营业时间：</span> 24小时</p>
-<p><br></br></p>
-<h5 id="清华学堂" tabindex="-1"><a class="header-anchor" href="#清华学堂" aria-hidden="true">#</a> <span style="font-weight:bold">清华学堂</span></h5>
+<p><strong>地点：</strong> C楼</p>
+<p><strong>环境：</strong> 部分座位无电源，有wifi</p>
+<p><strong>营业时间：</strong> 24小时</p>
+<h5 id="清华学堂" tabindex="-1"><a class="header-anchor" href="#清华学堂" aria-hidden="true">#</a> <strong>清华学堂</strong></h5>
 <p><img src="/assets/zixi_4.png" alt="zixi_3"></p>
-<p><span style="font-weight:bold">地点：</span> 大礼堂草坪东侧</p>
-<p><span style="font-weight:bold">环境：</span> 部分座位无电源，有wifi， 有讨论区，需刷卡进入，桌子小</p>
-<p><span style="font-weight:bold">营业时间：</span>7:00 - 23:30</p>
-<p><br></br></p>
-<h5 id="罗姆楼" tabindex="-1"><a class="header-anchor" href="#罗姆楼" aria-hidden="true">#</a> <span style="font-weight:bold">罗姆楼</span></h5>
-<p><span style="font-weight:bold">地点：</span> <a href="https://www.amap.com/place/B0FFFDPDLJ" target="_blank" rel="noopener noreferrer">学校东侧，紧挨围墙<ExternalLinkIcon/></a></p>
-<p><span style="font-weight:bold">备注：</span>地下一层，仅限电子系学生通宵，查学生证。</p>
-<p><span style="font-weight:bold">营业时间：</span>24h</p>
-<br/>
-<hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-6-1</span>
-<br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">自76张广昱</span></div></template>
+<p><strong>地点：</strong> 大礼堂草坪东侧</p>
+<p><strong>环境：</strong> 部分座位无电源，有wifi， 有讨论区，需刷卡进入，桌子小</p>
+<p>**营业时间：**7:00 - 23:30</p>
+<h5 id="罗姆楼" tabindex="-1"><a class="header-anchor" href="#罗姆楼" aria-hidden="true">#</a> <strong>罗姆楼</strong></h5>
+<p><strong>地点：</strong> <a href="https://www.amap.com/place/B0FFFDPDLJ" target="_blank" rel="noopener noreferrer">学校东侧，紧挨围墙<ExternalLinkIcon/></a></p>
+<p>**备注：**地下一层，仅限电子系学生通宵，查学生证。</p>
+<p>**营业时间：**24h</p>
+<hr>
+<p><em>上次修改时间：2024-6-1</em>
+<em>贡献者：自76张广昱</em></p>
+</div></template>
 
 

@@ -16,7 +16,7 @@
 </li>
 </ul>
 <h3 id="听力" tabindex="-1"><a class="header-anchor" href="#听力" aria-hidden="true">#</a> 听力</h3>
-<p>时长约30分钟，播送三段短新闻（每段两道题），一段长对话（四道题目），三段短材料（按3 3 4分配题目），每次读两遍内容一遍题干，<span style="font-weight:bold">试卷上没有题干，需要自行听取</span>
+<p>时长约30分钟，播送三段短新闻（每段两道题），一段长对话（四道题目），三段短材料（按3 3 4分配题目），每次读两遍内容一遍题干，<strong>试卷上没有题干，需要自行听取</strong>
 听力语速整体与高考听力持平，词汇难度亦符合高考正常难度。但由于内容较长，且题目形式诡异，因此如果想获得好成绩建议提前练习。</p>
 <h3 id="阅读" tabindex="-1"><a class="header-anchor" href="#阅读" aria-hidden="true">#</a> 阅读</h3>
 <p>阅读题目难度高于高考，个人认为识读难度略低于雅思（只考过雅思），大致在雅思阅读7.5分左右。</p>
@@ -39,10 +39,9 @@
 <li>个人认为在高中物理范围内，结合一些技巧，是可以完美解决绝大多数乃至所有问题的</li>
 <li>另外关于计算器，我整次考试下来唯一可能有用到的地方是一个三角函数的恒等变换，需要求取arccos。但在使用数学方法后答案是显然的，因此计算器也就可有可无了</li>
 </ul>
-<br/>
-<hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-8-23</span>
-<br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">生42冬天的雨</span></div></template>
+<hr>
+<p><em>上次修改时间：2024-8-23</em>
+<em>贡献者：生42冬天的雨</em></p>
+</div></template>
 
 
