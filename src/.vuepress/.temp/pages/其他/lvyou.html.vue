@@ -88,7 +88,7 @@
 </ul>
 </li>
 </ul>
-<img src="@source/assets/image-20240612124201291.png" alt="image-20240612124201291" style="zoom:50%;" />
+<p><img src="/assets/image-20240612124201291.png" alt="image-20240612124201291"></p>
 </li>
 </ul>
 <h2 id="动物园" tabindex="-1"><a class="header-anchor" href="#动物园" aria-hidden="true">#</a> 动物园</h2>
@@ -108,7 +108,7 @@
 </li>
 <li>
 <p><span style = "font-weight:bold">备注</span>：园内有大熊猫馆，海洋馆，狮虎山，夜行动物馆，两栖爬行馆，羚羊馆，犀牛河马馆</p>
-<img src="@source/assets/image-20240612124547004.png" alt="image-20240612124547004" style="zoom:50%;" />
+<p><img src="/assets/image-20240612124547004.png" alt="image-20240612124547004"></p>
 </li>
 </ul>
 <h3 id="北京野生动物园" tabindex="-1"><a class="header-anchor" href="#北京野生动物园" aria-hidden="true">#</a> 北京野生动物园</h3>
@@ -127,7 +127,7 @@
 </li>
 <li>
 <p><span style = "font-weight:bold">备注</span>：可关注<strong>北京野生动物园</strong>小程序</p>
-<img src="@source/assets/image-20240612124831726.png" alt="image-20240612124831726" style="zoom:50%;" />
+<p><img src="/assets/image-20240612124831726.png" alt="image-20240612124831726"></p>
 </li>
 </ul>
 <h3 id="国家植物园北园" tabindex="-1"><a class="header-anchor" href="#国家植物园北园" aria-hidden="true">#</a> 国家植物园北园</h3>
@@ -143,7 +143,7 @@
 </li>
 <li>
 <p><span style = "font-weight:bold">简介</span>：植物种类繁多，主要参观点是温室展览区，还有众多名胜古迹，是游玩休憩的佳地。</p>
-<img src="@source/assets/image-20240612124907319.png" alt="image-20240612124907319" style="zoom:50%;" />
+<p><img src="/assets/image-20240612124907319.png" alt="image-20240612124907319"></p>
 </li>
 </ul>
 <h2 id="博物馆" tabindex="-1"><a class="header-anchor" href="#博物馆" aria-hidden="true">#</a> 博物馆</h2>
@@ -153,11 +153,11 @@
 <p><span style = "font-weight:bold">开放时间</span>：全天开放</p>
 </li>
 <li>
-<p><span style = "font-weight:bold">票价</span>：<img src="@source/assets/image-20240612125125490.png" alt="image-20240612125125490" style="zoom:25%;" /></p>
+<p><span style = "font-weight:bold">票价</span>：<img src="/assets/image-20240612125125490.png" alt="image-20240612125125490"></p>
 </li>
 <li>
 <p><span style = "font-weight:bold">简介</span>：北京的新地标，文艺青年的聚集地，设计感十足，是年轻人感受文艺气息的妙处。</p>
-<img src="@source/assets/image-20240612125012175.png" alt="image-20240612125012175" style="zoom:50%;" />
+<p><img src="/assets/image-20240612125012175.png" alt="image-20240612125012175"></p>
 </li>
 </ul>
 <h3 id="中国国家博物馆" tabindex="-1"><a class="header-anchor" href="#中国国家博物馆" aria-hidden="true">#</a> 中国国家博物馆</h3>
@@ -179,7 +179,7 @@
 <ul>
 <li>交通:地铁1号线，天安门东站，C出口，跟着博物馆指引走，不要和参观天安门广场的人群一队。</li>
 </ul>
-<img src="@source/assets/image-20240612125427781.png" alt="image-20240612125427781" style="zoom:50%;" />
+<p><img src="/assets/image-20240612125427781.png" alt="image-20240612125427781"></p>
 </li>
 </ul>
 <h2 id="商业街" tabindex="-1"><a class="header-anchor" href="#商业街" aria-hidden="true">#</a> 商业街</h2>
@@ -242,7 +242,7 @@
 <ol start="3">
 <li><strong>安检提示</strong>：淡季时，天安门安检约需排队20分钟。据说旺季时排队时间较长。如果不打算参观天安门，可以尝试打车到东华门，直接到达午门，排队时间较短。</li>
 </ol>
-<img src="@source/assets/image-20240612125613806.png" alt="image-20240612125613806" style="zoom:50%;" />
+<p><img src="/assets/image-20240612125613806.png" alt="image-20240612125613806"></p>
 </li>
 </ul>
 <h3 id="八达岭长城" tabindex="-1"><a class="header-anchor" href="#八达岭长城" aria-hidden="true">#</a> 八达岭长城</h3>
@@ -258,7 +258,7 @@
 </li>
 <li>
 <p><span style = "font-weight:bold">简介</span>：不到长城非好汉，八达岭长城是中外各界人士到北京游览的必到之处。</p>
-<img src="@source/assets/image-20240612130015701.png" alt="image-20240612130015701" style="zoom:50%;" />
+<p><img src="/assets/image-20240612130015701.png" alt="image-20240612130015701"></p>
 </li>
 </ul>
 <h3 id="颐和园" tabindex="-1"><a class="header-anchor" href="#颐和园" aria-hidden="true">#</a> 颐和园</h3>
@@ -292,7 +292,7 @@
 <p>（2）园林很大，建议穿方便走路的鞋子</p>
 <p>（3）天气渐暖，做好防蚊虫、防中暑准备</p>
 <p>（4）提前做好游玩攻略，高效游览，防止迷路</p>
-<img src="@source/assets/image-20240612130358557.png" alt="image-20240612130358557" style="zoom:50%;" />
+<p><img src="/assets/image-20240612130358557.png" alt="image-20240612130358557"></p>
 </li>
 </ul>
 <h3 id="北京奥林匹克公园" tabindex="-1"><a class="header-anchor" href="#北京奥林匹克公园" aria-hidden="true">#</a> 北京奥林匹克公园</h3>
@@ -308,7 +308,7 @@
 </li>
 <li>
 <p><span style = "font-weight:bold">简介</span>：奥运会举办地，北京最大的城市公园，是市民休闲娱乐的首选之一。</p>
-<img src="@source/assets/image-20240612130445888.png" alt="image-20240612130445888" style="zoom:50%;" />
+<p><img src="/assets/image-20240612130445888.png" alt="image-20240612130445888"></p>
 </li>
 </ul>
 <h3 id="天坛公园" tabindex="-1"><a class="header-anchor" href="#天坛公园" aria-hidden="true">#</a> 天坛公园</h3>
@@ -324,7 +324,7 @@
 </li>
 <li>
 <p><span style = "font-weight:bold">简介</span>：世界文化遗产，想象中离天最近的地方。</p>
-<img src="@source/assets/image-20240612130608979.png" alt="image-20240612130608979" style="zoom:50%;" />
+<p><img src="/assets/image-20240612130608979.png" alt="image-20240612130608979"></p>
 </li>
 </ul>
 <h3 id="圆明园遗址公园" tabindex="-1"><a class="header-anchor" href="#圆明园遗址公园" aria-hidden="true">#</a> 圆明园遗址公园</h3>
@@ -340,7 +340,7 @@
 </li>
 <li>
 <p><span style = "font-weight:bold">简介</span>：举世闻名的皇家园林，环境清幽雅静，汇聚了中国古代造园艺术之精华。</p>
-<img src="@source/assets/image-20240612130705217.png" alt="image-20240612130705217" style="zoom:50%;" />
+<p><img src="/assets/image-20240612130705217.png" alt="image-20240612130705217"></p>
 </li>
 </ul>
 <h3 id="香山公园" tabindex="-1"><a class="header-anchor" href="#香山公园" aria-hidden="true">#</a> 香山公园</h3>
@@ -388,7 +388,7 @@
 </li>
 <li>
 <p><span style = "font-weight:bold">备注</span>：可通过想上公园小程序进行线上购票，游园当天直接刷身份证入园</p>
-<img src="@source/assets/image-20240612130808206.png" alt="image-20240612130808206" style="zoom:50%;" />
+<p><img src="/assets/image-20240612130808206.png" alt="image-20240612130808206"></p>
 </li>
 </ul>
 <h3 id="北海公园" tabindex="-1"><a class="header-anchor" href="#北海公园" aria-hidden="true">#</a> 北海公园</h3>
@@ -431,7 +431,7 @@
 </li>
 <li></li>
 </ul>
-<img src="@source/assets/image-20240612131339151.png" alt="image-20240612131339151" style="zoom:50%;" />
+<p><img src="/assets/image-20240612131339151.png" alt="image-20240612131339151"></p>
 </li>
 </ul>
 <h3 id="北京恭王府博物馆" tabindex="-1"><a class="header-anchor" href="#北京恭王府博物馆" aria-hidden="true">#</a> 北京恭王府博物馆</h3>
@@ -467,7 +467,7 @@
 </li>
 <li>
 <p><span style = "font-weight:bold">简介</span>：城市天际线的经典机位，晚霞时分最美。</p>
-<img src="@source/assets/image-20240612131936640.png" alt="image-20240612131936640" style="zoom:50%;" />
+<p><img src="/assets/image-20240612131936640.png" alt="image-20240612131936640"></p>
 </li>
 </ul>
 <h3 id="什刹海" tabindex="-1"><a class="header-anchor" href="#什刹海" aria-hidden="true">#</a> 什刹海</h3>
@@ -483,7 +483,7 @@
 </li>
 <li>
 <p><span style = "font-weight:bold">简介</span>：老北京风貌保存最完好的地方，游乐消夏的好去处。</p>
-<img src="@source/assets/image-20240612132031050.png" alt="image-20240612132031050" style="zoom:50%;" />
+<p><img src="/assets/image-20240612132031050.png" alt="image-20240612132031050"></p>
 </li>
 </ul>
 <h3 id="景山公园" tabindex="-1"><a class="header-anchor" href="#景山公园" aria-hidden="true">#</a> 景山公园</h3>
@@ -499,7 +499,7 @@
 </li>
 <li>
 <p><span style = "font-weight:bold">简介</span>：南北中轴线中心点，南依故宫，西靠北海，北与鼓楼遥遥相望，曾是北京市城中心最高点。</p>
-<img src="@source/assets/image-20240612132004184.png" alt="image-20240612132004184" style="zoom:50%;" />
+<p><img src="/assets/image-20240612132004184.png" alt="image-20240612132004184"></p>
 </li>
 </ul>
 <h3 id="雁栖湖" tabindex="-1"><a class="header-anchor" href="#雁栖湖" aria-hidden="true">#</a> 雁栖湖</h3>
@@ -515,7 +515,7 @@
 </li>
 <li>
 <p><span style = "font-weight:bold">简介</span>：每年春秋大雁栖息，风光旖旎，湖水清澈，是自驾的好去处。</p>
-<img src="@source/assets/image-20240612132054775.png" alt="image-20240612132054775" style="zoom:50%;" />
+<p><img src="/assets/image-20240612132054775.png" alt="image-20240612132054775"></p>
 </li>
 </ul>
 <h3 id="八大处公园" tabindex="-1"><a class="header-anchor" href="#八大处公园" aria-hidden="true">#</a> 八大处公园</h3>
@@ -531,7 +531,7 @@
 </li>
 <li>
 <p><span style = "font-weight:bold">简介</span>：适合周末带家人感受大自然，盘山路平坦好走，景美人少。</p>
-<img src="@source/assets/image-20240612132126993.png" alt="image-20240612132126993" style="zoom:50%;" />
+<p><img src="/assets/image-20240612132126993.png" alt="image-20240612132126993"></p>
 </li>
 </ul>
 <h3 id="红螺寺" tabindex="-1"><a class="header-anchor" href="#红螺寺" aria-hidden="true">#</a> 红螺寺</h3>
@@ -542,7 +542,7 @@
 <li><span style = "font-weight:bold">简介</span>：红螺山前的</li>
 </ul>
 <p>千亩古松林中，形成一幅“碧波藏古刹”的美丽画卷。</p>
-<img src="@source/assets/image-20240612132218792.png" alt="image-20240612132218792" style="zoom:50%;" />
+<p><img src="/assets/image-20240612132218792.png" alt="image-20240612132218792"></p>
 <h3 id="奥林匹克森林公园" tabindex="-1"><a class="header-anchor" href="#奥林匹克森林公园" aria-hidden="true">#</a> 奥林匹克森林公园</h3>
 <ul>
 <li>
@@ -556,7 +556,7 @@
 </li>
 <li>
 <p><span style = "font-weight:bold">简介</span>：亚洲最大城市绿化景观，泛舟湖上，穿行密林，体验地道休闲生活。</p>
-<img src="@source/assets/image-20240612132242064.png" alt="image-20240612132242064" style="zoom:50%;" />
+<p><img src="/assets/image-20240612132242064.png" alt="image-20240612132242064"></p>
 </li>
 </ul>
 <h3 id="世界公园" tabindex="-1"><a class="header-anchor" href="#世界公园" aria-hidden="true">#</a> 世界公园</h3>
@@ -572,7 +572,7 @@
 </li>
 <li>
 <p><span style = "font-weight:bold">简介</span>：世界各国地标建筑浓缩在一个园子里，不出国门，游遍世界。</p>
-<img src="@source/assets/image-20240612132300326.png" alt="image-20240612132300326" style="zoom:50%;" />
+<p><img src="/assets/image-20240612132300326.png" alt="image-20240612132300326"></p>
 </li>
 </ul>
 <h3 id="玉渊潭公园" tabindex="-1"><a class="header-anchor" href="#玉渊潭公园" aria-hidden="true">#</a> 玉渊潭公园</h3>
@@ -601,9 +601,9 @@
 </ul>
 </li>
 <li>
-<img src="@source/assets/image-20240612132325020.png" alt="image-20240612132325020" style="zoom:50%;" />
+<p><img src="/assets/image-20240612132325020.png" alt="image-20240612132325020"></p>
 <p>花，植物很漂亮</p>
-<img src="@source/assets/image-20240612132426832.png" alt="image-20240612132426832" style="zoom:50%;" />
+<p><img src="/assets/image-20240612132426832.png" alt="image-20240612132426832"></p>
 </li>
 </ul>
 <h3 id="南海子公园" tabindex="-1"><a class="header-anchor" href="#南海子公园" aria-hidden="true">#</a> 南海子公园</h3>
@@ -619,7 +619,7 @@
 </li>
 <li>
 <p><span style = "font-weight:bold">简介</span>：北京四大郊野公园之一，亲近自然的好地方。</p>
-<img src="@source/assets/image-20240612132621202.png" alt="image-20240612132621202" style="zoom:50%;" />
+<p><img src="/assets/image-20240612132621202.png" alt="image-20240612132621202"></p>
 </li>
 </ul>
 <h3 id="北京国家森林公园" tabindex="-1"><a class="header-anchor" href="#北京国家森林公园" aria-hidden="true">#</a> 北京国家森林公园</h3>
@@ -642,7 +642,7 @@
 </li>
 <li>
 <p><span style = "font-weight:bold">简介</span>：首都最大的绿肺，户外运动和亲近自然的好去处。</p>
-<img src="@source/assets/image-20240612132800398.png" alt="image-20240612132800398" style="zoom:50%;" />
+<p><img src="/assets/image-20240612132800398.png" alt="image-20240612132800398"></p>
 </li>
 </ul>
 <h3 id="明十三陵景区" tabindex="-1"><a class="header-anchor" href="#明十三陵景区" aria-hidden="true">#</a> 明十三陵景区</h3>
@@ -658,7 +658,7 @@
 </li>
 <li>
 <p><span style = "font-weight:bold">简介</span>：明朝北京13位皇帝陵墓的总称，全国现存规模最大，帝后陵寝最多的皇陵建筑群。</p>
-<img src="@source/assets/image-20240612132820891.png" alt="image-20240612132820891" style="zoom:50%;" />
+<p><img src="/assets/image-20240612132820891.png" alt="image-20240612132820891"></p>
 </li>
 </ul>
 <h3 id="潭拓寺" tabindex="-1"><a class="header-anchor" href="#潭拓寺" aria-hidden="true">#</a> 潭拓寺</h3>
@@ -674,7 +674,7 @@
 </li>
 <li>
 <p><span style = "font-weight:bold">简介</span>：先有潭拓寺，后有北京城，寺内供奉天王佛、菩萨、龙王，寺内繁花盛开，香气袭人。</p>
-<img src="@source/assets/image-20240612132840575.png" alt="image-20240612132840575" style="zoom:50%;" />
+<p><img src="/assets/image-20240612132840575.png" alt="image-20240612132840575"></p>
 </li>
 </ul>
 <h3 id="首钢园" tabindex="-1"><a class="header-anchor" href="#首钢园" aria-hidden="true">#</a> 首钢园</h3>
@@ -690,7 +690,7 @@
 </li>
 <li>
 <p><span style = "font-weight:bold">简介</span>：百年沧桑，见证我国钢铁工业的历史和变迁，也为奥运会做出巨大贡献。</p>
-<img src="@source/assets/image-20240612132909476.png" alt="image-20240612132909476" style="zoom:50%;" />
+<p><img src="/assets/image-20240612132909476.png" alt="image-20240612132909476"></p>
 </li>
 </ul>
 <h3 id="慕田峪长城" tabindex="-1"><a class="header-anchor" href="#慕田峪长城" aria-hidden="true">#</a> 慕田峪长城</h3>
@@ -706,7 +706,7 @@
 </li>
 <li>
 <p><span style = "font-weight:bold">简介</span>：古城墙、苍松、远山、薄雾，犹如一幅历史画卷。</p>
-<img src="@source/assets/image-20240612132930090.png" alt="image-20240612132930090" style="zoom:50%;" />
+<p><img src="/assets/image-20240612132930090.png" alt="image-20240612132930090"></p>
 <br/>
 </li>
 </ul>

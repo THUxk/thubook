@@ -1,5 +1,5 @@
 <template><div><h1 id="srt-项目指南" tabindex="-1"><a class="header-anchor" href="#srt-项目指南" aria-hidden="true">#</a> SRT 项目指南</h1>
-<p>Student Research Training,简称SRT,是大多数本科生参与科研的一种方式。</p>
+<p>Student Research Training，简称SRT，是大多数本科生参与科研的一种方式。</p>
 <p>每学期初会有 SRT 项目的立项与报名，请及时关注 info 以及院系通知群。立项和报名顺序是先学生立项，然后学生报名。SRT 系统在 info-学习栏中，“已立项”代表教师已立项但没有学生报名，“报名中”代表已有学生报名。推荐同学在报名之后（或之前）尽快向老师发邮件沟通。</p>
 <h2 id="srt-系统使用指南" tabindex="-1"><a class="header-anchor" href="#srt-系统使用指南" aria-hidden="true">#</a> SRT 系统使用指南</h2>
 <h3 id="立项申请" tabindex="-1"><a class="header-anchor" href="#立项申请" aria-hidden="true">#</a> 立项申请</h3>
@@ -31,13 +31,7 @@
 <li>学生为参与者时，首页点击“项目结题”，找到需要结题的项目，点击“项目结题”进行个人结题。</li>
 <li>结题后的项目在结题项目页面可以查看，点击“项目结题”查看立项人评语、教师评语、成绩等信息。</li>
 </ol>
-<h3 id="重要时间" tabindex="-1"><a class="header-anchor" href="#重要时间" aria-hidden="true">#</a> 重要时间</h3>
-<ul>
-<li><strong>2022～2023学年秋季学期SRT项目立项时间</strong>：9月13日至9月25日</li>
-<li><strong>学生立项指导教师审核时间</strong>：9月26日至9月28日</li>
-<li><strong>学生报名时间</strong>：10月13日至10月23日</li>
-<li><strong>立项人集中审核学生报名时间</strong>：10月24日至10月28日</li>
-</ul>
+<h3 id="" tabindex="-1"><a class="header-anchor" href="#" aria-hidden="true">#</a> </h3>
 <h3 id="常见问题-faq" tabindex="-1"><a class="header-anchor" href="#常见问题-faq" aria-hidden="true">#</a> 常见问题 (FAQ)</h3>
 <ol>
 <li><strong>教师参与SRT计划立项申请要求</strong>：中级及以上职称的在校教师可申请立项。</li>
@@ -64,6 +58,7 @@
 <hr/>
 <span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-6-13</span>
 <br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">计76林慎吾</span></div></template>
+<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">计76林慎吾</span>
+</div></template>
 
 

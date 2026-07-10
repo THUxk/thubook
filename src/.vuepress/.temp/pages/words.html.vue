@@ -2,7 +2,7 @@
 <h2 id="社工" tabindex="-1"><a class="header-anchor" href="#社工" aria-hidden="true">#</a> 社工</h2>
 <p>社会工作的简称，主要包括参加志愿者，社团活动，学生会，勤工俭学等。主要是服务性质，可以提升人际交往能力。</p>
 <p>可以微信搜索:我在清华做社工，了解更多有关社工的具体情况</p>
-<img src="@source/assets/words_1.jpg" alt="words_1" style="zoom:25%;" />
+<p><img src="/assets/words_1.jpg" alt="words_1"></p>
 <h2 id="科研-实验室-paper" tabindex="-1"><a class="header-anchor" href="#科研-实验室-paper" aria-hidden="true">#</a> 科研，实验室，paper</h2>
 <p>清华大学是研究型大学，科研主要是研究比较前沿，前人未曾探索过的科学技术领域。</p>
 <p>科研的主要地点在实验室，通常由某位教授牵头，若干硕士，博士生为主要成员，附带一些参与科研尝试的本科生组成。</p>

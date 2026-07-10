@@ -2,7 +2,7 @@
 
 ## 同仁堂
 
-<img src="../assets/life_14.jpg" alt="life_14" style="zoom:33%;" />
+![life_14](/assets/life_14.jpg)
 
 <span style="font-weight:bold">地点</span>：照澜院
 

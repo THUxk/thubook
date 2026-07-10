@@ -10,92 +10,92 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center"><img src="@source/assets/gzh_1.jpg" alt="words_1" style="zoom:10%;" /></td>
+<td style="text-align:center"><img src="/assets/gzh_1.jpg" alt="words_1"></td>
 <td style="text-align:center">清华大学</td>
 <td style="text-align:center">官方公众号</td>
 </tr>
 <tr>
-<td style="text-align:center"><img src="@source/assets/gzh_2.jpg" alt="words_2" style="zoom:10%;" /></td>
+<td style="text-align:center"><img src="/assets/gzh_2.jpg" alt="words_2"></td>
 <td style="text-align:center">清华紫荆之声</td>
 <td style="text-align:center">综合类信息发布平台</td>
 </tr>
 <tr>
-<td style="text-align:center"><img src="@source/assets/gzh_3.jpg" alt="words_3" style="zoom:10%;" /></td>
+<td style="text-align:center"><img src="/assets/gzh_3.jpg" alt="words_3"></td>
 <td style="text-align:center">清华大学学生会</td>
 <td style="text-align:center">学生会公众号</td>
 </tr>
 <tr>
-<td style="text-align:center"><img src="@source/assets/gzh_4.jpg" alt="words_4" style="zoom:10%;" /></td>
+<td style="text-align:center"><img src="/assets/gzh_4.jpg" alt="words_4"></td>
 <td style="text-align:center">清华大学社会实践</td>
 <td style="text-align:center">社会实践公众号，会公布许多社会实践组队信息</td>
 </tr>
 <tr>
-<td style="text-align:center"><img src="@source/assets/gzh_5.jpg" alt="words_5" style="zoom:10%;" /></td>
+<td style="text-align:center"><img src="/assets/gzh_5.jpg" alt="words_5"></td>
 <td style="text-align:center">清华大学学生公益</td>
 <td style="text-align:center">会发布一些志愿者，支教招募信息</td>
 </tr>
 <tr>
-<td style="text-align:center"><img src="@source/assets/gzh_6.jpg" alt="words_6" style="zoom:10%;" /></td>
+<td style="text-align:center"><img src="/assets/gzh_6.jpg" alt="words_6"></td>
 <td style="text-align:center">清华大学学生社团</td>
 <td style="text-align:center">社团官号，发布和社团活动有关的各种信息</td>
 </tr>
 <tr>
-<td style="text-align:center"><img src="@source/assets/gzh_7.jpg" alt="words_6" style="zoom:10%;" /></td>
+<td style="text-align:center"><img src="/assets/gzh_7.jpg" alt="words_6"></td>
 <td style="text-align:center">乐学</td>
 <td style="text-align:center">答疑坊公众号，提供一些学业，选课的指导</td>
 </tr>
 <tr>
-<td style="text-align:center"><img src="@source/assets/gzh_8.jpg" alt="words_6" style="zoom:10%;" /></td>
+<td style="text-align:center"><img src="/assets/gzh_8.jpg" alt="words_6"></td>
 <td style="text-align:center">学在清华</td>
 <td style="text-align:center">教务官号，发布一些教务通知</td>
 </tr>
 <tr>
-<td style="text-align:center"><img src="@source/assets/gzh_25.jpg" alt="words_6" style="zoom:10%;" /></td>
+<td style="text-align:center"><img src="/assets/gzh_25.jpg" alt="words_6"></td>
 <td style="text-align:center">清华后勤服务</td>
 <td style="text-align:center">校医院挂号预约常用</td>
 </tr>
 <tr>
-<td style="text-align:center"><img src="@source/assets/gzh_26.jpg" alt="words_6" style="zoom:10%;" /></td>
+<td style="text-align:center"><img src="/assets/gzh_26.jpg" alt="words_6"></td>
 <td style="text-align:center">清华家园网</td>
 <td style="text-align:center">宿舍报修，部分场地预约</td>
 </tr>
 <tr>
-<td style="text-align:center"><img src="@source/assets/gzh_9.jpg" alt="words_6" style="zoom:10%;" /></td>
+<td style="text-align:center"><img src="/assets/gzh_9.jpg" alt="words_6"></td>
 <td style="text-align:center">艾生权</td>
 <td style="text-align:center">综合类通知转发公众号</td>
 </tr>
 <tr>
-<td style="text-align:center"><img src="@source/assets/gzh_10.jpg" alt="words_6" style="zoom:10%;" /></td>
+<td style="text-align:center"><img src="/assets/gzh_10.jpg" alt="words_6"></td>
 <td style="text-align:center">行在清华</td>
 <td style="text-align:center">校内施工，道路，校门开放相关通知</td>
 </tr>
 <tr>
-<td style="text-align:center"><img src="@source/assets/gzh_11.jpg" alt="words_6" style="zoom:10%;" /></td>
+<td style="text-align:center"><img src="/assets/gzh_11.jpg" alt="words_6"></td>
 <td style="text-align:center">食在清华</td>
 <td style="text-align:center">食堂活动通知，包括美食推荐，美食节等</td>
 </tr>
 <tr>
-<td style="text-align:center"><img src="@source/assets/gzh_12.jpg" alt="words_6" style="zoom:10%;" /></td>
+<td style="text-align:center"><img src="/assets/gzh_12.jpg" alt="words_6"></td>
 <td style="text-align:center">文素THU</td>
 <td style="text-align:center">校内最新文素讲座信息</td>
 </tr>
 <tr>
-<td style="text-align:center"><img src="@source/assets/gzh_13.jpg" alt="words_6" style="zoom:10%;" /></td>
+<td style="text-align:center"><img src="/assets/gzh_13.jpg" alt="words_6"></td>
 <td style="text-align:center">清华小五爷园</td>
 <td style="text-align:center">校内新闻评论类公众号，强官方</td>
 </tr>
 <tr>
-<td style="text-align:center"><img src="@source/assets/gzh_14.jpg" alt="words_6" style="zoom:10%;" /></td>
+<td style="text-align:center"><img src="/assets/gzh_14.jpg" alt="words_6"></td>
 <td style="text-align:center">清新时报</td>
 <td style="text-align:center">校内新闻评论类公众号，弱官方</td>
 </tr>
 <tr>
-<td style="text-align:center"><img src="@source/assets/gzh_15.jpg" alt="words_6" style="zoom:10%;" /></td>
+<td style="text-align:center"><img src="/assets/gzh_15.jpg" alt="words_6"></td>
 <td style="text-align:center">柯基服务队</td>
 <td style="text-align:center">科技服务队，电脑出问题了找他免费修</td>
 </tr>
 <tr>
-<td style="text-align:center"><img src="@source/assets/gzh_16.jpg" alt="words_6" style="zoom:10%;" /></td>
+<td style="text-align:center"><img src="/assets/gzh_16.jpg" alt="words_6"></td>
 <td style="text-align:center">水木有礼</td>
 <td style="text-align:center">清华印象线上门店，购买清华文创纪念品</td>
 </tr>
@@ -298,13 +298,13 @@
 </table>
 <h2 id="小程序" tabindex="-1"><a class="header-anchor" href="#小程序" aria-hidden="true">#</a> 小程序</h2>
 <h5 id="水木汇-综合类校内咨询平台-提供活动信息和演出信息及抢票等" tabindex="-1"><a class="header-anchor" href="#水木汇-综合类校内咨询平台-提供活动信息和演出信息及抢票等" aria-hidden="true">#</a> <p style="font-weight:bold">水木汇：综合类校内咨询平台，提供活动信息和演出信息及抢票等</p></h5>
-<img src="@source/assets/gzh_24.jpg" alt="gzh_24" style="zoom:33%;" />
+<p><img src="/assets/gzh_24.jpg" alt="gzh_24"></p>
 <p><br></br></p>
 <h5 id="清华校园巴士-校巴专用小程序" tabindex="-1"><a class="header-anchor" href="#清华校园巴士-校巴专用小程序" aria-hidden="true">#</a> <p style="font-weight:bold">清华校园巴士：校巴专用小程序</p></h5>
-<img src="@source/assets/gzh_23.jpg" alt="gzh_23" style="zoom:33%;" />
+<p><img src="/assets/gzh_23.jpg" alt="gzh_23"></p>
 <p><br></br></p>
 <h5 id="掌上艺教-校内琴房-舞蹈房预约" tabindex="-1"><a class="header-anchor" href="#掌上艺教-校内琴房-舞蹈房预约" aria-hidden="true">#</a> <p style="font-weight:bold">掌上艺教：校内琴房，舞蹈房预约</p></h5>
-<img src="@source/assets/gzh_22.jpg" alt="gzh_22" style="zoom:33%;" />
+<p><img src="/assets/gzh_22.jpg" alt="gzh_22"></p>
 </div></template>
 
 

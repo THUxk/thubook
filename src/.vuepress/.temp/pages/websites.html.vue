@@ -86,29 +86,29 @@
 <h3 id="thu选课社区" tabindex="-1"><a class="header-anchor" href="#thu选课社区" aria-hidden="true">#</a> <a href="https://yourschool.cc.cd/thucourse" target="_blank" rel="noopener noreferrer">THU选课社区<ExternalLinkIcon/></a></h3>
 <p>清华课程评测网站</p>
 <p>网址：https://yourschool.cc.cd/thucourse</p>
-<img src="@source/assets/wb7.png" alt="wb7" style="zoom:20%;" />
-<img src="@source/assets/wb8.jpg" alt="wb8" style="zoom:33%;" />
+<p><img src="/assets/wb7.png" alt="wb7"></p>
+<p><img src="/assets/wb8.jpg" alt="wb8"></p>
 <h3 id="清华ppt模版-简约风" tabindex="-1"><a class="header-anchor" href="#清华ppt模版-简约风" aria-hidden="true">#</a> <a href="https://github.com/atomiechen/THU-PPT-Theme.git" target="_blank" rel="noopener noreferrer">清华ppt模版-简约风<ExternalLinkIcon/></a></h3>
 <p>网址：https://github.com/atomiechen/THU-PPT-Theme.git</p>
-<img src="@source/assets/wb6.png" alt="wb6" style="zoom: 33%;" />
+<p><img src="/assets/wb6.png" alt="wb6"></p>
 <p><br></br></p>
 <h3 id="清华ppt模版-华丽风" tabindex="-1"><a class="header-anchor" href="#清华ppt模版-华丽风" aria-hidden="true">#</a> <a href="https://cloud.tsinghua.edu.cn/d/25423ab283214a0a9ac8/" target="_blank" rel="noopener noreferrer">清华ppt模版-华丽风<ExternalLinkIcon/></a></h3>
 <p>由研究生会<span style = "font-weight:bold">学术之路工作室</span>定制的10套ppt模版。</p>
 <p>网址：https://cloud.tsinghua.edu.cn/d/25423ab283214a0a9ac8/</p>
-<img src="@source/assets/wb6.jpg" alt="wb6" style="zoom:50%;" />
+<p><img src="/assets/wb6.jpg" alt="wb6"></p>
 <p>注：清华ppt模版被很多<span style="font-weight:bold">无良营销号</span>(如 <span style="font-weight:bold">某某助手，某某小助手，某某小喇叭，某某大喇叭，云上*友圈</span>之流)拿去做转发推广引流，并在里面贴上了他们的营销二维码，请大家自觉抵制这种无良低劣账号，团体，平台。</p>
 <p><br></br></p>
 <h3 id="thuinfo" tabindex="-1"><a class="header-anchor" href="#thuinfo" aria-hidden="true">#</a> <a href="https://github.com/thu-info-community/thu-info-app" target="_blank" rel="noopener noreferrer">thuinfo<ExternalLinkIcon/></a></h3>
 <p>info的app版，封装了许多info的实用功能</p>
-<img src="@source/assets/websites_1.webp" alt="wb1" style="zoom:45%;" />
+<p><img src="/assets/websites_1.webp" alt="wb1"></p>
 <p><br></br></p>
 <h3 id="learnx" tabindex="-1"><a class="header-anchor" href="#learnx" aria-hidden="true">#</a> <a href="https://github.com/robertying/learnX" target="_blank" rel="noopener noreferrer">learnx<ExternalLinkIcon/></a></h3>
 <p>网络学堂的app版。</p>
-<img src="@source/assets/websites_2.png" alt="wb2" style="zoom:45%;" />
+<p><img src="/assets/websites_2.png" alt="wb2"></p>
 <p><br></br></p>
 <h3 id="coursex" tabindex="-1"><a class="header-anchor" href="#coursex" aria-hidden="true">#</a> <a href="https://tsinghua.app/courses" target="_blank" rel="noopener noreferrer">coursex<ExternalLinkIcon/></a></h3>
 <p>清华大学课程共享计划，可以用来查询某门课，某位老师的开课信息</p>
-<img src="@source/assets/websites_3.png" alt="wb3" style="zoom:45%;" />
+<p><img src="/assets/websites_3.png" alt="wb3"></p>
 <p><br></br></p>
 <h3 id="毕业论文latex模版" tabindex="-1"><a class="header-anchor" href="#毕业论文latex模版" aria-hidden="true">#</a> <a href="https://github.com/tuna/thuthesis" target="_blank" rel="noopener noreferrer">毕业论文latex模版<ExternalLinkIcon/></a></h3>
 <p>网址：<a href="https://github.com/tuna/thuthesis" target="_blank" rel="noopener noreferrer">https://github.com/tuna/thuthesis<ExternalLinkIcon/></a></p>

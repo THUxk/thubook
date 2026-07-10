@@ -9,14 +9,14 @@
 <h3 id="紫荆14号楼北快递点" tabindex="-1"><a class="header-anchor" href="#紫荆14号楼北快递点" aria-hidden="true">#</a> 紫荆14号楼北快递点</h3>
 <p><span style="font-weight:bold">地点</span>：<a href="https://www.amap.com/place/B0FFFEFJFH" target="_blank" rel="noopener noreferrer">紫荆学生公寓14号楼北侧<ExternalLinkIcon/></a></p>
 <p>分为快递驿站和东侧（面对驿站右手边）小树林后的快递柜两部分，具体位置如下：</p>
-<img src="@source/assets/image-20240529184300610.png" alt="image-20240529184300610" style="zoom:33%;" />
+<p><img src="/assets/image-20240529184300610.png" alt="image-20240529184300610"></p>
 <h3 id="紫荆篮球场东快递点" tabindex="-1"><a class="header-anchor" href="#紫荆篮球场东快递点" aria-hidden="true">#</a> 紫荆篮球场东快递点</h3>
 <p><span style="font-weight:bold">地点</span>：<a href="https://www.amap.com/place/B0FFFW4WTN" target="_blank" rel="noopener noreferrer">紫荆篮球场东侧（紫荆操场背对C楼时面向的方向）<ExternalLinkIcon/></a></p>
 <p>只有快递柜，具体位置如下：</p>
-<img src="@source/assets/image-20240529184334462.png" alt="image-20240529184334462" style="zoom:33%;" />
+<p><img src="/assets/image-20240529184334462.png" alt="image-20240529184334462"></p>
 <h3 id="老23号楼南快递点-小桥快递点" tabindex="-1"><a class="header-anchor" href="#老23号楼南快递点-小桥快递点" aria-hidden="true">#</a> 老23号楼南快递点（小桥快递点）</h3>
 <p><span style="font-weight:bold">地点</span>：<a href="https://www.amap.com/place/B000A96G11" target="_blank" rel="noopener noreferrer">位学生公寓23号楼南侧<ExternalLinkIcon/></a>，丁香园食堂西侧（面向丁香园入口左手），远离学堂路方向的小桥东。听涛园食堂西侧（面向听涛园正门左手），路北走（面向听涛园正门左转不过桥，沿河边路右转即可）。此处仅有快递柜。具体位置如下：</p>
-<img src="@source/assets/image-20240529184529941.png" alt="image-20240529184529941" style="zoom:33%;" />
+<p><img src="/assets/image-20240529184529941.png" alt="image-20240529184529941"></p>
 <h2 id="快递与搬运信息" tabindex="-1"><a class="header-anchor" href="#快递与搬运信息" aria-hidden="true">#</a> 快递与搬运信息</h2>
 <h3 id="校外宿舍快递" tabindex="-1"><a class="header-anchor" href="#校外宿舍快递" aria-hidden="true">#</a> 校外宿舍快递</h3>
 <ul>
@@ -57,7 +57,7 @@
 </tbody>
 </table>
 <p>经规范后的快递自提点与快递服务站的名称如下：紫荆快递自提点、荷清快递自提点、小桥快递自提点、学生区快递服务站、小桥快递服务站</p>
-<p><img src="@source/assets/image-20240529194810750.png" alt="image-20240529194810750"></p>
+<p><img src="/assets/image-20240529194810750.png" alt="image-20240529194810750"></p>
 <br/>
 <hr/>
 <span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-6-1</span>

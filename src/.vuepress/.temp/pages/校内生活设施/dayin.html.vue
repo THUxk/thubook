@@ -28,7 +28,7 @@
 <span style="font-weight:bold">营业时间</span>：早8:00 - 晚10:30（周末会迟一些开门）<br>
 <span style="font-weight:bold">介绍</span>：18911586107</p>
 <h2 id="鹏起快印" tabindex="-1"><a class="header-anchor" href="#鹏起快印" aria-hidden="true">#</a> 鹏起快印</h2>
-<img src="@source/assets/life_15.jpg" alt="life_15" style="zoom:33%;" />
+<p><img src="/assets/life_15.jpg" alt="life_15"></p>
 <p><span style="font-weight:bold">地点</span>：C楼一层115室（进门右转最内侧）<br>
 <span style="font-weight:bold">营业时间</span>：早8:30 - 晚9:00<br>
 <span style="font-weight:bold">介绍</span>：13651208439</p>
@@ -37,17 +37,17 @@
 <span style="font-weight:bold">营业时间</span>：早10:00 - 晚9:00<br>
 <span style="font-weight:bold">介绍</span>：正常营业</p>
 <h2 id="文鼎文博文印中心" tabindex="-1"><a class="header-anchor" href="#文鼎文博文印中心" aria-hidden="true">#</a> 文鼎文博文印中心</h2>
-<img src="@source/assets/life_16.jpg" alt="life_16" style="zoom:33%;" />
+<p><img src="/assets/life_16.jpg" alt="life_16"></p>
 <p><span style="font-weight:bold">地点</span>：清芬地下进门直走最内侧，目前可从职业发展中心进入<br>
 <span style="font-weight:bold">营业时间</span>：早8:00 - 晚10:00<br>
 <span style="font-weight:bold">介绍</span>：62796803</p>
 <h2 id="京鹏图文" tabindex="-1"><a class="header-anchor" href="#京鹏图文" aria-hidden="true">#</a> 京鹏图文</h2>
-<img src="@source/assets/life_17.jpg" alt="life_17" style="zoom:33%;" />
+<p><img src="/assets/life_17.jpg" alt="life_17"></p>
 <p><span style="font-weight:bold">地点</span>：南区七号楼楼下<br>
 <span style="font-weight:bold">营业时间</span>：早8:00 - 晚10:30<br>
 <span style="font-weight:bold">介绍</span>：15811055206</p>
 <h2 id="恒信数码快印" tabindex="-1"><a class="header-anchor" href="#恒信数码快印" aria-hidden="true">#</a> 恒信数码快印</h2>
-<img src="@source/assets/life_18.jpg" alt="life_18" style="zoom:33%;" />
+<p><img src="/assets/life_18.jpg" alt="life_18"></p>
 <p><span style="font-weight:bold">地点</span>：独峰书院楼下<br>
 <span style="font-weight:bold">营业时间</span>：早8:30 - 晚10:00<br>
 <span style="font-weight:bold">介绍</span>：13718079987</p>

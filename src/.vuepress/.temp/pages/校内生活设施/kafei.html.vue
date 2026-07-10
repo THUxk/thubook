@@ -3,38 +3,42 @@
 <p><span style="font-weight:bold">地点</span>：观畴园南侧，社会科学学院北侧<br>
 <span style="font-weight:bold">营业时间</span>：10:30 - 21:00<br>
 <span style="font-weight:bold">介绍</span>：类似于西餐厅，有汉堡，咖啡，也有意面之类</p>
-<h2 id="独峰书院" tabindex="-1"><a class="header-anchor" href="#独峰书院" aria-hidden="true">#</a> 独峰书院</h2>
-<img src="@source/assets/life_7.jpg" alt="life_7" style="zoom:50%;" />
+<h2 id="肯悦咖啡" tabindex="-1"><a class="header-anchor" href="#肯悦咖啡" aria-hidden="true">#</a> 肯悦咖啡</h2>
+<p><img src="/assets/life_7.jpg" alt="life_7"></p>
 <p><span style="font-weight:bold">地点</span>：清西文化长廊，观畴园向东步行1分钟<br>
-<span style="font-weight:bold">营业时间</span>：9:30 - 24:00<br>
-<span style="font-weight:bold">介绍</span>：顶流书院（雾）</p>
+<span style="font-weight:bold">营业时间</span>：7:00 - 23:00<br>
+<span style="font-weight:bold">介绍</span>：咖啡、蛋挞、帕尼尼</p>
+<h2 id="蜜雪冰城" tabindex="-1"><a class="header-anchor" href="#蜜雪冰城" aria-hidden="true">#</a> 蜜雪冰城</h2>
+<p><span style="font-weight:bold">地点</span>：观畴地下</p>
+<p><span style="font-weight:bold">营业时间</span>：10:00 - 20:00</p>
+<p><span style="font-weight:bold">介绍</span>：奶茶</p>
 <h2 id="紫荆书咖" tabindex="-1"><a class="header-anchor" href="#紫荆书咖" aria-hidden="true">#</a> 紫荆书咖</h2>
-<img src="@source/assets/life_8.jpg" alt="life_8" style="zoom: 33%;" />
+<p><img src="/assets/life_8.jpg" alt="life_8"></p>
 <p><span style="font-weight:bold">地点</span>：观畴园地下一层，下楼右转即可见<br>
 <span style="font-weight:bold">营业时间</span>：9:00 - 次日2:00（节假日适当调整）<br>
 <span style="font-weight:bold">介绍</span>：咖啡饮品，图书文创</p>
-<h2 id="安家小厨" tabindex="-1"><a class="header-anchor" href="#安家小厨" aria-hidden="true">#</a> 安家小厨</h2>
-<img src="@source/assets/life_2.jpg" alt="life_2" style="zoom: 33%;" />
-<p><span style="font-weight:bold">地点</span>：文图正下方，座位有大约20个，每日面包在群中接龙<br>
-<span style="font-weight:bold">营业时间</span>：8:00 - 19:00</p>
-<p><span style="font-weight:bold">介绍</span>：面包不错</p>
+<h2 id="拉瓦萨咖啡-lavazza" tabindex="-1"><a class="header-anchor" href="#拉瓦萨咖啡-lavazza" aria-hidden="true">#</a> 拉瓦萨咖啡（Lavazza）</h2>
+<p><img src="/assets/life_2.jpg" alt="life_2"></p>
+<p><span style="font-weight:bold">地点</span>：文图正下方<br>
+<span style="font-weight:bold">营业时间</span>：7:30 - 22:00</p>
+<p><span style="font-weight:bold">介绍</span>：咖啡、三明治、冰淇淋、pizza等，主要是面包甜品简餐</p>
 <h2 id="邺架轩" tabindex="-1"><a class="header-anchor" href="#邺架轩" aria-hidden="true">#</a> 邺架轩</h2>
-<img src="@source/assets/life_9.jpg" alt="life_9" style="zoom: 33%;" />
+<p><img src="/assets/life_9.jpg" alt="life_9"></p>
 <p><span style="font-weight:bold">地点</span>：北馆(李文正馆)下沉广场<br>
 <span style="font-weight:bold">营业时间</span>：24h营业<br>
 <span style="font-weight:bold">介绍</span>：刷夜首选地</p>
 <h2 id="拾年咖啡" tabindex="-1"><a class="header-anchor" href="#拾年咖啡" aria-hidden="true">#</a> 拾年咖啡</h2>
-<img src="@source/assets/life_6.jpg" alt="life_6" style="zoom:50%;" />
+<p><img src="/assets/life_6.jpg" alt="life_6"></p>
 <p><span style="font-weight:bold">地点</span>：学堂路与清华路的十字路口的西南边，在树林中<br>
 <span style="font-weight:bold">营业时间</span>：8:00 - 24:00<br>
 <span style="font-weight:bold">介绍</span>：咖啡，甜品</p>
 <h2 id="蒙楼咖啡" tabindex="-1"><a class="header-anchor" href="#蒙楼咖啡" aria-hidden="true">#</a> 蒙楼咖啡</h2>
-<img src="@source/assets/life_3.jpg" alt="life_3" style="zoom:50%;" />
+<p><img src="/assets/life_3.jpg" alt="life_3"></p>
 <p><span style="font-weight:bold">地点</span>：西操旁蒙民伟楼内部，进门偏左直走可见<br>
 <span style="font-weight:bold">营业时间</span>：9:00 - 20:00<br>
 <span style="font-weight:bold">介绍</span>：咖啡和一些甜品</p>
 <h2 id="天投咖啡" tabindex="-1"><a class="header-anchor" href="#天投咖啡" aria-hidden="true">#</a> 天投咖啡</h2>
-<img src="@source/assets/life_5.jpg" alt="life_5" style="zoom:50%;" />
+<p><img src="/assets/life_5.jpg" alt="life_5"></p>
 <p><span style="font-weight:bold">地点</span>：李兆基科技大楼内部西北角，从大楼外部西北角可以看见名字，从西北侧“清华大学iCenter”处进门右转即可<br>
 <span style="font-weight:bold">营业时间</span>：7:30 - 20:30(工作日) 9:30 - 20:30（节假日）<br>
 <span style="font-weight:bold">介绍</span>：咖啡很正宗</p>
@@ -43,39 +47,79 @@
 <span style="font-weight:bold">营业时间</span>：7:30 - 19:00(工作日) 8:30 - 17:30（节假日）<br>
 <span style="font-weight:bold">介绍</span>：正常营业</p>
 <h2 id="泊星地咖啡" tabindex="-1"><a class="header-anchor" href="#泊星地咖啡" aria-hidden="true">#</a> 泊星地咖啡</h2>
-<img src="@source/assets/life_13.jpg" alt="life_13" style="zoom:33%;" />
+<p><img src="/assets/life_13.jpg" alt="life_13"></p>
 <p><span style="font-weight:bold">地点</span>：经管学院伟伦楼，进门可见<br>
 <span style="font-weight:bold">营业时间</span>：7:00 - 19:00（工作日） 9:00 - 18:00（节假日）<br>
 <span style="font-weight:bold">介绍</span>：奶茶，果茶，咖啡，价格美丽</p>
 <h2 id="新咖啡" tabindex="-1"><a class="header-anchor" href="#新咖啡" aria-hidden="true">#</a> 新咖啡</h2>
-<img src="@source/assets/life_4.jpg" alt="life_4" style="zoom:50%;" />
+<p><img src="/assets/life_4.jpg" alt="life_4"></p>
 <p><span style="font-weight:bold">地点</span>：南十楼下教材中心内<br>
 <span style="font-weight:bold">营业时间</span>：8:00 - 22:00<br>
 <span style="font-weight:bold">介绍</span>：咖啡，甜品，教材，文具</p>
 <h2 id="蒙楼咖啡-新清华学堂" tabindex="-1"><a class="header-anchor" href="#蒙楼咖啡-新清华学堂" aria-hidden="true">#</a> 蒙楼咖啡(新清华学堂)</h2>
-<img src="@source/assets/life_12.jpg" alt="life_12" style="zoom: 25%;" />
+<p><img src="/assets/life_12.jpg" alt="life_12"></p>
 <p><span style="font-weight:bold">地点</span>：新清华学堂负一楼下沉广场<br>
 <span style="font-weight:bold">营业时间</span>：9:00 - 20:00<br>
 <span style="font-weight:bold">介绍</span>：正常营业</p>
 <h2 id="_1911咖啡" tabindex="-1"><a class="header-anchor" href="#_1911咖啡" aria-hidden="true">#</a> 1911咖啡</h2>
-<img src="@source/assets/life_10.jpg" alt="life_10" style="zoom: 33%;" />
+<p><img src="/assets/life_10.jpg" alt="life_10"></p>
 <p><span style="font-weight:bold">地点</span>：艺术博物馆1楼<br>
 <span style="font-weight:bold">营业时间</span>：8:30 - 21:00<br>
 <span style="font-weight:bold">介绍</span>：正常营业</p>
 <h2 id="七港九" tabindex="-1"><a class="header-anchor" href="#七港九" aria-hidden="true">#</a> 七港九</h2>
-<img src="@source/assets/life_1.jpg" alt="life_1" style="zoom: 33%;" />
+<p><img src="/assets/life_1.jpg" alt="life_1"></p>
 <p><span style="font-weight:bold">地点</span>：南区7号楼楼下</p>
 <p><span style="font-weight:bold">营业时间</span>：10:00 - 23:00</p>
 <p><span style="font-weight:bold">介绍</span>：好喝的奶茶，水果茶</p>
-<h2 id="厝内小眷村" tabindex="-1"><a class="header-anchor" href="#厝内小眷村" aria-hidden="true">#</a> 厝内小眷村</h2>
-<img src="@source/assets/life_11.jpg" alt="life_11" style="zoom:33%;" />
+<h2 id="蜜雪冰城-1" tabindex="-1"><a class="header-anchor" href="#蜜雪冰城-1" aria-hidden="true">#</a> 蜜雪冰城</h2>
 <p><span style="font-weight:bold">地点</span>：C楼负一</p>
-<p><span style="font-weight:bold">营业时间</span>：10:00 - 20:00</p>
+<p><span style="font-weight:bold">营业时间</span>：11:00 - 21:30</p>
 <p><span style="font-weight:bold">介绍</span>：奶茶</p>
+<h2 id="库迪咖啡" tabindex="-1"><a class="header-anchor" href="#库迪咖啡" aria-hidden="true">#</a> 库迪咖啡</h2>
+<p><span style="font-weight:bold">地点</span>：C楼负一</p>
+<p><span style="font-weight:bold">营业时间</span>：08:00 - 20:00</p>
+<p><span style="font-weight:bold">介绍</span>：咖啡</p>
+<h2 id="瑞幸咖啡" tabindex="-1"><a class="header-anchor" href="#瑞幸咖啡" aria-hidden="true">#</a> 瑞幸咖啡</h2>
+<p><span style="font-weight:bold">地点</span>：清芬1F</p>
+<p><span style="font-weight:bold">营业时间</span>：07:00 - 20:00</p>
+<p><span style="font-weight:bold">介绍</span>：咖啡</p>
+<h2 id="瑞幸咖啡-1" tabindex="-1"><a class="header-anchor" href="#瑞幸咖啡-1" aria-hidden="true">#</a> 瑞幸咖啡</h2>
+<p><span style="font-weight:bold">地点</span>：北体育馆1F</p>
+<p><span style="font-weight:bold">营业时间</span>：08:00 - 20:00</p>
+<p><span style="font-weight:bold">介绍</span>：咖啡</p>
+<h2 id="瑞幸咖啡-2" tabindex="-1"><a class="header-anchor" href="#瑞幸咖啡-2" aria-hidden="true">#</a> 瑞幸咖啡</h2>
+<p><span style="font-weight:bold">地点</span>：公共管理学院1F</p>
+<p><span style="font-weight:bold">营业时间</span>：08:00 - 19:30</p>
+<p><span style="font-weight:bold">介绍</span>：咖啡</p>
+<h2 id="tims天好咖啡" tabindex="-1"><a class="header-anchor" href="#tims天好咖啡" aria-hidden="true">#</a> tims天好咖啡</h2>
+<p><span style="font-weight:bold">地点</span>：北体育馆1M层</p>
+<p><span style="font-weight:bold">营业时间</span>：07:00 - 21:00</p>
+<p><span style="font-weight:bold">介绍</span>：咖啡、面包</p>
+<h2 id="星巴克" tabindex="-1"><a class="header-anchor" href="#星巴克" aria-hidden="true">#</a> 星巴克</h2>
+<p><span style="font-weight:bold">地点</span>：李文正馆靠近情人坡一侧</p>
+<p><span style="font-weight:bold">营业时间</span>：06:30 - 22:00</p>
+<p><span style="font-weight:bold">介绍</span>：咖啡</p>
+<h2 id="mini-co小咖咖啡" tabindex="-1"><a class="header-anchor" href="#mini-co小咖咖啡" aria-hidden="true">#</a> mini-co小咖咖啡</h2>
+<p><span style="font-weight:bold">地点</span>：清芬1F</p>
+<p><span style="font-weight:bold">营业时间</span>：08:30 - 19:00</p>
+<p><span style="font-weight:bold">介绍</span>：咖啡</p>
+<h2 id="霸王茶姬" tabindex="-1"><a class="header-anchor" href="#霸王茶姬" aria-hidden="true">#</a> 霸王茶姬</h2>
+<p><span style="font-weight:bold">地点</span>：澜园北侧</p>
+<p><span style="font-weight:bold">营业时间</span>：07:00 - 21:30</p>
+<p><span style="font-weight:bold">介绍</span>：咖啡</p>
+<h2 id="艺博咖啡" tabindex="-1"><a class="header-anchor" href="#艺博咖啡" aria-hidden="true">#</a> 艺博咖啡</h2>
+<p><span style="font-weight:bold">地点</span>：艺术博物馆1F正门左侧</p>
+<p><span style="font-weight:bold">营业时间</span>：每周二至周日09:00 - 17:00</p>
+<p><span style="font-weight:bold">介绍</span>：咖啡、小吃</p>
+<h2 id="美院咖啡" tabindex="-1"><a class="header-anchor" href="#美院咖啡" aria-hidden="true">#</a> 美院咖啡</h2>
+<p><span style="font-weight:bold">地点</span>：美院B座2F</p>
+<p><span style="font-weight:bold">营业时间</span>：工作日07:00 - 19:00、节假日9：00-18：00</p>
+<p><span style="font-weight:bold">介绍</span>：咖啡</p>
 <br/>
 <hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-6-1</span>
+<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2026-7-10</span>
 <br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">计76林慎吾</span></div></template>
+<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">计76林慎吾、至善51黄丽洁</span>
+</div></template>
 
 

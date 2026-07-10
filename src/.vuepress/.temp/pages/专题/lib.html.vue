@@ -1,37 +1,37 @@
 <template><div><h1 id="图书馆介绍" tabindex="-1"><a class="header-anchor" href="#图书馆介绍" aria-hidden="true">#</a> 图书馆介绍</h1>
 <p>图书馆由图书馆总馆（老馆与西馆、北馆） ，文科、美术、金融、法律、经管、建筑等六个专业图书馆和若干院系资料室组成</p>
 <h2 id="北馆" tabindex="-1"><a class="header-anchor" href="#北馆" aria-hidden="true">#</a> 北馆</h2>
-<p><img src="@source/assets/lib_3.jpg" alt="lib_3"></p>
+<p><img src="/assets/lib_3.jpg" alt="lib_3"></p>
 <p><span style="font-weight:bold">全称：</span>李文正馆</p>
 <p><span style="font-weight:bold">位置：</span><a href="https://surl.amap.com/15dQ4SwZ2Sb" target="_blank" rel="noopener noreferrer">李文正馆位置<ExternalLinkIcon/></a></p>
 <p><span style="font-weight:bold">介绍：</span>由著名华人金融家、实业家、印尼力宝集团董事局主席李文正先生捐资建设，由中国工程院院士、著名建筑设计师、清华大学教授关肇邺先生领衔设计，于2016年年初落成。</p>
 <p><span style="font-weight:bold">功能：</span>大量自习位置，长桌宽凳，环境舒适。各种中文社科类图书借阅。</p>
 <h2 id="西馆" tabindex="-1"><a class="header-anchor" href="#西馆" aria-hidden="true">#</a> 西馆</h2>
-<p><img src="@source/assets/lib_1.jpg" alt="lib_1"></p>
+<p><img src="/assets/lib_1.jpg" alt="lib_1"></p>
 <p><span style="font-weight:bold">全称：</span>逸夫馆</p>
 <p><span style="font-weight:bold">位置：</span><a href="https://surl.amap.com/hXtA4kEZ9b5" target="_blank" rel="noopener noreferrer">逸夫馆位置<ExternalLinkIcon/></a></p>
 <p><span style="font-weight:bold">介绍：</span>由清华校友、建筑学院教授关肇邺设计，于1991年9月建成。香港实业家邵逸夫先生捐资，国家教委拨款兴建，建筑面积约２万平方米。</p>
 <p><span style="font-weight:bold">功能：</span>借阅各种理工科专业书籍，包括习题集等。</p>
 <h2 id="老馆" tabindex="-1"><a class="header-anchor" href="#老馆" aria-hidden="true">#</a> 老馆</h2>
-<p><img src="@source/assets/lib_2.jpg" alt="lib_2"></p>
+<p><img src="/assets/lib_2.jpg" alt="lib_2"></p>
 <p><span style="font-weight:bold">全称：</span>老馆</p>
 <p><span style="font-weight:bold">位置：</span><a href="https://surl.amap.com/icdVazSA3Qi" target="_blank" rel="noopener noreferrer">老馆位置<ExternalLinkIcon/></a></p>
 <p><span style="font-weight:bold">介绍：</span>1916年由美国建筑师亨利•墨菲设计，1919年春落成，建筑面积2114 平方米。一期建筑和大礼堂、科学馆、西体育馆并称<strong>清华园早期“四大建筑”</strong>。</p>
 <p><span style="font-weight:bold">功能：</span>目前主要为自习室。周边环境不错。</p>
 <h2 id="文图" tabindex="-1"><a class="header-anchor" href="#文图" aria-hidden="true">#</a> 文图</h2>
-<p><img src="@source/assets/lib_7.webp" alt="lib_4"></p>
+<p><img src="/assets/lib_7.webp" alt="lib_4"></p>
 <p><span style="font-weight:bold">全称：</span>人文社科图书馆</p>
 <p><span style="font-weight:bold">位置：</span><a href="https://surl.amap.com/ipiSChqyaci" target="_blank" rel="noopener noreferrer">文图位置<ExternalLinkIcon/></a></p>
 <p><span style="font-weight:bold">介绍：</span>由瑞士著名建筑师马里奥·博塔和中国建筑科学研究院联合设计，于2011年4月百年校庆期间正式落成并投入运行</p>
 <p><span style="font-weight:bold">功能：</span>自习室，独立小位置，私密性教好。借阅各种人文社科类书籍</p>
 <h2 id="法图" tabindex="-1"><a class="header-anchor" href="#法图" aria-hidden="true">#</a> 法图</h2>
-<p><img src="@source/assets/lib_5.jpg" alt="lib_5"></p>
+<p><img src="/assets/lib_5.jpg" alt="lib_5"></p>
 <p><span style="font-weight:bold">全称：</span>清华大学法律图书馆</p>
 <p><span style="font-weight:bold">位置：</span><a href="https://surl.amap.com/iTyd3bOH4OT" target="_blank" rel="noopener noreferrer">法图位置<ExternalLinkIcon/></a></p>
 <p><span style="font-weight:bold">介绍：</span>1999年12月，位于明理楼的法律图书馆正式启用，法律图书馆建筑面积为10,000平方米，包括二至五楼层的整体开放空间和闭架的地下书库。</p>
 <p><span style="font-weight:bold">功能：</span>团建教室申请，自习。</p>
 <h2 id="经管图书馆" tabindex="-1"><a class="header-anchor" href="#经管图书馆" aria-hidden="true">#</a> 经管图书馆</h2>
-<p><img src="@source/assets/lib_6.jpg" alt="lib_6"></p>
+<p><img src="/assets/lib_6.jpg" alt="lib_6"></p>
 <p><span style="font-weight:bold">全称：</span>清华大学经管图书馆</p>
 <p><span style="font-weight:bold">位置：</span><a href="https://surl.amap.com/dm13H6IbfrZ" target="_blank" rel="noopener noreferrer">建华楼<ExternalLinkIcon/></a></p>
 <p><span style="font-weight:bold">介绍：</span>经管图书馆成立于 1985 年，主要为经管学院师生提供服务，同时也为清华大学其他院系读者提供服务。</p>
@@ -90,7 +90,7 @@
 </tbody>
 </table>
 <p><span style="font-weight:bold">续借流程</span></p>
-<p><img src="@source/assets/lib_1.png" alt="lib_1"></p>
+<p><img src="/assets/lib_1.png" alt="lib_1"></p>
 <h2 id="过期与赔偿" tabindex="-1"><a class="header-anchor" href="#过期与赔偿" aria-hidden="true">#</a> 过期与赔偿</h2>
 <p><span style="font-weight:bold">过期</span></p>
 <table>

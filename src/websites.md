@@ -174,9 +174,9 @@
 
 网址：https://yourschool.cc.cd/thucourse
 
-<img src="./assets/wb7.png" alt="wb7" style="zoom:20%;" />
+![wb7](/assets/wb7.png)
 
-<img src="./assets/wb8.jpg" alt="wb8" style="zoom:33%;" />
+![wb8](/assets/wb8.jpg)
 
 
 
@@ -185,7 +185,7 @@
 
 网址：https://github.com/atomiechen/THU-PPT-Theme.git
 
-<img src="./assets/wb6.png" alt="wb6" style="zoom: 33%;" />
+![wb6](/assets/wb6.png)
 
 
 <br></br>
@@ -197,7 +197,7 @@
 
 网址：https://cloud.tsinghua.edu.cn/d/25423ab283214a0a9ac8/
 
-<img src="./assets/wb6.jpg" alt="wb6" style="zoom:50%;" />
+![wb6](/assets/wb6.jpg)
 
 注：清华ppt模版被很多<span style="font-weight:bold">无良营销号</span>(如 <span style="font-weight:bold">某某助手，某某小助手，某某小喇叭，某某大喇叭，云上*友圈</span>之流)拿去做转发推广引流，并在里面贴上了他们的营销二维码，请大家自觉抵制这种无良低劣账号，团体，平台。
 
@@ -207,7 +207,7 @@
 
 info的app版，封装了许多info的实用功能
 
-<img src="./assets/websites_1.webp" alt="wb1" style="zoom:45%;" />
+![wb1](/assets/websites_1.webp)
 
 
 <br></br>
@@ -216,7 +216,7 @@ info的app版，封装了许多info的实用功能
 
 网络学堂的app版。
 
-<img src="./assets/websites_2.png" alt="wb2" style="zoom:45%;" />
+![wb2](/assets/websites_2.png)
 
 <br></br>
 
@@ -224,7 +224,7 @@ info的app版，封装了许多info的实用功能
 
 清华大学课程共享计划，可以用来查询某门课，某位老师的开课信息
 
-<img src="./assets/websites_3.png" alt="wb3" style="zoom:45%;" />
+![wb3](/assets/websites_3.png)
 
 <br></br>
 

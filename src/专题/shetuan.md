@@ -6,9 +6,9 @@
 
 每学期第二周的周四周五，在紫荆公寓，紫操，和C楼周边，各社团会集体摆出来进行招新
 
-<img src="../assets/shet_1.jpg" alt="shet_1" style="zoom:50%;" />
+![shet_1](/assets/shet_1.jpg)
 
-<img src="../assets/shet_2.jpg" alt="shet_2" style="zoom:50%;" />
+![shet_2](/assets/shet_2.jpg)
 
 ## 相关公众号
 

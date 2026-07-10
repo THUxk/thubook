@@ -2,7 +2,7 @@
 
 ## 概况
 
-<img src="../assets/xyy_1.jpg" alt="xyy_1" style="zoom:50%;" />
+![xyy_1](/assets/xyy_1.jpg)
 
 地点：[清华校医院](https://surl.amap.com/5ouJIMe4wH)   ，近春园楼北侧，牡丹苑西侧，靠近校河，有门诊和急诊两个入口。
 
@@ -60,7 +60,7 @@
 ### 2.公众号预约
 "清华后勤服务" —— “微服务” ——- “挂号预约”‘
 
-<img src="../assets/xyy_2.jpg" alt="xyy_2" style="zoom:33%;" />
+![xyy_2](/assets/xyy_2.jpg)
 
 
 
@@ -144,7 +144,7 @@ tips: 学生发生的医疗费用，按照公费医疗管理规定扣除自费�
 
 ## 就诊全流程示意图
 
-<img src="../assets/xxy_3.jpg" alt="xxy_3" />
+![xxy_3](/assets/xxy_3.jpg)
 <br></br>
 <br></br>
 <br></br>

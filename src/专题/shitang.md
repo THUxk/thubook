@@ -2,7 +2,7 @@
 
 官方数据为16个
 
-<img src="../assets/st_1.png" alt="st_1" style="zoom:70%;" />
+![st_1](/assets/st_1.png)
 
 
 
@@ -34,7 +34,7 @@
 
 ## 清芬园
 
-<img src="../assets/shit_4.png" alt="shit_4" style="zoom:50%;" />
+![shit_4](/assets/shit_4.png)
 
 <span style="font-weight:bold">位置：</span>[南区宿舍西侧](https://surl.amap.com/18CRDBkhedA)
 
@@ -59,7 +59,7 @@
 
 ## 听涛园
 
-<img src="../assets/shit_5.png" alt="shit_5" style="zoom:50%;" />
+![shit_5](/assets/shit_5.png)
 
 <span style="font-weight:bold">位置：</span>[清芬园对角](https://surl.amap.com/fLv7AIAafEw)
 
@@ -72,7 +72,7 @@
 
 ## 观畴园
 
-<img src="../assets/shit_6.png" alt="shit_7" style="zoom:50%;" />
+![shit_7](/assets/shit_6.png)
 
 <span style="font-weight:bold">位置：</span>[北馆对面](https://surl.amap.com/c1tzf6rS0yr)
 
@@ -88,7 +88,7 @@
 
 ## 荷园
 
-<img src="../assets/shit_3.png" alt="shit_3" style="zoom:50%;" />
+![shit_3](/assets/shit_3.png)
 
 <span style="font-weight:bold">位置：</span>[近春园附近](https://surl.amap.com/3ZA2X2LxfMB)
 
@@ -103,7 +103,7 @@
 
 ## 芝兰园
 
-<img src="../assets/shit_8.png" alt="shit_7" style="zoom:50%;" />
+![shit_7](/assets/shit_8.png)
 
 <span style="font-weight:bold">位置：</span>[紫荆雕塑园东侧](https://surl.amap.com/gXBMLnmI7sS)
 
@@ -117,7 +117,7 @@
 
 ## 玉树
 
-<img src="../assets/shit_7.png" alt="shit_7" style="zoom:50%;" />
+![shit_7](/assets/shit_7.png)
 
 <span style="font-weight:bold">位置：</span>[东北角，12号楼东侧，8号楼南侧](https://surl.amap.com/a0hgmlSR54b)
 
@@ -153,9 +153,9 @@
 
 <span style="font-weight:bold">介绍：</span>教工餐厅,一层有铁板烧、酱骨架、鲈鱼等。二层是馄饨。寓园旁边有一家面包店水木麦园，里面有各种烘焙的面包。
 
-<img src="../assets/st_2.jpg" alt="st_2" style="zoom: 33%;" />
+![st_2](/assets/st_2.jpg)
 
-<img src="../assets/st_3.jpg" alt="st_3" style="zoom: 33%;" />
+![st_3](/assets/st_3.jpg)
 
 <span style="font-weight:bold">营业时间：</span>
 |楼层|营业时间|

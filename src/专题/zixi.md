@@ -28,7 +28,7 @@
 
 ##### <span style="font-weight:bold">紫荆书咖</span>
 
-<img src="../assets/zixi_1.jpg" alt="zixi_1" style="zoom:33%;" />
+![zixi_1](/assets/zixi_1.jpg)
 
 <span style="font-weight:bold">地点：</span>观畴负一
 
@@ -40,7 +40,7 @@
 
 ##### <span style="font-weight:bold">邺架轩</span>
 
-<img src="../assets/zixi_2.jpg" alt="zixi_2" style="zoom:33%;" />
+![zixi_2](/assets/zixi_2.jpg)
 
 <span style="font-weight:bold">地点：</span>北馆地下（从北馆西侧下沉天井进入）
 
@@ -52,7 +52,7 @@
 
 ##### <span style="font-weight:bold">C楼3楼</span>
 
-<img src="../assets/zixi_3.jpg" alt="zixi_3" style="zoom:33%;" />
+![zixi_3](/assets/zixi_3.jpg)
 
 <span style="font-weight:bold">地点：</span> C楼
 
@@ -64,7 +64,7 @@
 
 ##### <span style="font-weight:bold">清华学堂</span>
 
-<img src="../assets/zixi_4.png" alt="zixi_3"/>
+![zixi_3](/assets/zixi_4.png)
 
 <span style="font-weight:bold">地点：</span> 大礼堂草坪东侧
 

@@ -34,7 +34,7 @@
 
 ## 清华印象
 
-<img src="../assets/cs_8.jpg" alt="cs_1" style="zoom:30%;" />
+![cs_1](/assets/cs_8.jpg)
 
 
 
@@ -52,7 +52,7 @@
 
 ## 照澜院购物中心
 
-<img src="../assets/cs_1.jpg" alt="cs_1" style="zoom:30%;" />
+![cs_1](/assets/cs_1.jpg)
 
 主营各种清华纪念品，文创。
 
@@ -68,7 +68,7 @@
 
 ### 紫5
 
-<img src="../assets/cs_2.jpg" alt="cs_2" style="zoom:50%;" />
+![cs_2](/assets/cs_2.jpg)
 
 <span style = "font-weight:bold">位置：</span>紫荆5号楼1单元
 
@@ -80,7 +80,7 @@
 
 ### 紫11
 
-<img src="../assets/cs_3.jpg" alt="cs_3" style="zoom:50%;" />
+![cs_3](/assets/cs_3.jpg)
 
 <span style = "font-weight:bold">位置：</span>紫荆11号楼4单元
 
@@ -92,7 +92,7 @@
 
 ### 紫13
 
-<img src="../assets/cs_4.jpg" alt="cs_4" style="zoom: 25%;" />
+![cs_4](/assets/cs_4.jpg)
 
 <span style = "font-weight:bold">位置：</span>紫荆13号楼
 
@@ -108,7 +108,7 @@
 
 ### 鲜果园
 
-<img src="../assets/cs_6.jpg" alt="cs_6" style="zoom:50%;" />
+![cs_6](/assets/cs_6.jpg)
 
 <span style = "font-weight:bold">位置：</span>观畴负一
 
@@ -120,7 +120,7 @@
 
 ### 鲜果屋
 
-<img src="../assets/cs_7.jpg" alt="cs_7" style="zoom:50%;" />
+![cs_7](/assets/cs_7.jpg)
 
 <span style = "font-weight:bold">位置：</span>南区7号楼底
 

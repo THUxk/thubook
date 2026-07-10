@@ -6,6 +6,8 @@
 
 ## 2026-2027 秋
 
-![xl](./src/assets/2026qiuji.jpg "2026秋季")
+![xl](/assets/2026qiuji.jpg "2026秋季")
 
 ## 2026-2027 春
+
+![xl](/assets/2027chunji.jpg "2027春季")

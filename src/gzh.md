@@ -4,24 +4,24 @@
 
 |图标|名称|简介|
 |:-:|:-:|:-:|
-|<img src="./assets/gzh_1.jpg" alt="words_1" style="zoom:10%;" />|清华大学|官方公众号|
-|<img src="./assets/gzh_2.jpg" alt="words_2" style="zoom:10%;" />|清华紫荆之声|综合类信息发布平台|
-|<img src="./assets/gzh_3.jpg" alt="words_3" style="zoom:10%;" />|清华大学学生会|学生会公众号|
-|<img src="./assets/gzh_4.jpg" alt="words_4" style="zoom:10%;" />|清华大学社会实践|社会实践公众号，会公布许多社会实践组队信息|
-|<img src="./assets/gzh_5.jpg" alt="words_5" style="zoom:10%;" />|清华大学学生公益|会发布一些志愿者，支教招募信息|
-|<img src="./assets/gzh_6.jpg" alt="words_6" style="zoom:10%;" />|清华大学学生社团|社团官号，发布和社团活动有关的各种信息|
-|<img src="./assets/gzh_7.jpg" alt="words_6" style="zoom:10%;" />|乐学|答疑坊公众号，提供一些学业，选课的指导|
-|<img src="./assets/gzh_8.jpg" alt="words_6" style="zoom:10%;" />|学在清华|教务官号，发布一些教务通知|
-|<img src="./assets/gzh_25.jpg" alt="words_6" style="zoom:10%;" />|清华后勤服务|校医院挂号预约常用|
-|<img src="./assets/gzh_26.jpg" alt="words_6" style="zoom:10%;" />|清华家园网|宿舍报修，部分场地预约|
-|<img src="./assets/gzh_9.jpg" alt="words_6" style="zoom:10%;" />|艾生权|综合类通知转发公众号|
-|<img src="./assets/gzh_10.jpg" alt="words_6" style="zoom:10%;" />|行在清华|校内施工，道路，校门开放相关通知|
-|<img src="./assets/gzh_11.jpg" alt="words_6" style="zoom:10%;" />|食在清华|食堂活动通知，包括美食推荐，美食节等|
-|<img src="./assets/gzh_12.jpg" alt="words_6" style="zoom:10%;" />|文素THU|校内最新文素讲座信息|
-|<img src="./assets/gzh_13.jpg" alt="words_6" style="zoom:10%;" />|清华小五爷园|校内新闻评论类公众号，强官方|
-|<img src="./assets/gzh_14.jpg" alt="words_6" style="zoom:10%;" />|清新时报|校内新闻评论类公众号，弱官方|
-|<img src="./assets/gzh_15.jpg" alt="words_6" style="zoom:10%;" />|柯基服务队|科技服务队，电脑出问题了找他免费修|
-|<img src="./assets/gzh_16.jpg" alt="words_6" style="zoom:10%;" />|水木有礼|清华印象线上门店，购买清华文创纪念品|
+|![words_1](/assets/gzh_1.jpg)|清华大学|官方公众号|
+|![words_2](/assets/gzh_2.jpg)|清华紫荆之声|综合类信息发布平台|
+|![words_3](/assets/gzh_3.jpg)|清华大学学生会|学生会公众号|
+|![words_4](/assets/gzh_4.jpg)|清华大学社会实践|社会实践公众号，会公布许多社会实践组队信息|
+|![words_5](/assets/gzh_5.jpg)|清华大学学生公益|会发布一些志愿者，支教招募信息|
+|![words_6](/assets/gzh_6.jpg)|清华大学学生社团|社团官号，发布和社团活动有关的各种信息|
+|![words_6](/assets/gzh_7.jpg)|乐学|答疑坊公众号，提供一些学业，选课的指导|
+|![words_6](/assets/gzh_8.jpg)|学在清华|教务官号，发布一些教务通知|
+|![words_6](/assets/gzh_25.jpg)|清华后勤服务|校医院挂号预约常用|
+|![words_6](/assets/gzh_26.jpg)|清华家园网|宿舍报修，部分场地预约|
+|![words_6](/assets/gzh_9.jpg)|艾生权|综合类通知转发公众号|
+|![words_6](/assets/gzh_10.jpg)|行在清华|校内施工，道路，校门开放相关通知|
+|![words_6](/assets/gzh_11.jpg)|食在清华|食堂活动通知，包括美食推荐，美食节等|
+|![words_6](/assets/gzh_12.jpg)|文素THU|校内最新文素讲座信息|
+|![words_6](/assets/gzh_13.jpg)|清华小五爷园|校内新闻评论类公众号，强官方|
+|![words_6](/assets/gzh_14.jpg)|清新时报|校内新闻评论类公众号，弱官方|
+|![words_6](/assets/gzh_15.jpg)|柯基服务队|科技服务队，电脑出问题了找他免费修|
+|![words_6](/assets/gzh_16.jpg)|水木有礼|清华印象线上门店，购买清华文创纪念品|
 
 ## 各院系官方公众号
 
@@ -80,7 +80,7 @@
 
 ##### <p style="font-weight:bold">水木汇：综合类校内咨询平台，提供活动信息和演出信息及抢票等</p>
 
-<img src="./assets/gzh_24.jpg" alt="gzh_24" style="zoom:33%;" />
+![gzh_24](/assets/gzh_24.jpg)
 
 
 
@@ -88,11 +88,11 @@
 
 ##### <p style="font-weight:bold">清华校园巴士：校巴专用小程序</p>
 
-<img src="./assets/gzh_23.jpg" alt="gzh_23" style="zoom:33%;" />
+![gzh_23](/assets/gzh_23.jpg)
 
 <br></br>
 
 ##### <p style="font-weight:bold">掌上艺教：校内琴房，舞蹈房预约</p>
 
-<img src="./assets/gzh_22.jpg" alt="gzh_22" style="zoom:33%;" />
+![gzh_22](/assets/gzh_22.jpg)
 

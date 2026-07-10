@@ -7,7 +7,7 @@
 <p><span style="font-weight:bold">注意事项：</span>开卷考试携带的材料较为关键。经测试军理书帮助不大，军理课上课期间也不按照军理书讲，购买此书意义不大。</p>
 <p>考试前打印店or辅导员会提供前两年的军理考试原题，这个帮助非常大，一定要打印携带。</p>
 <p><span style="font-weight:bold">优秀率：</span>大部分可以<RouterLink to="/words.html#gpa">4.0</RouterLink>，就算没有拿4.0也不必灰心被影响心情。</p>
-<p><img src="@source/assets/junxun_1.jpg" alt="junli"></p>
+<p><img src="/assets/junxun_1.jpg" alt="junli"></p>
 <h2 id="军事训练" tabindex="-1"><a class="header-anchor" href="#军事训练" aria-hidden="true">#</a> 军事训练</h2>
 <p><span style="font-weight:bold">1.军事训练主要包括</span></p>
 <ul>
@@ -33,7 +33,7 @@
 <p>20公里拉练</p>
 </li>
 </ul>
-<p><img src="@source/assets/junxun_2.jpg" alt="jx2"></p>
+<p><img src="/assets/junxun_2.jpg" alt="jx2"></p>
 <p><span style="font-weight:bold">2.军训期间的作息</span></p>
 <p>早上6:30-晚上9:00。</p>
 <p>通常晚上训练强度较弱，第一周晚上可能更多的是班级活动，入学教育。</p>
@@ -41,15 +41,15 @@
 <p>会分批次带到专业的射击馆（一般是北方国际射击中心），每人5发子弹进行实弹射击。会根据射击成绩计入军训成绩的5%</p>
 <p><span style="font-weight:bold">4.定向越野</span></p>
 <p>可以理解为“校内根据地图寻宝”。每人会发一张地图，然后地图上会有打卡点，完成所有打卡即可。注意定向越野需徒步完成 ，骑自行车为违规行为。</p>
-<p><img src="@source/assets/junxun_3.jpg" alt="jx2"></p>
+<p><img src="/assets/junxun_3.jpg" alt="jx2"></p>
 <p><span style="font-weight:bold">5.拉练</span></p>
 <p>拉练会在某个晚上12点开始，全体新生集体出校，暴走20公里返校，整个过程持续4-5个小时。</p>
 <p>拉练前会要求打包被子，被个人背上自己的被子出行，可以穿自己的鞋。</p>
-<p><img src="@source/assets/junxun_5.jpg" alt="jx5"></p>
+<p><img src="/assets/junxun_5.jpg" alt="jx5"></p>
 <p>拉练后的第二天白天通常为休息。下午和晚上会有观影活动，训练强度较小，以休息为主.</p>
-<p><img src="@source/assets/junxun_4.jpg" alt="jx4"></p>
-<p><img src="@source/assets/junxun_6.jpg" alt="jx6"></p>
-<p><img src="@source/assets/junxun_7.jpg" alt="jx7"></p>
+<p><img src="/assets/junxun_4.jpg" alt="jx4"></p>
+<p><img src="/assets/junxun_6.jpg" alt="jx6"></p>
+<p><img src="/assets/junxun_7.jpg" alt="jx7"></p>
 <h2 id="其他活动" tabindex="-1"><a class="header-anchor" href="#其他活动" aria-hidden="true">#</a> 其他活动</h2>
 <p>军训结束时会有文艺汇演</p>
 <h2 id="注意事项" tabindex="-1"><a class="header-anchor" href="#注意事项" aria-hidden="true">#</a> 注意事项</h2>
@@ -75,14 +75,14 @@
 </li>
 <li>
 <p>路线安排建议顺or逆时针绕一圈回到原点。下面附上我个人规划的路线图。</p>
-<p><img src="@source/assets/jx20.jpg" alt="jx20"></p>
+<p><img src="/assets/jx20.jpg" alt="jx20"></p>
 </li>
 <li>
 <p>会发一个类似电子手表的小牌牌，可以带在手指上，用来打卡。<span style = "font-weight:bold">建议多刷两次，听他多哔哔两声，避免刷不上。</span></p>
 </li>
 <li>
 <p>有些点位位置比较偏僻或者诡异（请看下面的地图）</p>
-<p><img src="@source/assets/jx21.jpg" alt="jx21"></p>
+<p><img src="/assets/jx21.jpg" alt="jx21"></p>
 <ul>
 <li>
 <p>比如69号点在小丘正中央的一棵树干上；</p>

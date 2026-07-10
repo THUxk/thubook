@@ -29,8 +29,8 @@
 <li>学长学姐：拉进关系，骗取新生信任。</li>
 <li>喜欢在名称中加入THU，水木等字样，误导新生其与清华的关系。</li>
 </ul>
-<p>目前微信区最猖獗的假人是：<span style = "font-weight:bold">thu小助手，thu小助手2号，thu小/大喇叭，水木助手以及其背后运作的“某上校友圈”小程序</span>。请大家自觉抵制。注意，以上所有账号平台均为同一团伙运营。</p>
-<p><img src="@source/assets/thuc2.jpg" alt="thuc2" style="zoom:25%;" />    <img src="@source/assets/thuc1.jpg" alt="thuc1" style="zoom:25%;" /></p>
+<p>目前最猖獗的假人是：<span style = "font-weight:bold">thu小助手，thu小助手2号，thu小助手3号，thu小/大喇叭，水木助手，某群号为102****606的QQ群以及其背后运作的“某上校友圈”小程序</span>。请大家自觉抵制。注意，以上所有账号平台均为同一团伙运营。</p>
+<p><img src="/assets/thuc2.jpg" alt="thuc2">    <img src="/assets/thuc1.jpg" alt="thuc1"></p>
 <p><a href="https://mp.weixin.qq.com/s/nHz-Np2eaaPvxUShfZHkCg" target="_blank" rel="noopener noreferrer">清新时报锤垃圾校园墙引流推文<ExternalLinkIcon/></a></p>
 <p>垃圾校园墙往往会用<span style = "font-weight:bold">免费公开</span>的校内<RouterLink to="/websites.html">资源</RouterLink>作为诱饵，<span style = "font-weight:bold">诱导大家转发推送，集赞，进引流群等</span>。请大家自觉抵制，不要转发假人的推送，不要进垃圾校园墙的引流群。</p>
 <h2 id="其他" tabindex="-1"><a class="header-anchor" href="#其他" aria-hidden="true">#</a> 其他</h2>
@@ -47,6 +47,7 @@
 <hr/>
 <span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-9-4</span>
 <br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">自76张广昱</span></div></template>
+<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">自76张广昱</span>
+</div></template>
 
 

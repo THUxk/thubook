@@ -4,13 +4,13 @@
 <h2 id="体质测试表" tabindex="-1"><a class="header-anchor" href="#体质测试表" aria-hidden="true">#</a> 体质测试表</h2>
 <p>体质测试通常占总成绩的10%，只要各项加起来达到60分，即可获取这总评的10分</p>
 <p>此测试标准全国统一</p>
-<p><img src="@source/assets/tc_1.png" alt="tc_1"></p>
+<p><img src="/assets/tc_1.png" alt="tc_1"></p>
 <p>男生：</p>
-<p><img src="@source/assets/tc_2.png" alt="tc_2"></p>
+<p><img src="/assets/tc_2.png" alt="tc_2"></p>
 <p>女生：</p>
-<p><img src="@source/assets/tc_3.png" alt="tc_3"></p>
+<p><img src="/assets/tc_3.png" alt="tc_3"></p>
 <p>BMI:</p>
-<p><img src="@source/assets/tc_4.png" alt="tc_4"></p>
+<p><img src="/assets/tc_4.png" alt="tc_4"></p>
 <h2 id="长跑" tabindex="-1"><a class="header-anchor" href="#长跑" aria-hidden="true">#</a> 长跑</h2>
 <table>
 <thead>

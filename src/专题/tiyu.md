@@ -4,15 +4,15 @@
 
 整体布局概览
 
-<img src="../assets/cc_3.webp" alt="cc_3" style="zoom: 50%;" />
+![cc_3](/assets/cc_3.webp)
 
 
 
 ### 紫荆操场
 
-<img src="../assets/cc_1.jpg" alt="cc_1" style="zoom: 80%;" />
+![cc_1](/assets/cc_1.jpg)
 
-<img src="../assets/cc_2.jpg" alt="cc_2" style="zoom:44%;" />
+![cc_2](/assets/cc_2.jpg)
 
 <span style="font-weight:bold">位置：</span>紫荆宿舍区，C楼东侧。 [紫荆操场](https://surl.amap.com/dXi6cJa1h8JN)
 
@@ -20,13 +20,13 @@
 
 除过橄榄场地，紫操周围还有<span style="font-weight:bold">紫荆篮球场</span>，<span style="font-weight:bold">网球场</span>
 
-<img src="../assets/cc_6.jpg" alt="cc_6" style="zoom:50;" />
+![cc_6](/assets/cc_6.jpg)
 
 
 
 #### 紫荆篮球场
 
-<img src="../assets/cc_4.jpg" alt="cc_4" style="zoom:50%;" />
+![cc_4](/assets/cc_4.jpg)
 
 * 免费场地，带球直入
 * 灯光开放到晚上22:30
@@ -35,7 +35,7 @@
 
 #### 紫荆网球场
 
-![cc_5](../assets/cc_5.jpg)
+![cc_5](/assets/cc_5.jpg)
 
 * 网球场<span style="font-weight:bold">开放时间：</span>周一至周三、周五：17：00-22：00，周四、周末：8:00-12:00和13:00-22:00
 
@@ -47,11 +47,11 @@
 
 ### 东大操场
 
-<img src="../assets/cc_8.jpg" alt="cc_8" style="zoom:50%;" />
+![cc_8](/assets/cc_8.jpg)
 
-<img src="../assets/cc_9.jpg" alt="cc_9" style="zoom:50%;" />
+![cc_9](/assets/cc_9.jpg)
 
-![cc_10](../assets/cc_10.jpg)
+![cc_10](/assets/cc_10.jpg)
 
 
 
@@ -71,11 +71,11 @@
 
 东大操场旁边有<span style="font-weight:bold">东操篮球场</span>和<span style="font-weight:bold">东操排球场</span>，<span style="font-weight:bold">网球场</span>，<span style="font-weight:bold">棒垒球场</span>，<span style="font-weight:bold">沙滩排球场</span>
 
-![cc_7](../assets/cc_7.jpg)
+![cc_7](/assets/cc_7.jpg)
 
 * 篮球场/排球场为免费开放，灯光晚上22:00关闭
 
-![cc_9](../assets/cc_9.png)
+![cc_9](/assets/cc_9.png)
 
 ​																						东操篮球场
 
@@ -87,7 +87,7 @@
 
 ### 西大操场
 
-![cc_10](../assets/cc_10.webp)
+![cc_10](/assets/cc_10.webp)
 
 <span style="font-weight:bold">位置：</span>北馆西侧，[西大操场位置](https://surl.amap.com/7aDyQoz65h)
 
@@ -95,7 +95,7 @@
 
 #### 西操篮球场
 
-<img src="../assets/cc_12.jpg" alt="cc_12" style="zoom:67%;" />
+![cc_12](/assets/cc_12.jpg)
 
 * 周末都是开放的，工作日只有上课时间不对外开放，晚上十点过后大概率会关门。夜间无灯光
 
@@ -105,9 +105,9 @@
 
 北操主要是足球场和棒球场
 
-<img src="../assets/cc_13.png" alt="cc_13" style="zoom:50%;" />
+![cc_13](/assets/cc_13.png)
 
-<img src="../assets/cc_12.png" alt="cc_12" style="zoom:50%;" />
+![cc_12](/assets/cc_12.png)
 
 <span style="font-weight:bold">位置：</span>学生公寓34,35号楼东侧，紫操篮球场南侧，[北操位置](https://surl.amap.com/ikh6Xg4p7X6)
 
@@ -123,7 +123,7 @@
 
 清华最大的室内活动场地，2023年开放使用
 
-<img src="../assets/cc_14.png" alt="cc_14" style="zoom:50%;" />
+![cc_14](/assets/cc_14.png)
 
 <span style="font-weight:bold">位置：</span>陈明游泳馆东侧，东操东北侧，[北体育馆](https://surl.amap.com/jU2QO081v8Eu)
 
@@ -133,15 +133,15 @@
 
 * 4块专业篮球场
 
-<img src="../assets/cc_25.jpg" alt="cc_25" style="zoom:50%;" />
+![cc_25](/assets/cc_25.jpg)
 
 * 4块专业网球场
 
-<img src="../assets/cc_26.jpg" alt="cc_26" style="zoom:50%;" />
+![cc_26](/assets/cc_26.jpg)
 
 * 大量乒乓球台
 
-<img src="../assets/cc_27.jpg" alt="cc_27" style="zoom:50%;" />
+![cc_27](/assets/cc_27.jpg)
 
 * 3000平米的健身中心
 * 室内冰场，可滑冰
@@ -150,9 +150,9 @@
 
 #### 冰上中心
 
-<img src="../assets/cc_15.jpg" alt="cc_15" style="zoom:50%;" />
+![cc_15](/assets/cc_15.jpg)
 
-<img src="../assets/cc_16.jpg" alt="cc_16" style="zoom:80%;" />
+![cc_16](/assets/cc_16.jpg)
 
 <span style="font-weight:bold">位置：</span>北馆B2层
 
@@ -166,7 +166,7 @@
 
 #### 健身房
 
-<img src="../assets/cc_23.jpg" alt="cc_23" style="zoom:50%;" />
+![cc_23](/assets/cc_23.jpg)
 
 
 
@@ -176,11 +176,11 @@
 
 <span style="font-weight:bold">布局：</span>分为健身厅一，健身厅二，团课厅
 
-<img src="../assets/cc_18.jpg" alt="cc_18" style="zoom:50%;" />
+![cc_18](/assets/cc_18.jpg)
 
 ​																					健身厅一
 
-<img src="../assets/cc_19.jpg" alt="cc_19" style="zoom:50%;" />
+![cc_19](/assets/cc_19.jpg)
 
 ​																						健身厅二
 
@@ -188,15 +188,15 @@
 
 * 有氧器械近120件，力量设备110台
 
-<img src="../assets/cc_20.jpg" alt="cc_20" style="zoom:50%;" />
+![cc_20](/assets/cc_20.jpg)
 
 * 9台卧推架
 
-<img src="../assets/cc_17.jpg" alt="cc_17" style="zoom:50%;" />
+![cc_17](/assets/cc_17.jpg)
 
 * 另有40台免费跑步机在篮球馆北侧
 
-<img src="../assets/cc_21.jpg" alt="cc_21" style="zoom:50%;" />
+![cc_21](/assets/cc_21.jpg)
 
 <span style="font-weight:bold">电话：</span>62782578
 
@@ -208,17 +208,17 @@
 
 ### 气膜馆
 
-<img src="../assets/cc_30.jpg" alt="cc_30" style="zoom:80%;" />
+![cc_30](/assets/cc_30.jpg)
 
 <span style="font-weight:bold">位置：</span>紫荆公寓东北角，18号楼北侧。[气膜馆](https://surl.amap.com/lu2yGOs1zcC4)
 
 <SPAN STYLE="FONT-WEIGHT:BOLD">介绍：</SPAN>气膜馆是<span style="font-weight:bold">羽毛球，乒乓球</span>的场所，设有<span style="font-weight:bold">12块羽毛球场地、9座乒乓球台</span>，有专业的塑胶场地、灯光。
 
-![cc_28](../assets/cc_28.jpg)
+![cc_28](/assets/cc_28.jpg)
 
 <span style="font-weight:bold">价格：</span>羽毛球场20/h，乒乓球台10元/h
 
-<img src="../assets/cc_29.jpg" alt="cc_29" style="zoom:50%;" />
+![cc_29](/assets/cc_29.jpg)
 
 <span style="font-weight:bold">预约方式：</span>[预约](http://50.tsinghua.edu.cn)
 
@@ -226,15 +226,15 @@
 
 ### 综合体育馆
 
-<img src="../assets/cc_31.jpg" alt="cc_31" style="zoom:50%;" />
+![cc_31](/assets/cc_31.jpg)
 
 <span style="font-weight:bold">位置：</span>东大操场南侧。[综体](https://surl.amap.com/lXuK3VCg0sh)
 
-<img src="../assets/cc_32.jpg" alt="cc_32" style="zoom:50%;" />
+![cc_32](/assets/cc_32.jpg)
 
 <span style="font-weight:bold">介绍：</span>多功能的体育馆，不仅有篮球场、羽毛球场、排球场，还有健身房等多种运动空间，满足你的各种运动需求。同时也是重大室内活动的场所，比如开学典礼，毕业典礼，元旦晚会等。
 
-<img src="../assets/cc_35.jpg" alt="cc_35" style="zoom: 33%;" />
+![cc_35](/assets/cc_35.jpg)
 
 
 
@@ -255,13 +255,13 @@
 
 ### 西体育馆
 
-<img src="../assets/cc_11.jpg" alt="cc_11" style="zoom:80%;" />
+![cc_11](/assets/cc_11.jpg)
 
 清华第一个体育馆，早期四大建筑之一，但现在依然在使用，和大礼堂同辈分。
 
 <span style="font-weight:bold">位置：</span>西大操场西侧
 
-<img src="../assets/cc_33.jpg" alt="cc_33" style="zoom:50%;" />
+![cc_33](/assets/cc_33.jpg)
 
 <span style="font-weight:bold">介绍：</span>内设有羽毛球场、篮球场、台球场。
 
@@ -271,7 +271,7 @@
 
 * 台球场：开放时间：工作日17:00 - 21:00，周末 9:00 - 21:00，价格 15元/h
 
-  <img src="../assets/cc_34.jpg" alt="cc_34" style="zoom:50%;" />
+  ![cc_34](/assets/cc_34.jpg)
 
   
 
@@ -283,7 +283,7 @@
 
 ### 陈明游泳馆
 
-<img src="../assets/cc_37.png" alt="cc_37" style="zoom:50%;" />
+![cc_37](/assets/cc_37.png)
 
 <span style="font-weight:bold">位置：</span>北体育馆西侧，[陈明游泳馆](https://surl.amap.com/mCqaE6co28W)
 

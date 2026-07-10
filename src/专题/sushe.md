@@ -10,7 +10,7 @@
 
 <span style="font-weight:bold">布局：</span>分为AB间，共用中厅。每间宿舍可住4人，采用“上床下桌”的双层家具，在高层床铺下设有书桌、书架、衣柜及凳子，每间寝室配有洗漱架及阳台。
 
-![sushe_1](../assets/sushe_1.png)
+![sushe_1](/assets/sushe_1.png)
 
 
 
@@ -54,9 +54,9 @@
 
 <span style="font-weight:bold">布局：</span>4人间，上床下桌，无中厅。上下床为楼梯。配有鞋柜，桌面镜等。
 
-![sushe_2](../assets/sushe_2.jpg)
+![sushe_2](/assets/sushe_2.jpg)
 
-![sushe_3](../assets/sushe_3.jpg)
+![sushe_3](/assets/sushe_3.jpg)
 
 <span style="font-weight:bold">数据：</span>
 

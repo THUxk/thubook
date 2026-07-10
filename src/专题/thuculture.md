@@ -56,7 +56,7 @@
 
 目前最猖獗的假人是：<span style = "font-weight:bold">thu小助手，thu小助手2号，thu小助手3号，thu小/大喇叭，水木助手，某群号为102\*\*\*\*606的QQ群以及其背后运作的“某上校友圈”小程序</span>。请大家自觉抵制。注意，以上所有账号平台均为同一团伙运营。
 
-<img src="../assets/thuc2.jpg" alt="thuc2" style="zoom:25%;" />    <img src="../assets/thuc1.jpg" alt="thuc1" style="zoom:25%;" />
+![thuc2](/assets/thuc2.jpg)    ![thuc1](/assets/thuc1.jpg)
 
 [清新时报锤垃圾校园墙引流推文](https://mp.weixin.qq.com/s/nHz-Np2eaaPvxUShfZHkCg)
 

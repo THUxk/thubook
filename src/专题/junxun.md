@@ -18,7 +18,7 @@
 
 <span style="font-weight:bold">优秀率：</span>大部分可以[4.0](../words.md#gpa)，就算没有拿4.0也不必灰心被影响心情。
 
-![junli](../assets/junxun_1.jpg)
+![junli](/assets/junxun_1.jpg)
 
 
 
@@ -40,7 +40,7 @@
 
 * 20公里拉练
 
-![jx2](../assets/junxun_2.jpg)
+![jx2](/assets/junxun_2.jpg)
 
 
 
@@ -58,7 +58,7 @@
 
 可以理解为“校内根据地图寻宝”。每人会发一张地图，然后地图上会有打卡点，完成所有打卡即可。注意定向越野需徒步完成 ，骑自行车为违规行为。
 
-![jx2](../assets/junxun_3.jpg)
+![jx2](/assets/junxun_3.jpg)
 
 <span style="font-weight:bold">5.拉练</span>
 
@@ -66,15 +66,15 @@
 
 拉练前会要求打包被子，被个人背上自己的被子出行，可以穿自己的鞋。
 
-![jx5](../assets/junxun_5.jpg)
+![jx5](/assets/junxun_5.jpg)
 
 拉练后的第二天白天通常为休息。下午和晚上会有观影活动，训练强度较小，以休息为主.
 
-![jx4](../assets/junxun_4.jpg)
+![jx4](/assets/junxun_4.jpg)
 
-![jx6](../assets/junxun_6.jpg)
+![jx6](/assets/junxun_6.jpg)
 
-![jx7](../assets/junxun_7.jpg)
+![jx7](/assets/junxun_7.jpg)
 
 ## 其他活动
 
@@ -100,13 +100,13 @@
 
 * 路线安排建议顺or逆时针绕一圈回到原点。下面附上我个人规划的路线图。
 
-  ![jx20](../assets/jx20.jpg)
+  ![jx20](/assets/jx20.jpg)
 
 * 会发一个类似电子手表的小牌牌，可以带在手指上，用来打卡。<span style = "font-weight:bold">建议多刷两次，听他多哔哔两声，避免刷不上。</span>
 
 * 有些点位位置比较偏僻或者诡异（请看下面的地图）
 
-  ![jx21](../assets/jx21.jpg)
+  ![jx21](/assets/jx21.jpg)
 
   - 比如69号点在小丘正中央的一棵树干上；
 

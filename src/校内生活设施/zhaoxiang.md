@@ -2,7 +2,7 @@
 
 ## 咔咔照相
 
-<img src="../assets/zx_1.jpg" alt="zx_1" style="zoom:33%;" />
+![zx_1](/assets/zx_1.jpg)
 
 <span style="font-weight:bold">地点</span>：C楼一层 113
 
@@ -14,7 +14,7 @@
 
 ## 紫二照相
 
-<img src="../assets/zx_2.jpg" alt="zx_2" style="zoom:33%;" />
+![zx_2](/assets/zx_2.jpg)
 
 <span style="font-weight:bold">地点</span>：紫荆公寓2号楼六单元（最东侧） 
 

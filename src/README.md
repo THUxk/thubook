@@ -32,11 +32,11 @@
 
 本手册支持手机，平板，电脑屏幕自适应。
 
-<img src="./assets/index1.jpg" alt="index1" style="zoom:25%;" />
+![index1](/assets/index1.jpg)
 
 ​	
 
-<img src="./assets/index2.png" alt="index2" style="zoom:38%;" />
+![index2](/assets/index2.png)
 
 ## 我是新生
 

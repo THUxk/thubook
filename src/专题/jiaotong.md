@@ -4,7 +4,7 @@
 
 清华大学有东南门（主校门）、南门、西南门、西门、油库门、西北门、北门、东北门和东侧门（东三门）等。
 
-<img src="../assets/jt_1.png" alt="image-20240529193401157" style="zoom:50%;" />
+![image-20240529193401157](/assets/jt_1.png)
 
 ## 清华周边交通
 
@@ -12,7 +12,7 @@
 
 正面的中关村东路可直达西直门
 
-<img src="../assets/jt_2.png"  style="zoom:80%;" />
+![](/assets/jt_2.png)
 
 <table style="width:100%; border-collapse: collapse; text-align: left;">
   <tr>
@@ -47,7 +47,7 @@
 
 ### 西门
 
-<img src="../assets/jt_3.png" alt="image-20240529191954012" style="zoom:33%;" />
+![image-20240529191954012](/assets/jt_3.png)
 
 <table style="width:100%; border-collapse: collapse; text-align: left;">
   <tr>
@@ -131,11 +131,11 @@
 
 ## 各校门出入细则
 
-<img src="../assets/jt_4.png" alt="image-20240529193518730" style="zoom:33%;" />
+![image-20240529193518730](/assets/jt_4.png)
 
 ## 校园交通车
 
-<img src="../assets/jt_5.png" alt="图片" style="zoom:50%;" />
+![图片](/assets/jt_5.png)
 
 清华证件可免费乘车，可以在站点等候，也可以招手上车、就近下车。
 
@@ -174,7 +174,7 @@
 
 程序内可以看巴士路线，方便在校内更好出行，以及会提供不同巴士环路的具体信息，可以熟悉巴士路线，以及校园巴士的运行时间，选择停靠点也能为你在清华园中出行更加便利。
 
-<img src="../assets/jt_6.png" alt="image-20240524190248369" style="zoom:25%;" />
+![image-20240524190248369](/assets/jt_6.png)
 
 
 

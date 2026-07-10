@@ -33,25 +33,25 @@
 <p><RouterLink to="/%E4%B8%93%E9%A2%98/sushe.html">宿舍</RouterLink></p>
 <h2 id="刷夜点" tabindex="-1"><a class="header-anchor" href="#刷夜点" aria-hidden="true">#</a> 刷夜点</h2>
 <h5 id="紫荆书咖" tabindex="-1"><a class="header-anchor" href="#紫荆书咖" aria-hidden="true">#</a> <span style="font-weight:bold">紫荆书咖</span></h5>
-<img src="@source/assets/zixi_1.jpg" alt="zixi_1" style="zoom:33%;" />
+<p><img src="/assets/zixi_1.jpg" alt="zixi_1"></p>
 <p><span style="font-weight:bold">地点：</span>观畴负一</p>
 <p><span style="font-weight:bold">环境：</span>部分座位无电源，无wifi，信号较差</p>
 <p><span style="font-weight:bold">营业时间：</span>至凌晨2点</p>
 <p><br></br></p>
 <h5 id="邺架轩" tabindex="-1"><a class="header-anchor" href="#邺架轩" aria-hidden="true">#</a> <span style="font-weight:bold">邺架轩</span></h5>
-<img src="@source/assets/zixi_2.jpg" alt="zixi_2" style="zoom:33%;" />
+<p><img src="/assets/zixi_2.jpg" alt="zixi_2"></p>
 <p><span style="font-weight:bold">地点：</span>北馆地下（从北馆西侧下沉天井进入）</p>
 <p><span style="font-weight:bold">环境：</span>部分座位无电源，有wifi</p>
 <p><span style="font-weight:bold">营业时间：</span> 24小时</p>
 <p><br></br></p>
 <h5 id="c楼3楼" tabindex="-1"><a class="header-anchor" href="#c楼3楼" aria-hidden="true">#</a> <span style="font-weight:bold">C楼3楼</span></h5>
-<img src="@source/assets/zixi_3.jpg" alt="zixi_3" style="zoom:33%;" />
+<p><img src="/assets/zixi_3.jpg" alt="zixi_3"></p>
 <p><span style="font-weight:bold">地点：</span> C楼</p>
 <p><span style="font-weight:bold">环境：</span> 部分座位无电源，有wifi</p>
 <p><span style="font-weight:bold">营业时间：</span> 24小时</p>
 <p><br></br></p>
 <h5 id="清华学堂" tabindex="-1"><a class="header-anchor" href="#清华学堂" aria-hidden="true">#</a> <span style="font-weight:bold">清华学堂</span></h5>
-<img src="@source/assets/zixi_4.png" alt="zixi_3"/>
+<p><img src="/assets/zixi_4.png" alt="zixi_3"></p>
 <p><span style="font-weight:bold">地点：</span> 大礼堂草坪东侧</p>
 <p><span style="font-weight:bold">环境：</span> 部分座位无电源，有wifi， 有讨论区，需刷卡进入，桌子小</p>
 <p><span style="font-weight:bold">营业时间：</span>7:00 - 23:30</p>

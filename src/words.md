@@ -8,7 +8,7 @@
 
 可以微信搜索:我在清华做社工，了解更多有关社工的具体情况
 
-<img src="./assets/words_1.jpg" alt="words_1" style="zoom:25%;" />
+![words_1](/assets/words_1.jpg)
 
 
 

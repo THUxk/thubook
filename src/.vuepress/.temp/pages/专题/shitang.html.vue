@@ -1,6 +1,6 @@
 <template><div><h1 id="食堂介绍" tabindex="-1"><a class="header-anchor" href="#食堂介绍" aria-hidden="true">#</a> 食堂介绍</h1>
 <p>官方数据为16个</p>
-<img src="@source/assets/st_1.png" alt="st_1" style="zoom:70%;" />
+<p><img src="/assets/st_1.png" alt="st_1"></p>
 <h2 id="桃李园" tabindex="-1"><a class="header-anchor" href="#桃李园" aria-hidden="true">#</a> 桃李园</h2>
 <p><span style="font-weight:bold">位置：</span><a href="https://surl.amap.com/5ATaveX4eQS" target="_blank" rel="noopener noreferrer">紫荆公寓北侧<ExternalLinkIcon/></a></p>
 <p><span style="font-weight:bold">介绍：</span>宿舍区食堂，上下4层。一层为风味小吃，二层为自选，三层是云南菜。负一楼为清青休闲餐厅</p>
@@ -46,7 +46,7 @@
 </tbody>
 </table>
 <h2 id="清芬园" tabindex="-1"><a class="header-anchor" href="#清芬园" aria-hidden="true">#</a> 清芬园</h2>
-<img src="@source/assets/shit_4.png" alt="shit_4" style="zoom:50%;" />
+<p><img src="/assets/shit_4.png" alt="shit_4"></p>
 <p><span style="font-weight:bold">位置：</span><a href="https://surl.amap.com/18CRDBkhedA" target="_blank" rel="noopener noreferrer">南区宿舍西侧<ExternalLinkIcon/></a></p>
 <p><span style="font-weight:bold">介绍：</span>一楼为地方风味小吃，生煎包和麻辣香锅比较有特色。二楼为自选，烤鸭比较出名。三层为教工食堂，学生无法进入。</p>
 <p><span style="font-weight:bold">营业时间：</span></p>
@@ -87,7 +87,7 @@
 </tbody>
 </table>
 <h2 id="听涛园" tabindex="-1"><a class="header-anchor" href="#听涛园" aria-hidden="true">#</a> 听涛园</h2>
-<img src="@source/assets/shit_5.png" alt="shit_5" style="zoom:50%;" />
+<p><img src="/assets/shit_5.png" alt="shit_5"></p>
 <p><span style="font-weight:bold">位置：</span><a href="https://surl.amap.com/fLv7AIAafEw" target="_blank" rel="noopener noreferrer">清芬园对角<ExternalLinkIcon/></a></p>
 <p><span style="font-weight:bold">介绍：</span>近北馆，位于学堂路和至善路的交汇处，是赶去上课的同学的不二之选，方便学习间隙食用。多为快餐。也有麻辣烫，面食。</p>
 <p><span style="font-weight:bold">营业时间：</span></p>
@@ -106,7 +106,7 @@
 </tbody>
 </table>
 <h2 id="观畴园" tabindex="-1"><a class="header-anchor" href="#观畴园" aria-hidden="true">#</a> 观畴园</h2>
-<img src="@source/assets/shit_6.png" alt="shit_7" style="zoom:50%;" />
+<p><img src="/assets/shit_6.png" alt="shit_7"></p>
 <p><span style="font-weight:bold">位置：</span><a href="https://surl.amap.com/c1tzf6rS0yr" target="_blank" rel="noopener noreferrer">北馆对面<ExternalLinkIcon/></a></p>
 <p><span style="font-weight:bold">介绍：</span>俗称“万人食堂”，分上下三层，负一楼有超市，生活服务类店铺等。一层为风味小吃，烤肉拌饭比较有特色。二层为自选餐厅，品类非常丰富。三层为点菜餐厅，有包房。</p>
 <p><span style="font-weight:bold">营业时间：</span></p>
@@ -133,7 +133,7 @@
 </tbody>
 </table>
 <h2 id="荷园" tabindex="-1"><a class="header-anchor" href="#荷园" aria-hidden="true">#</a> 荷园</h2>
-<img src="@source/assets/shit_3.png" alt="shit_3" style="zoom:50%;" />
+<p><img src="/assets/shit_3.png" alt="shit_3"></p>
 <p><span style="font-weight:bold">位置：</span><a href="https://surl.amap.com/3ZA2X2LxfMB" target="_blank" rel="noopener noreferrer">近春园附近<ExternalLinkIcon/></a></p>
 <p><span style="font-weight:bold">介绍：</span>位置离学生区较远，一楼和二楼都是自选，精致程度堪比清芬三楼，但是也很贵。</p>
 <p><span style="font-weight:bold">营业时间：</span></p>
@@ -156,7 +156,7 @@
 </tbody>
 </table>
 <h2 id="芝兰园" tabindex="-1"><a class="header-anchor" href="#芝兰园" aria-hidden="true">#</a> 芝兰园</h2>
-<img src="@source/assets/shit_8.png" alt="shit_7" style="zoom:50%;" />
+<p><img src="/assets/shit_8.png" alt="shit_7"></p>
 <p><span style="font-weight:bold">位置：</span><a href="https://surl.amap.com/gXBMLnmI7sS" target="_blank" rel="noopener noreferrer">紫荆雕塑园东侧<ExternalLinkIcon/></a></p>
 <p><span style="font-weight:bold">介绍：</span>一层主营西域风格、特色家常菜，特色菜，二楼为清青小火锅</p>
 <p><span style="font-weight:bold">营业时间：</span></p>
@@ -179,7 +179,7 @@
 </tbody>
 </table>
 <h2 id="玉树" tabindex="-1"><a class="header-anchor" href="#玉树" aria-hidden="true">#</a> 玉树</h2>
-<img src="@source/assets/shit_7.png" alt="shit_7" style="zoom:50%;" />
+<p><img src="/assets/shit_7.png" alt="shit_7"></p>
 <p><span style="font-weight:bold">位置：</span><a href="https://surl.amap.com/a0hgmlSR54b" target="_blank" rel="noopener noreferrer">东北角，12号楼东侧，8号楼南侧<ExternalLinkIcon/></a></p>
 <p><span style="font-weight:bold">介绍：</span>一层为点菜，二楼是自选套餐，价格小贵，有夜宵</p>
 <p><span style="font-weight:bold">营业时间：</span></p>
@@ -229,8 +229,8 @@
 <h2 id="寓园" tabindex="-1"><a class="header-anchor" href="#寓园" aria-hidden="true">#</a> 寓园</h2>
 <p><span style="font-weight:bold">位置：</span><a href="https://surl.amap.com/gP2XoH2fcpX" target="_blank" rel="noopener noreferrer">较偏僻<ExternalLinkIcon/></a></p>
 <p><span style="font-weight:bold">介绍：</span>教工餐厅,一层有铁板烧、酱骨架、鲈鱼等。二层是馄饨。寓园旁边有一家面包店水木麦园，里面有各种烘焙的面包。</p>
-<img src="@source/assets/st_2.jpg" alt="st_2" style="zoom: 33%;" />
-<img src="@source/assets/st_3.jpg" alt="st_3" style="zoom: 33%;" />
+<p><img src="/assets/st_2.jpg" alt="st_2"></p>
+<p><img src="/assets/st_3.jpg" alt="st_3"></p>
 <p><span style="font-weight:bold">营业时间：</span></p>
 <table>
 <thead>

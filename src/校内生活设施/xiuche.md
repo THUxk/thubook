@@ -25,7 +25,7 @@
 
 ## 食拾实修车铺
 
-<img src="../assets/xiuche_2.jpg" alt="xiuche_2" style="zoom:50%;" />
+![xiuche_2](/assets/xiuche_2.jpg)
 
 <span style="font-weight:bold">地点</span>：学生公寓18号楼前  
 <span style="font-weight:bold">营业时间</span>：08:30 - 21:00  
@@ -35,7 +35,7 @@
 
 ## 小桥修车铺
 
-<img src="../assets/xiuche_1.jpg" alt="xiuche_1" style="zoom:50%;" />
+![xiuche_1](/assets/xiuche_1.jpg)
 
 <span style="font-weight:bold">地点</span>：学生公寓19号楼南侧  
 <span style="font-weight:bold">营业时间</span>：08:00 - 20:00  

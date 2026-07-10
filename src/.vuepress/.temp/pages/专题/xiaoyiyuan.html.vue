@@ -1,6 +1,6 @@
 <template><div><h1 id="校医院" tabindex="-1"><a class="header-anchor" href="#校医院" aria-hidden="true">#</a> 校医院</h1>
 <h2 id="概况" tabindex="-1"><a class="header-anchor" href="#概况" aria-hidden="true">#</a> 概况</h2>
-<img src="@source/assets/xyy_1.jpg" alt="xyy_1" style="zoom:50%;" />
+<p><img src="/assets/xyy_1.jpg" alt="xyy_1"></p>
 <p>地点：<a href="https://surl.amap.com/5ouJIMe4wH" target="_blank" rel="noopener noreferrer">清华校医院<ExternalLinkIcon/></a>   ，近春园楼北侧，牡丹苑西侧，靠近校河，有门诊和急诊两个入口。</p>
 <p>科室介绍：</p>
 <table>
@@ -106,7 +106,7 @@
 <p>拨打 62793001，转人工，可以预约第二，三天的号。</p>
 <h3 id="_2-公众号预约" tabindex="-1"><a class="header-anchor" href="#_2-公众号预约" aria-hidden="true">#</a> 2.公众号预约</h3>
 <p>&quot;清华后勤服务&quot; —— “微服务” ——- “挂号预约”‘</p>
-<img src="@source/assets/xyy_2.jpg" alt="xyy_2" style="zoom:33%;" />
+<p><img src="/assets/xyy_2.jpg" alt="xyy_2"></p>
 <h2 id="挂号" tabindex="-1"><a class="header-anchor" href="#挂号" aria-hidden="true">#</a> 挂号</h2>
 <p>挂号费2元</p>
 <ul>
@@ -171,10 +171,10 @@
 </ul>
 <p>tips: 学生发生的医疗费用，按照公费医疗管理规定扣除自费部分后可<span style="font-weight:bold">100%报销</span>。</p>
 <h2 id="就诊全流程示意图" tabindex="-1"><a class="header-anchor" href="#就诊全流程示意图" aria-hidden="true">#</a> 就诊全流程示意图</h2>
-<img src="@source/assets/xxy_3.jpg" alt="xxy_3" />
+<p><img src="/assets/xxy_3.jpg" alt="xxy_3">
 <br></br>
 <br></br>
-<br></br>
+<br></br></p>
 <h2 id="更多校医院指南" tabindex="-1"><a class="header-anchor" href="#更多校医院指南" aria-hidden="true">#</a> 更多校医院指南</h2>
 <p><a href="https://mp.weixin.qq.com/s/xNLOoYxrIFn9v1DNEAe2vA" target="_blank" rel="noopener noreferrer">转诊与公费医疗报销<ExternalLinkIcon/></a></p>
 <p><a href="https://mp.weixin.qq.com/s/X5XmVIxSD5PKMwbZ_Yf52g" target="_blank" rel="noopener noreferrer">预约挂号与就医指南<ExternalLinkIcon/></a></p>

@@ -1,77 +1,77 @@
 <template><div><h1 id="教学楼" tabindex="-1"><a class="header-anchor" href="#教学楼" aria-hidden="true">#</a> 教学楼</h1>
 <h2 id="第一教学楼" tabindex="-1"><a class="header-anchor" href="#第一教学楼" aria-hidden="true">#</a> 第一教学楼</h2>
 <p><span style="font-weight:bold">位置</span>：<a href="https://www.amap.com/place/B000AA6Q33" target="_blank" rel="noopener noreferrer">二校门里西侧<ExternalLinkIcon/></a></p>
-<img src="@source/assets/image-20240529220805030.png" alt="image-20240529220805030" style="zoom:50%;" />
+<p><img src="/assets/image-20240529220805030.png" alt="image-20240529220805030"></p>
 <p>第一教室楼楼高三层。一楼两侧开设了大型阶梯教室各一间，除两个大阶梯教室外，还有五间教室可供同学们上课自习使用。</p>
-<img src="@source/assets/image-20240529220927705.png" alt="image-20240529220927705" style="zoom:50%;" />
+<p><img src="/assets/image-20240529220927705.png" alt="image-20240529220927705"></p>
 <p>一教、二教是离学生公寓最远的教室楼，离二校门比较近。</p>
 <h2 id="第二教室楼" tabindex="-1"><a class="header-anchor" href="#第二教室楼" aria-hidden="true">#</a> 第二教室楼</h2>
 <p><span style="font-weight:bold">位置</span>：<a href="https://www.amap.com/place/B000AB9AEF" target="_blank" rel="noopener noreferrer">一教北侧、日晷西侧<ExternalLinkIcon/></a></p>
-<img src="@source/assets/image-20240529221041078.png" alt="image-20240529221041078" style="zoom:50%;" />
+<p><img src="/assets/image-20240529221041078.png" alt="image-20240529221041078"></p>
 <p>二教坐落于一教北侧，它内部设有三个宽敞的大教室和一个会议室。二教编号是从4开始，401，,402，等等。之所以这样命名是因为二教的命名延续一教的命名，一教命名到3楼。</p>
-<img src="@source/assets/image-20240529221213136.png" alt="image-20240529221213136" style="zoom:50%;" />
+<p><img src="/assets/image-20240529221213136.png" alt="image-20240529221213136"></p>
 <h2 id="第三教室楼" tabindex="-1"><a class="header-anchor" href="#第三教室楼" aria-hidden="true">#</a> 第三教室楼</h2>
 <p><span style="font-weight:bold">位置</span>：<a href="https://www.amap.com/place/B000AA0VLN" target="_blank" rel="noopener noreferrer">学堂路东侧、南北主干道东侧、四教与六教中间<ExternalLinkIcon/></a></p>
-<img src="@source/assets/image-20240529221808899.png" alt="image-20240529221808899" style="zoom:50%;" />
+<p><img src="/assets/image-20240529221808899.png" alt="image-20240529221808899"></p>
 <p>优雅设计的教室，充足采光的走廊，到处都是充满自由与多元的学习空间单元。全楼分为三段空间，从南到北依次是一段、二段、三段，每段都有独特的风格。</p>
-<img src="@source/assets/image-20240529221837595.png" alt="image-20240529221837595" style="zoom:80%;" />
+<p><img src="/assets/image-20240529221837595.png" alt="image-20240529221837595"></p>
 <p>三教的教室编号也是根据段号来排列，例如三教1103：第一位数字表示段号，第二位表示楼层，后两位表示教室的顺序号。</p>
 <h2 id="第四教室楼" tabindex="-1"><a class="header-anchor" href="#第四教室楼" aria-hidden="true">#</a> 第四教室楼</h2>
 <p><span style="font-weight:bold">位置</span>：<a href="https://www.amap.com/place/B0FFFE5PEQ" target="_blank" rel="noopener noreferrer">学堂路西侧<ExternalLinkIcon/></a></p>
 <p>紧邻五教的是一个以“开放、多元、共享”为主要设计理念的网红教学楼——第四教室楼（简称四教）。</p>
-<img src="@source/assets/image-20240529221927573.png" alt="image-20240529221927573" style="zoom:50%;" />
+<p><img src="/assets/image-20240529221927573.png" alt="image-20240529221927573"></p>
 <p>内部引入了开放式设计理念。楼内巧妙地通过楼梯连接各楼层，塑造出多层次、流动性的空间结构。重新装修开放的四教配备了投影仪、电脑、液晶显示屏、自动升降电脑桌、自动窗户等设备，还配备了阳台和研讨间供大家学习和休息。</p>
-<img src="@source/assets/image-20240529222002297.png" alt="image-20240529222002297" style="zoom:50%;" />
+<p><img src="/assets/image-20240529222002297.png" alt="image-20240529222002297"></p>
 <p>四教的教室编号也非常容易理解，和一教二教一样，只不过在最前面加了一个代表四教的4。如四教4204，第一位数字代表第四教室楼，第二位为楼层，后两位为教室的顺序号。</p>
 <h2 id="第五教室楼" tabindex="-1"><a class="header-anchor" href="#第五教室楼" aria-hidden="true">#</a> 第五教室楼</h2>
 <p><span style="font-weight:bold">位置</span>：<a href="https://www.amap.com/place/B000ABCAJK" target="_blank" rel="noopener noreferrer">学堂路西侧，紧邻四教<ExternalLinkIcon/></a></p>
-<img src="@source/assets/image-20240529222056825.png" alt="image-20240529222056825" style="zoom:50%;" />
+<p><img src="/assets/image-20240529222056825.png" alt="image-20240529222056825"></p>
 <p>楼体为两层，外观设计采用红白两种色调，与周边的“清华学堂”等老教学区建筑和谐相融。墙面有着葱绿的爬山虎，为建筑增添了夏季的清凉感。</p>
 <p>五教以两层为主，大胆地<span style="font-weight:bold">使用红白两种色调</span>，取得了与西邻的“清华学堂”等老教学区的建筑造型和色调上的谐和，楼内均为公用教室。</p>
-<p><img src="@source/assets/image-20240529222111060.png" alt="image-20240529222111060"></p>
+<p><img src="/assets/image-20240529222111060.png" alt="image-20240529222111060"></p>
 <h2 id="第六教学楼" tabindex="-1"><a class="header-anchor" href="#第六教学楼" aria-hidden="true">#</a> 第六教学楼</h2>
 <p><span style="font-weight:bold">位置</span>：<a href="https://surl.amap.com/syQSqiEfgJd" target="_blank" rel="noopener noreferrer">三教东侧，新民路西侧<ExternalLinkIcon/></a></p>
 <p>校内规模最大的第六教学楼（简称：六教），清华<span style="font-weight:bold">规模最宏大、设施最先进</span>的教学大楼，共有A、B、C三栋大楼，各区之间有连廊链接。配置现代化教学设施，拥有高水平的多媒体电教及网络设备。</p>
-<img src="@source/assets/image-20240529222150152.png" alt="image-20240529222150152" style="zoom:50%;" />
+<p><img src="/assets/image-20240529222150152.png" alt="image-20240529222150152"></p>
 <p>被划分为A、B、C三个区域，并通过连廊相互连接。内部设有公共教室103间，普通物理实验室42间。</p>
-<img src="@source/assets/image-20240529222222480.png" alt="image-20240529222222480" style="zoom:67%;" />
+<p><img src="/assets/image-20240529222222480.png" alt="image-20240529222222480"></p>
 <p>六教独特地将教学、科研和公共空间融合为一体</p>
 <p>六教的教室编号需要结合区域来进行解读，例如：6A018、6B108、6C300等。其中，第一位数字代表第六教学楼，第二位代表区号，第三位表示楼层，后两位为教室的顺序号。</p>
 <h2 id="西阶梯教室" tabindex="-1"><a class="header-anchor" href="#西阶梯教室" aria-hidden="true">#</a> 西阶梯教室</h2>
 <p><span style="font-weight:bold">位置</span>：<a href="https://www.amap.com/place/B000AA7YZ9" target="_blank" rel="noopener noreferrer">大礼堂前西侧<ExternalLinkIcon/></a></p>
 <p>离开二教，北穿越科学馆，便能抵达西阶梯教室（简称西阶）。</p>
-<img src="@source/assets/image-20240529221303700.png" alt="image-20240529221303700" style="zoom:50%;" />
+<p><img src="/assets/image-20240529221303700.png" alt="image-20240529221303700"></p>
 <p>其内部设有一个阶梯教室，主要用于举办大型的汇报、讲座和合唱排练等活动，如果报名参与学校一年一度的“一二·九”合唱，那么你将有很大概率来西阶沉浸式感受合唱的魅力所在。</p>
-<img src="@source/assets/image-20240529221404840.png" alt="image-20240529221404840" style="zoom:67%;" />
+<p><img src="/assets/image-20240529221404840.png" alt="image-20240529221404840"></p>
 <h2 id="东阶梯教室" tabindex="-1"><a class="header-anchor" href="#东阶梯教室" aria-hidden="true">#</a> 东阶梯教室</h2>
 <p><span style="font-weight:bold">位置</span>：<a href="https://www.amap.com/place/B0FFG39KHH" target="_blank" rel="noopener noreferrer">位于东主楼九区一楼，从东主楼九区后面进入即可<ExternalLinkIcon/></a></p>
-<img src="@source/assets/image-20240529225900101.png" alt="image-20240529225900101" style="zoom:50%;" />
+<p><img src="/assets/image-20240529225900101.png" alt="image-20240529225900101"></p>
 <h2 id="清华学堂" tabindex="-1"><a class="header-anchor" href="#清华学堂" aria-hidden="true">#</a> 清华学堂</h2>
 <p><span style="font-weight:bold">位置</span>：<a href="https://www.amap.com/place/B0FFGAN9IJ" target="_blank" rel="noopener noreferrer">清华学堂<ExternalLinkIcon/></a></p>
-<img src="@source/assets/image-20240529221502213.png" alt="image-20240529221502213" style="zoom:50%;" />
+<p><img src="/assets/image-20240529221502213.png" alt="image-20240529221502213"></p>
 <p><span style="font-weight:bold">清华学堂</span>是清华园内最早的建筑之一，这里学习氛围浓厚，清华学堂还有地下一层内有很多自习的地方，在那也有很多比较适合几个人一起开会的研讨间。</p>
-<img src="@source/assets/image-20240529221719416.png" alt="image-20240529221719416" style="zoom:80%;" />
+<p><img src="/assets/image-20240529221719416.png" alt="image-20240529221719416"></p>
 <h2 id="逸夫技术科学楼-技科楼" tabindex="-1"><a class="header-anchor" href="#逸夫技术科学楼-技科楼" aria-hidden="true">#</a> 逸夫技术科学楼（技科楼）</h2>
 <p><span style="font-weight:bold">位置</span>：<a href="https://www.amap.com/place/B000A81F5C" target="_blank" rel="noopener noreferrer">位于建筑馆南侧<ExternalLinkIcon/></a></p>
-<img src="@source/assets/image-20240529225527914.png" alt="image-20240529225527914" style="zoom:50%;" />
+<p><img src="/assets/image-20240529225527914.png" alt="image-20240529225527914"></p>
 <p>分为ABC三区。命名规则：第一位数字是段号，第二位是楼层，后两位是顺序号，如技科楼3217。</p>
 <h2 id="新水利馆-新水" tabindex="-1"><a class="header-anchor" href="#新水利馆-新水" aria-hidden="true">#</a> 新水利馆（新水）</h2>
 <p><span style="font-weight:bold">位置</span>：<a href="https://www.amap.com/place/B0FFFEILL9" target="_blank" rel="noopener noreferrer">位于大礼堂东侧<ExternalLinkIcon/></a></p>
-<img src="@source/assets/image-20240529225718813.png" alt="image-20240529225718813" style="zoom:50%;" />
+<p><img src="/assets/image-20240529225718813.png" alt="image-20240529225718813"></p>
 <p>命名规则：第一位数字是楼层，后两位是顺序号，如新水301。</p>
 <h2 id="文北楼" tabindex="-1"><a class="header-anchor" href="#文北楼" aria-hidden="true">#</a> 文北楼</h2>
 <p><span style="font-weight:bold">位置</span>：<a href="https://www.amap.com/place/B0FFFDWVNX" target="_blank" rel="noopener noreferrer">新水利馆东侧<ExternalLinkIcon/></a></p>
-<img src="@source/assets/image-20240529230022647.png" alt="image-20240529230022647" style="zoom:50%;" />
+<p><img src="/assets/image-20240529230022647.png" alt="image-20240529230022647"></p>
 <p>命名规则：第一位数字是楼层，后两位是顺序号，如文207。</p>
 <h2 id="伟伦楼" tabindex="-1"><a class="header-anchor" href="#伟伦楼" aria-hidden="true">#</a> 伟伦楼</h2>
 <p>即新经管楼</p>
 <p><span style="font-weight:bold">位置</span>：p中央主楼南侧，建筑馆西侧](https://www.amap.com/place/B000A7EJ3U)</p>
-<img src="@source/assets/image-20240529230311023.png" alt="image-20240529230311023" style="zoom:80%;" />
+<p><img src="/assets/image-20240529230311023.png" alt="image-20240529230311023"></p>
 <p>分为南楼、中楼、北楼。命名规则：第一位数字是楼层，后两位是顺序号，如新经管北405。</p>
 <h2 id="明理楼" tabindex="-1"><a class="header-anchor" href="#明理楼" aria-hidden="true">#</a> 明理楼</h2>
 <p>即法学院大楼</p>
 <p><span style="font-weight:bold">位置</span>：<a href="https://www.amap.com/place/B000AA0VLJ" target="_blank" rel="noopener noreferrer">主楼南侧、技科楼西侧、北邻经管学院伟伦楼<ExternalLinkIcon/></a></p>
-<img src="@source/assets/image-20240529230450211.png" alt="image-20240529230450211" style="zoom:67%;" />
+<p><img src="/assets/image-20240529230450211.png" alt="image-20240529230450211"></p>
 <p>命名规则：第一位数字是楼层，后两位是顺序号，如明理楼11</p>
 <br/>
 <hr/>

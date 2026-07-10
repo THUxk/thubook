@@ -10,19 +10,19 @@
 
 此测试标准全国统一
 
-![tc_1](../assets/tc_1.png)
+![tc_1](/assets/tc_1.png)
 
 男生：
 
-![tc_2](../assets/tc_2.png)
+![tc_2](/assets/tc_2.png)
 
 女生：
 
-![tc_3](../assets/tc_3.png)
+![tc_3](/assets/tc_3.png)
 
 BMI:
 
-![tc_4](../assets/tc_4.png)
+![tc_4](/assets/tc_4.png)
 
 
 

@@ -1,11 +1,11 @@
 <template><div><h1 id="交通" tabindex="-1"><a class="header-anchor" href="#交通" aria-hidden="true">#</a> 交通</h1>
 <h2 id="清华校门" tabindex="-1"><a class="header-anchor" href="#清华校门" aria-hidden="true">#</a> 清华校门</h2>
 <p>清华大学有东南门（主校门）、南门、西南门、西门、油库门、西北门、北门、东北门和东侧门（东三门）等。</p>
-<img src="@source/assets/jt_1.png" alt="image-20240529193401157" style="zoom:50%;" />
+<p><img src="/assets/jt_1.png" alt="image-20240529193401157"></p>
 <h2 id="清华周边交通" tabindex="-1"><a class="header-anchor" href="#清华周边交通" aria-hidden="true">#</a> 清华周边交通</h2>
 <h3 id="东南门" tabindex="-1"><a class="header-anchor" href="#东南门" aria-hidden="true">#</a> 东南门</h3>
 <p>正面的中关村东路可直达西直门</p>
-<img src="@source/assets/jt_2.png"  style="zoom:80%;" />
+<p><img src="/assets/jt_2.png" alt=""></p>
 <table style="width:100%; border-collapse: collapse; text-align: left;">
   <tr>
     <th style="border: 1px solid #000; padding: 8px;">交通方式</th>
@@ -37,7 +37,7 @@
   </tr>
 </table>
 <h3 id="西门" tabindex="-1"><a class="header-anchor" href="#西门" aria-hidden="true">#</a> 西门</h3>
-<img src="@source/assets/jt_3.png" alt="image-20240529191954012" style="zoom:33%;" />
+<p><img src="/assets/jt_3.png" alt="image-20240529191954012"></p>
 <table style="width:100%; border-collapse: collapse; text-align: left;">
   <tr>
     <th style="border: 1px solid #000; padding: 8px;">交通方式</th>
@@ -116,9 +116,9 @@
   </tr>
 </table>
 <h2 id="各校门出入细则" tabindex="-1"><a class="header-anchor" href="#各校门出入细则" aria-hidden="true">#</a> 各校门出入细则</h2>
-<img src="@source/assets/jt_4.png" alt="image-20240529193518730" style="zoom:33%;" />
+<p><img src="/assets/jt_4.png" alt="image-20240529193518730"></p>
 <h2 id="校园交通车" tabindex="-1"><a class="header-anchor" href="#校园交通车" aria-hidden="true">#</a> 校园交通车</h2>
-<img src="@source/assets/jt_5.png" alt="图片" style="zoom:50%;" />
+<p><img src="/assets/jt_5.png" alt="图片"></p>
 <p>清华证件可免费乘车，可以在站点等候，也可以招手上车、就近下车。</p>
 <p><span style="font-weight:bold">运行时间：</span></p>
 <ul>
@@ -147,7 +147,7 @@
 </ul>
 <p>具体线路和发车时间请查看<span style="font-weight:bold">清华校园巴士</span>微信小程序。</p>
 <p>程序内可以看巴士路线，方便在校内更好出行，以及会提供不同巴士环路的具体信息，可以熟悉巴士路线，以及校园巴士的运行时间，选择停靠点也能为你在清华园中出行更加便利。</p>
-<img src="@source/assets/jt_6.png" alt="image-20240524190248369" style="zoom:25%;" />
+<p><img src="/assets/jt_6.png" alt="image-20240524190248369"></p>
 <h2 id="校内出行" tabindex="-1"><a class="header-anchor" href="#校内出行" aria-hidden="true">#</a> 校内出行</h2>
 <ul>
 <li>

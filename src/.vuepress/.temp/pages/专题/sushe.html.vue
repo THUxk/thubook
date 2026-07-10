@@ -3,7 +3,7 @@
 <h2 id="紫荆公寓" tabindex="-1"><a class="header-anchor" href="#紫荆公寓" aria-hidden="true">#</a> 紫荆公寓</h2>
 <p><span style="font-weight:bold">位置：</span><a href="https://surl.amap.com/hCvotuU1o8Cr" target="_blank" rel="noopener noreferrer">学校北侧<ExternalLinkIcon/></a></p>
 <p><span style="font-weight:bold">布局：</span>分为AB间，共用中厅。每间宿舍可住4人，采用“上床下桌”的双层家具，在高层床铺下设有书桌、书架、衣柜及凳子，每间寝室配有洗漱架及阳台。</p>
-<p><img src="@source/assets/sushe_1.png" alt="sushe_1"></p>
+<p><img src="/assets/sushe_1.png" alt="sushe_1"></p>
 <p><span style="font-weight:bold">数据：</span></p>
 <p>床尺寸：200cm*90cm</p>
 <p>床与屋顶之间的距离：130cm</p>
@@ -21,8 +21,8 @@
 <h2 id="南区" tabindex="-1"><a class="header-anchor" href="#南区" aria-hidden="true">#</a> 南区</h2>
 <p><span style="font-weight:bold">位置：</span>相对于紫荆公寓的北，在偏南位置，整体位置在学校中部偏北。<a href="https://surl.amap.com/6JP0xw5O0qx" target="_blank" rel="noopener noreferrer">南区宿舍<ExternalLinkIcon/></a></p>
 <p><span style="font-weight:bold">布局：</span>4人间，上床下桌，无中厅。上下床为楼梯。配有鞋柜，桌面镜等。</p>
-<p><img src="@source/assets/sushe_2.jpg" alt="sushe_2"></p>
-<p><img src="@source/assets/sushe_3.jpg" alt="sushe_3"></p>
+<p><img src="/assets/sushe_2.jpg" alt="sushe_2"></p>
+<p><img src="/assets/sushe_3.jpg" alt="sushe_3"></p>
 <p><span style="font-weight:bold">数据：</span></p>
 <p>床铺尺寸：228*100（cm）</p>
 <p>床垫尺寸：200*95（cm）</p>

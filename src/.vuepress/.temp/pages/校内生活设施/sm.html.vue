@@ -8,7 +8,7 @@
 <span style="font-weight:bold">营业时间</span>：8:30-22:00<br>
 <span style="font-weight:bold">介绍</span>：15173830202</p>
 <h2 id="南区七号楼专业维修店" tabindex="-1"><a class="header-anchor" href="#南区七号楼专业维修店" aria-hidden="true">#</a> 南区七号楼专业维修店</h2>
-<img src="@source/assets/life_19.jpg" alt="life_19" style="zoom:33%;" />
+<p><img src="/assets/life_19.jpg" alt="life_19"></p>
 <p><span style="font-weight:bold">地点</span>：南区七号楼，天猫校园清芬店和七港九中间<br>
 <span style="font-weight:bold">营业时间</span>：周一到周日 9:30-21:30（节假日根据实际情况调整）<br>
 <span style="font-weight:bold">介绍</span>：13371752380</p>

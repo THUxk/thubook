@@ -6,7 +6,7 @@
 
 ## 北馆
 
-![lib_3](../assets/lib_3.jpg)
+![lib_3](/assets/lib_3.jpg)
 
 <span style="font-weight:bold">全称：</span>李文正馆
 
@@ -20,7 +20,7 @@
 
 ## 西馆
 
-![lib_1](../assets/lib_1.jpg)
+![lib_1](/assets/lib_1.jpg)
 
 <span style="font-weight:bold">全称：</span>逸夫馆
 
@@ -34,7 +34,7 @@
 
 ## 老馆
 
-![lib_2](../assets/lib_2.jpg)
+![lib_2](/assets/lib_2.jpg)
 
 <span style="font-weight:bold">全称：</span>老馆
 
@@ -48,7 +48,7 @@
 
 ## 文图
 
-![lib_4](../assets/lib_7.webp)
+![lib_4](/assets/lib_7.webp)
 
 <span style="font-weight:bold">全称：</span>人文社科图书馆
 
@@ -62,7 +62,7 @@
 
 ## 法图
 
-![lib_5](../assets/lib_5.jpg)
+![lib_5](/assets/lib_5.jpg)
 
 <span style="font-weight:bold">全称：</span>清华大学法律图书馆
 
@@ -76,7 +76,7 @@
 
 ## 经管图书馆
 
-![lib_6](../assets/lib_6.jpg)
+![lib_6](/assets/lib_6.jpg)
 
 <span style="font-weight:bold">全称：</span>清华大学经管图书馆
 
@@ -137,7 +137,7 @@
 
 <span style="font-weight:bold">续借流程</span>
 
-![lib_1](../assets/lib_1.png)
+![lib_1](/assets/lib_1.png)
 
 
 
