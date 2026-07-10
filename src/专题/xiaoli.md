@@ -1,6 +1,6 @@
 # 清华校历
 
-源自官网发布：
+源自官网发布： 
 
 [清华校历](https://www.tsinghua.edu.cn/zjqh/syxx/qhxl.htm)
 
