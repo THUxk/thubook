@@ -10,8 +10,6 @@
 
 [清华专业简称](./zhuanyejiancheng.md)
 
-
-
 ## 学号
 
 学号通常由 4位入学年份 + 2位类别码+4位id一共10位。
@@ -22,10 +20,7 @@
 
 [学号5-6位的含义](./xuehao56.md)
 
-<br/>
-<hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-6-1</span>
-<br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">自76张广昱</span>
-
+---
+*上次修改时间：2024-6-1*
+*贡献者：自76张广昱*
 

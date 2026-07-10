@@ -2,7 +2,7 @@
 
 ## 第一教学楼
 
-<span style="font-weight:bold">位置</span>：[二校门里西侧](https://www.amap.com/place/B000AA6Q33)
+**位置**：[二校门里西侧](https://www.amap.com/place/B000AA6Q33)
 
 ![image-20240529220805030](/assets/image-20240529220805030.png)
 
@@ -12,11 +12,9 @@
 
 一教、二教是离学生公寓最远的教室楼，离二校门比较近。
 
-
-
 ## 第二教室楼
 
-<span style="font-weight:bold">位置</span>：[一教北侧、日晷西侧](https://www.amap.com/place/B000AB9AEF)
+**位置**：[一教北侧、日晷西侧](https://www.amap.com/place/B000AB9AEF)
 
 ![image-20240529221041078](/assets/image-20240529221041078.png)
 
@@ -26,7 +24,7 @@
 
 ## 第三教室楼
 
-<span style="font-weight:bold">位置</span>：[学堂路东侧、南北主干道东侧、四教与六教中间](https://www.amap.com/place/B000AA0VLN)
+**位置**：[学堂路东侧、南北主干道东侧、四教与六教中间](https://www.amap.com/place/B000AA0VLN)
 
 ![image-20240529221808899](/assets/image-20240529221808899.png)
 
@@ -36,11 +34,9 @@
 
 三教的教室编号也是根据段号来排列，例如三教1103：第一位数字表示段号，第二位表示楼层，后两位表示教室的顺序号。
 
-
-
 ## 第四教室楼
 
-<span style="font-weight:bold">位置</span>：[学堂路西侧](https://www.amap.com/place/B0FFFE5PEQ)
+**位置**：[学堂路西侧](https://www.amap.com/place/B0FFFE5PEQ)
 
 紧邻五教的是一个以“开放、多元、共享”为主要设计理念的网红教学楼——第四教室楼（简称四教）。
 
@@ -52,25 +48,23 @@
 
 四教的教室编号也非常容易理解，和一教二教一样，只不过在最前面加了一个代表四教的4。如四教4204，第一位数字代表第四教室楼，第二位为楼层，后两位为教室的顺序号。
 
-
-
 ## 第五教室楼
 
-<span style="font-weight:bold">位置</span>：[学堂路西侧，紧邻四教](https://www.amap.com/place/B000ABCAJK)
+**位置**：[学堂路西侧，紧邻四教](https://www.amap.com/place/B000ABCAJK)
 
 ![image-20240529222056825](/assets/image-20240529222056825.png)
 
 楼体为两层，外观设计采用红白两种色调，与周边的“清华学堂”等老教学区建筑和谐相融。墙面有着葱绿的爬山虎，为建筑增添了夏季的清凉感。
 
-五教以两层为主，大胆地<span style="font-weight:bold">使用红白两种色调</span>，取得了与西邻的“清华学堂”等老教学区的建筑造型和色调上的谐和，楼内均为公用教室。
+五教以两层为主，大胆地**使用红白两种色调**，取得了与西邻的“清华学堂”等老教学区的建筑造型和色调上的谐和，楼内均为公用教室。
 
 ![image-20240529222111060](/assets/image-20240529222111060.png)
 
 ## 第六教学楼
 
-<span style="font-weight:bold">位置</span>：[三教东侧，新民路西侧](https://surl.amap.com/syQSqiEfgJd)
+**位置**：[三教东侧，新民路西侧](https://surl.amap.com/syQSqiEfgJd)
 
-校内规模最大的第六教学楼（简称：六教），清华<span style="font-weight:bold">规模最宏大、设施最先进</span>的教学大楼，共有A、B、C三栋大楼，各区之间有连廊链接。配置现代化教学设施，拥有高水平的多媒体电教及网络设备。
+校内规模最大的第六教学楼（简称：六教），清华**规模最宏大、设施最先进**的教学大楼，共有A、B、C三栋大楼，各区之间有连廊链接。配置现代化教学设施，拥有高水平的多媒体电教及网络设备。
 
 ![image-20240529222150152](/assets/image-20240529222150152.png)
 
@@ -84,7 +78,7 @@
 
 ## 西阶梯教室
 
-<span style="font-weight:bold">位置</span>：[大礼堂前西侧](https://www.amap.com/place/B000AA7YZ9)
+**位置**：[大礼堂前西侧](https://www.amap.com/place/B000AA7YZ9)
 
 离开二教，北穿越科学馆，便能抵达西阶梯教室（简称西阶）。
 
@@ -94,82 +88,66 @@
 
 ![image-20240529221404840](/assets/image-20240529221404840.png)
 
-
 ## 东阶梯教室
 
-<span style="font-weight:bold">位置</span>：[位于东主楼九区一楼，从东主楼九区后面进入即可](https://www.amap.com/place/B0FFG39KHH)
+**位置**：[位于东主楼九区一楼，从东主楼九区后面进入即可](https://www.amap.com/place/B0FFG39KHH)
 
 ![image-20240529225900101](/assets/image-20240529225900101.png)
 
 ## 清华学堂
 
-<span style="font-weight:bold">位置</span>：[清华学堂](https://www.amap.com/place/B0FFGAN9IJ)
+**位置**：[清华学堂](https://www.amap.com/place/B0FFGAN9IJ)
 
 ![image-20240529221502213](/assets/image-20240529221502213.png)
 
-<span style="font-weight:bold">清华学堂</span>是清华园内最早的建筑之一，这里学习氛围浓厚，清华学堂还有地下一层内有很多自习的地方，在那也有很多比较适合几个人一起开会的研讨间。
+**清华学堂**是清华园内最早的建筑之一，这里学习氛围浓厚，清华学堂还有地下一层内有很多自习的地方，在那也有很多比较适合几个人一起开会的研讨间。
 
 ![image-20240529221719416](/assets/image-20240529221719416.png)
 
-
 ## 逸夫技术科学楼（技科楼）
 
-<span style="font-weight:bold">位置</span>：[位于建筑馆南侧](https://www.amap.com/place/B000A81F5C)
+**位置**：[位于建筑馆南侧](https://www.amap.com/place/B000A81F5C)
 
 ![image-20240529225527914](/assets/image-20240529225527914.png)
 
 分为ABC三区。命名规则：第一位数字是段号，第二位是楼层，后两位是顺序号，如技科楼3217。
 
-
-
 ## 新水利馆（新水）
 
-<span style="font-weight:bold">位置</span>：[位于大礼堂东侧](https://www.amap.com/place/B0FFFEILL9)
+**位置**：[位于大礼堂东侧](https://www.amap.com/place/B0FFFEILL9)
 
 ![image-20240529225718813](/assets/image-20240529225718813.png)
 
 命名规则：第一位数字是楼层，后两位是顺序号，如新水301。
 
-
-
-
-
-
 ## 文北楼
 
-<span style="font-weight:bold">位置</span>：[新水利馆东侧](https://www.amap.com/place/B0FFFDWVNX)
+**位置**：[新水利馆东侧](https://www.amap.com/place/B0FFFDWVNX)
 
 ![image-20240529230022647](/assets/image-20240529230022647.png)
 
 命名规则：第一位数字是楼层，后两位是顺序号，如文207。
 
-
-
 ## 伟伦楼
 
 即新经管楼
 
-<span style="font-weight:bold">位置</span>：p中央主楼南侧，建筑馆西侧](https://www.amap.com/place/B000A7EJ3U)
+**位置**：p中央主楼南侧，建筑馆西侧](https://www.amap.com/place/B000A7EJ3U)
 
 ![image-20240529230311023](/assets/image-20240529230311023.png)
 
 分为南楼、中楼、北楼。命名规则：第一位数字是楼层，后两位是顺序号，如新经管北405。
 
-
-
 ## 明理楼
 
 即法学院大楼
 
-<span style="font-weight:bold">位置</span>：[主楼南侧、技科楼西侧、北邻经管学院伟伦楼](https://www.amap.com/place/B000AA0VLJ)
+**位置**：[主楼南侧、技科楼西侧、北邻经管学院伟伦楼](https://www.amap.com/place/B000AA0VLJ)
 
 ![image-20240529230450211](/assets/image-20240529230450211.png)
 
 命名规则：第一位数字是楼层，后两位是顺序号，如明理楼11
 
-<br/>
-
-<hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-6-13</span>
-<br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">软3eric，计76林慎吾</span>
+---
+*上次修改时间：2024-6-13*
+*贡献者：软3eric，计76林慎吾*

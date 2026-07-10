@@ -22,8 +22,6 @@
 
 **介绍**：书店改成的咖啡厅，开到两点，刷夜绝佳场所。但是书籍很少，不推荐来这买书
 
-<br/>
-<hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-9-7</span>
-<br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">电41花青</span>
+---
+*上次修改时间：2024-9-7*
+*贡献者：电41花青*

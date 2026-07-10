@@ -15,32 +15,21 @@
 |D|1.3|60-62|61|
 |F|0|0-59|0|
 
-
-
-<br></br>
-
 其他不计入GPA的等级：
 
-<p style="font-weight:bold">P(pass)：通过</p>
+**P(pass)：通过**
 
 部分课程不计入GPA,只记录P/F，这些课又叫pf课，通常比较抢手。
 
-<br></br>
-
-<p style="font-weight:bold">W(withdraw)：退课</p>
+**W(withdraw)：退课**
 
 在退课第二阶段（通常上了半学期）将课程退掉不上了，记录W，补退选第一阶段退课的（通常为开学第一周），不记录W。
 
-<br></br>
-
-<p style="font-weight:bold">EX(exemption)：免修</p>
+**EX(exemption)：免修**
 
 通过教务批准免修的课，学分计入，但是不计入GPA。
 
-<br/>
-<hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-6-1</span>
-<br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">自76张广昱</span>
-
+---
+*上次修改时间：2024-6-1*
+*贡献者：自76张广昱*
 

@@ -26,9 +26,6 @@
 
 谷歌学术 <https://scholar.google.com/> 
 
-
-<br/>
-<hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-6-13</span>
-<br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">计76林慎吾</span>
+---
+*上次修改时间：2024-6-13*
+*贡献者：计76林慎吾*

@@ -35,8 +35,6 @@
 以上为官方简称，另有一些非官方的俗称，见:
 [清华文化](./thuculture.md)
 
-<br/>
-<hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-6-21</span>
-<br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">航11赤舟，自76张广昱</span>
+---
+*上次修改时间：2024-6-21*
+*贡献者：航11赤舟，自76张广昱*

@@ -2,46 +2,44 @@
 
 ## 紫3
 
-<span style="font-weight:bold">地点</span>：桃李园西侧，紫荆3号楼  
-<span style="font-weight:bold">营业时间</span>：08:30 - 21:30  
-<span style="font-weight:bold">介绍</span>：13717742589
+**地点**：桃李园西侧，紫荆3号楼  
+**营业时间**：08:30 - 21:30  
+**介绍**：13717742589
 
 ## 紫5
 
-<span style="font-weight:bold">地点</span>：紫荆园西侧紫荆5号楼  
-<span style="font-weight:bold">营业时间</span>：08:30 - 20:00  
-<span style="font-weight:bold">介绍</span>：13717862907
+**地点**：紫荆园西侧紫荆5号楼  
+**营业时间**：08:30 - 20:00  
+**介绍**：13717862907
 
 ## 紫9
 
-<span style="font-weight:bold">地点</span>：紫荆园东侧，紫荆9号楼  
-<span style="font-weight:bold">营业时间</span>：09:00 - 20:00（营业时间早晚8、9点之间不完全固定）  
-<span style="font-weight:bold">介绍</span>：正常营业
+**地点**：紫荆园东侧，紫荆9号楼  
+**营业时间**：09:00 - 20:00（营业时间早晚8、9点之间不完全固定）  
+**介绍**：正常营业
 
 ## 食拾实修车铺
 
 ![xiuche_2](/assets/xiuche_2.jpg)
 
-<span style="font-weight:bold">地点</span>：学生公寓18号楼前  
-<span style="font-weight:bold">营业时间</span>：08:30 - 21:00  
-<span style="font-weight:bold">介绍</span>：18519761279
+**地点**：学生公寓18号楼前  
+**营业时间**：08:30 - 21:00  
+**介绍**：18519761279
 
 ## 小桥修车铺
 
 ![xiuche_1](/assets/xiuche_1.jpg)
 
-<span style="font-weight:bold">地点</span>：学生公寓19号楼南侧  
-<span style="font-weight:bold">营业时间</span>：08:00 - 20:00  
-<span style="font-weight:bold">介绍</span>：13718519342
+**地点**：学生公寓19号楼南侧  
+**营业时间**：08:00 - 20:00  
+**介绍**：13718519342
 
 ## 徐师傅修车铺
 
-<span style="font-weight:bold">地点</span>：南区学生公寓15号楼东侧  
-<span style="font-weight:bold">营业时间</span>：08:00 - 21:30  
-<span style="font-weight:bold">介绍</span>：暂无
+**地点**：南区学生公寓15号楼东侧  
+**营业时间**：08:00 - 21:30  
+**介绍**：暂无
 
-<br/>
-<hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2026-7-10</span>
-<br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">计76林慎吾、至善51黄丽洁</span>
+---
+*上次修改时间：2026-7-10*
+*贡献者：计76林慎吾、至善51黄丽洁*

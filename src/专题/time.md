@@ -1,84 +1,25 @@
 # 上课时间表
 
-<table align="center">
-    <tr align="center">
-        <td colspan="3">清华大学 上课时间表</td>
-    </tr>
-    <tr align="center">
-        <td colspan="3">上午</td>
-    </tr>
-    <tr align="center">
-        <td rowspan="2">第一大节</td>
-        <td>第1小节</td>
-        <td>8:00 - 8:45</td>
-    </tr>
-    <tr align="center">
-    	<td>第2小节</td>
-        <td>8:50 - 9:35</td>
-    </tr>
-    <tr align="center">
-        <td rowspan="3">第二大节</td>
-        <td>第3小节</td>
-        <td>9:50 - 10:35</td>
-    </tr>
-    <tr align="center">
-    	<td>第4小节</td>
-        <td>10:40 - 11:25</td>
-    </tr>
-    <tr align="center">
-    	<td>第5小节</td>
-        <td>11:30 - 12:15</td>
-    </tr>
-    <tr align="center">
-        <td colspan="3">下午</td>
-    </tr>
-    <tr align = "center">
-    	<td rowspan="2">第三大节</td>
-        <td>第6小节</td>
-        <td>13:30 - 14:15</td>
-    </tr>
-    <tr align="center">
-    	<td>第7小节</td>
-        <td>14:20 - 15:05</td>
-    </tr>
-    <tr align = "center">
-    	<td rowspan="2">第四大节</td>
-        <td>第8小节</td>
-        <td>15:20 - 16:05</td>
-    </tr>
-    <tr align="center">
-    	<td>第9小节</td>
-        <td>16:10 - 16:55</td>
-    </tr>    
-    <tr align="center">
-        <td rowspan="2">第五大节</td>
-        <td>第10小节</td>
-        <td>17:05 - 17:50</td>
-    </tr>
-    <tr align="center">
-    	<td>第11小节</td>
-        <td>17:55 - 18:40</td>
-    </tr>
-    <tr align="center">
-        <td colspan="3">晚上</td>
-    </tr>
-    <tr align="center">
-        <td rowspan="3">第六大节</td>
-        <td>第12小节</td>
-        <td>19:20 - 20:05</td>
-    </tr>
-    <tr align="center">
-    	<td>第13小节</td>
-        <td>20:10 - 20:55</td>
-    </tr>
-    <tr align="center">
-    	<td>第14小节</td>
-        <td>21:00 - 21:45</td>
-    </tr> 
-</table>
+| 清华大学 上课时间表 |  |  |
+| --- | --- | --- |
+| 上午 |  |  |
+| 第一大节 | 第1小节 | 8:00 - 8:45 |
+| 第一大节 | 第2小节 | 8:50 - 9:35 |
+| 第二大节 | 第3小节 | 9:50 - 10:35 |
+| 第二大节 | 第4小节 | 10:40 - 11:25 |
+| 第二大节 | 第5小节 | 11:30 - 12:15 |
+| 下午 |  |  |
+| 第三大节 | 第6小节 | 13:30 - 14:15 |
+| 第三大节 | 第7小节 | 14:20 - 15:05 |
+| 第四大节 | 第8小节 | 15:20 - 16:05 |
+| 第四大节 | 第9小节 | 16:10 - 16:55 |
+| 第五大节 | 第10小节 | 17:05 - 17:50 |
+| 第五大节 | 第11小节 | 17:55 - 18:40 |
+| 晚上 |  |  |
+| 第六大节 | 第12小节 | 19:20 - 20:05 |
+| 第六大节 | 第13小节 | 20:10 - 20:55 |
+| 第六大节 | 第14小节 | 21:00 - 21:45 |
 
-<br/>
-<hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-6-1</span>
-<br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">自76张广昱</span>
+---
+*上次修改时间：2024-6-1*
+*贡献者：自76张广昱*

@@ -10,6 +10,7 @@ export default hopeTheme({
   navTitle:"THU手册",
   darkmode:"disable",
   sidebar,
-  headerDepth:1
+  headerDepth:1,
+  contributors: false
 })
 

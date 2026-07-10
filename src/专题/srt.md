@@ -59,8 +59,6 @@ Student Research Training，简称SRT，是大多数本科生参与科研的一�
 18. **SRT计划可取代其他实践教学环节吗**：学生可要求取代综合论文训练，须向所在院系提出申请并参加结题答辩。
 19. **SRT计划优秀项目评选与奖励**：每学年秋季学期11月开展评优工作，对表现突出的项目及其参与者和指导教师进行奖励，并对组织工作成绩突出的院系实行奖励。
 
-<br/>
-<hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-6-13</span>
-<br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">计76林慎吾</span>
+---
+*上次修改时间：2024-6-13*
+*贡献者：计76林慎吾*
