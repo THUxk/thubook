@@ -6,13 +6,21 @@
 <span style="font-weight:bold">营业时间</span>：10:30 - 21:00  
 <span style="font-weight:bold">介绍</span>：类似于西餐厅，有汉堡，咖啡，也有意面之类
 
-## 独峰书院
+## 肯悦咖啡
 
 <img src="../assets/life_7.jpg" alt="life_7" style="zoom:50%;" />
 
 <span style="font-weight:bold">地点</span>：清西文化长廊，观畴园向东步行1分钟  
-<span style="font-weight:bold">营业时间</span>：9:30 - 24:00  
-<span style="font-weight:bold">介绍</span>：顶流书院（雾）
+<span style="font-weight:bold">营业时间</span>：7:00 - 23:00  
+<span style="font-weight:bold">介绍</span>：咖啡、蛋挞、帕尼尼
+
+## 蜜雪冰城
+
+<span style="font-weight:bold">地点</span>：观畴地下
+
+<span style="font-weight:bold">营业时间</span>：10:00 - 20:00
+
+<span style="font-weight:bold">介绍</span>：奶茶 
 
 ## 紫荆书咖
 
@@ -22,14 +30,14 @@
 <span style="font-weight:bold">营业时间</span>：9:00 - 次日2:00（节假日适当调整）  
 <span style="font-weight:bold">介绍</span>：咖啡饮品，图书文创
 
-## 安家小厨
+## 拉瓦萨咖啡（Lavazza）
 
 <img src="../assets/life_2.jpg" alt="life_2" style="zoom: 33%;" />
 
-<span style="font-weight:bold">地点</span>：文图正下方，座位有大约20个，每日面包在群中接龙  
-<span style="font-weight:bold">营业时间</span>：8:00 - 19:00  
+<span style="font-weight:bold">地点</span>：文图正下方  
+<span style="font-weight:bold">营业时间</span>：7:30 - 22:00  
 
-<span style="font-weight:bold">介绍</span>：面包不错
+<span style="font-weight:bold">介绍</span>：咖啡、三明治、冰淇淋、pizza等，主要是面包甜品简餐
 
 ## 邺架轩
 
@@ -111,19 +119,96 @@
 
 <span style="font-weight:bold">介绍</span>：好喝的奶茶，水果茶
 
-## 厝内小眷村
-
-<img src="../assets/life_11.jpg" alt="life_11" style="zoom:33%;" />
+## 蜜雪冰城
 
 <span style="font-weight:bold">地点</span>：C楼负一
 
-<span style="font-weight:bold">营业时间</span>：10:00 - 20:00
+<span style="font-weight:bold">营业时间</span>：11:00 - 21:30
 
 <span style="font-weight:bold">介绍</span>：奶茶 
 
+## 库迪咖啡
+
+<span style="font-weight:bold">地点</span>：C楼负一
+
+<span style="font-weight:bold">营业时间</span>：08:00 - 20:00
+
+<span style="font-weight:bold">介绍</span>：咖啡
+
+## 瑞幸咖啡
+
+<span style="font-weight:bold">地点</span>：清芬1F
+
+<span style="font-weight:bold">营业时间</span>：07:00 - 20:00
+
+<span style="font-weight:bold">介绍</span>：咖啡
+
+## 瑞幸咖啡
+
+<span style="font-weight:bold">地点</span>：北体育馆1F
+
+<span style="font-weight:bold">营业时间</span>：08:00 - 20:00
+
+<span style="font-weight:bold">介绍</span>：咖啡
+
+## 瑞幸咖啡
+
+<span style="font-weight:bold">地点</span>：公共管理学院1F
+
+<span style="font-weight:bold">营业时间</span>：08:00 - 19:30
+
+<span style="font-weight:bold">介绍</span>：咖啡
+
+## tims天好咖啡
+
+<span style="font-weight:bold">地点</span>：北体育馆1M层
+
+<span style="font-weight:bold">营业时间</span>：07:00 - 21:00
+
+<span style="font-weight:bold">介绍</span>：咖啡、面包
+
+## 星巴克
+
+<span style="font-weight:bold">地点</span>：李文正馆靠近情人坡一侧
+
+<span style="font-weight:bold">营业时间</span>：06:30 - 22:00
+
+<span style="font-weight:bold">介绍</span>：咖啡
+
+## mini-co小咖咖啡
+
+<span style="font-weight:bold">地点</span>：清芬1F
+
+<span style="font-weight:bold">营业时间</span>：08:30 - 19:00
+
+<span style="font-weight:bold">介绍</span>：咖啡
+
+## 霸王茶姬
+
+<span style="font-weight:bold">地点</span>：澜园北侧
+
+<span style="font-weight:bold">营业时间</span>：07:00 - 21:30
+
+<span style="font-weight:bold">介绍</span>：咖啡
+
+## 艺博咖啡
+
+<span style="font-weight:bold">地点</span>：艺术博物馆1F正门左侧
+
+<span style="font-weight:bold">营业时间</span>：每周二至周日09:00 - 17:00
+
+<span style="font-weight:bold">介绍</span>：咖啡、小吃
+
+## 美院咖啡
+
+<span style="font-weight:bold">地点</span>：美院B座2F
+
+<span style="font-weight:bold">营业时间</span>：工作日07:00 - 19:00、节假日9：00-18：00
+
+<span style="font-weight:bold">介绍</span>：咖啡
 
 <br/>
 <hr/>
-<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2024-6-1</span>
+<span style = "font-size:.8em;color:#4e6e8e">上次修改时间：</span><span style = "font-size:.8em;color:#999999">2026-7-10</span>
 <br></br>
-<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">计76林慎吾</span>
+<span style = "font-size:.8em;color:#4e6e8e">贡献者：</span><span style = "font-size:.8em;color:#999999">计76林慎吾、至善51黄丽洁</span>
