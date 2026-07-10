@@ -96,12 +96,12 @@
 
 ##### **学生清华：校内活动室、研讨间预约、查询阳光体育成绩**
 
-![gzh_22](bfb2362e342f6176df8e26f0b9a3bac6.jpg)
+![gzh_22](/assets/bfb2362e342f6176df8e26f0b9a3bac6.jpg)
 
 ##### **清小搭：校园人工智能体、答疑解惑**
 
-![gzh_22](a754b30ed2a35b90170259e9c8675afb.jpg)
+![gzh_22](/assets/a754b30ed2a35b90170259e9c8675afb.jpg)
 
 ##### **1911星球：活动赛事名额预约**
 
-![gzh_22](1fff75ddc03e50753c6fdfc8d0d412bf.jpg)
+![gzh_22](/assets/1fff75ddc03e50753c6fdfc8d0d412bf.jpg)
