@@ -6,8 +6,8 @@
 
 ## 2026-2027 秋
 
-![xl](/assets/2026qiuji.jpg)
+![xl](/src/assets/2026qiuji.jpg)
 
 ## 2026-2027 春
 
-![xl](/assets/2027chunji.jpg)
+![xl](/src/assets/2027chunji.jpg)
