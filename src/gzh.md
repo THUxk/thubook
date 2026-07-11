@@ -96,7 +96,7 @@
 
 ##### **学生清华：校内活动室、研讨间预约、查询阳光体育成绩**
 
-![test](f191f00356bfe15d578962bd9c8778e4.jpg)
+![test](/assets/f191f00356bfe15d578962bd9c8778e4.jpg)
 
 ![gzh_22](/assets/bfb2362e342f6176df8e26f0b9a3bac6.jpg)
 
