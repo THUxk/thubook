@@ -87,6 +87,7 @@
 网址：https://50.tsinghua.edu.cn/
 
 预约各种体育场馆，气膜馆，游泳馆等
+
 ### 信息服务
 
 #### [校园公共软件its](http://its.tsinghua.edu.cn)
@@ -106,6 +107,7 @@
 网址：https://cloud.tsinghua.edu.cn/
 
 每人提供300G的免费存储空间
+
 #### [清华邮箱](https://mails.tsinghua.edu.cn)
 
 网址：https://mails.tsinghua.edu.cn
@@ -126,7 +128,7 @@
 
 清华课程评测网站
 
-网址：https://yourschool.cc.cd/thucourse
+网址：https://thubook.help/thucourse
 
 ![wb7](/assets/wb7.png)
 
@@ -146,7 +148,7 @@
 
 ![wb6](/assets/wb6.jpg)
 
-注：清华ppt模版被很多**无良营销号**(如 **某某助手，某某小助手，某某小喇叭，某某大喇叭，云上*友圈**之流)拿去做转发推广引流，并在里面贴上了他们的营销二维码，请大家自觉抵制这种无良低劣账号，团体，平台。
+注：清华ppt模版被很多**无良营销号**(如 **某某助手，某某小助手，某某小喇叭，某某大喇叭，云上\*友圈**之流)拿去做转发推广引流，并在里面贴上了他们的营销二维码，请大家自觉抵制这种无良低劣账号，团体，平台。
 
 ### [thuinfo](https://github.com/thu-info-community/thu-info-app)
 
@@ -193,4 +195,3 @@ info的app版，封装了许多info的实用功能
 出国留学指南
 
 网址：<https://feiyue.online/>
-
