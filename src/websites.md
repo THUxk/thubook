@@ -164,7 +164,7 @@ info的app版，封装了许多info的实用功能
 
 ### [coursex](https://tsinghua.app/courses)
 
-清华大学课程共享计划，可以用来查询某门课，某位老师的开课信息
+清华大学课程共享计划，可以用来查询某门课，某位老师的开课信息和上课地点，一般用于旁听感兴趣但没选上的课程。
 
 ![wb3](/assets/websites_3.png)
 
