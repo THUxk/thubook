@@ -1,1 +1,14 @@
-export const data = JSON.parse("{\"key\":\"v-5a9e45ae\",\"path\":\"/%E4%B8%93%E9%A2%98/erzhao.html\",\"title\":\"二招及学堂班\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"学堂班\",\"slug\":\"学堂班\",\"link\":\"#学堂班\",\"children\":[{\"level\":3,\"title\":\"数学班\",\"slug\":\"数学班\",\"link\":\"#数学班\",\"children\":[]},{\"level\":3,\"title\":\"叶企孙物理班\",\"slug\":\"叶企孙物理班\",\"link\":\"#叶企孙物理班\",\"children\":[]},{\"level\":3,\"title\":\"化学班\",\"slug\":\"化学班\",\"link\":\"#化学班\",\"children\":[]},{\"level\":3,\"title\":\"生命科学班\",\"slug\":\"生命科学班\",\"link\":\"#生命科学班\",\"children\":[]},{\"level\":3,\"title\":\"计算机科学实验班\",\"slug\":\"计算机科学实验班\",\"link\":\"#计算机科学实验班\",\"children\":[]},{\"level\":3,\"title\":\"钱学森力学班\",\"slug\":\"钱学森力学班\",\"link\":\"#钱学森力学班\",\"children\":[]},{\"level\":3,\"title\":\"哲学班\",\"slug\":\"哲学班\",\"link\":\"#哲学班\",\"children\":[]},{\"level\":3,\"title\":\"经济学班\",\"slug\":\"经济学班\",\"link\":\"#经济学班\",\"children\":[]}]},{\"level\":2,\"title\":\"二招\",\"slug\":\"二招\",\"link\":\"#二招\",\"children\":[]}],\"git\":{\"createdTime\":1783099945000,\"updatedTime\":1783701521000,\"contributors\":[{\"name\":\"Updater\",\"email\":\"\",\"commits\":1},{\"name\":\"root\",\"email\":\"root@LIN-LAPTOP.localdomain\",\"commits\":1}]},\"readingTime\":{\"minutes\":3.73,\"words\":1120},\"filePathRelative\":\"专题/erzhao.md\",\"localizedDate\":\"2026年7月3日\"}")
+export const data = JSON.parse("{\"key\":\"v-5a9e45ae\",\"path\":\"/%E4%B8%93%E9%A2%98/erzhao.html\",\"title\":\"二招及学堂班\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"学堂班\",\"slug\":\"学堂班\",\"link\":\"#学堂班\",\"children\":[{\"level\":3,\"title\":\"数学班\",\"slug\":\"数学班\",\"link\":\"#数学班\",\"children\":[]},{\"level\":3,\"title\":\"叶企孙物理班\",\"slug\":\"叶企孙物理班\",\"link\":\"#叶企孙物理班\",\"children\":[]},{\"level\":3,\"title\":\"化学班\",\"slug\":\"化学班\",\"link\":\"#化学班\",\"children\":[]},{\"level\":3,\"title\":\"生命科学班\",\"slug\":\"生命科学班\",\"link\":\"#生命科学班\",\"children\":[]},{\"level\":3,\"title\":\"计算机科学实验班\",\"slug\":\"计算机科学实验班\",\"link\":\"#计算机科学实验班\",\"children\":[]},{\"level\":3,\"title\":\"钱学森力学班\",\"slug\":\"钱学森力学班\",\"link\":\"#钱学森力学班\",\"children\":[]},{\"level\":3,\"title\":\"哲学班\",\"slug\":\"哲学班\",\"link\":\"#哲学班\",\"children\":[]},{\"level\":3,\"title\":\"经济学班\",\"slug\":\"经济学班\",\"link\":\"#经济学班\",\"children\":[]}]},{\"level\":2,\"title\":\"二招\",\"slug\":\"二招\",\"link\":\"#二招\",\"children\":[]}],\"readingTime\":{\"minutes\":3.83,\"words\":1148},\"filePathRelative\":\"专题/erzhao.md\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

@@ -1,1 +1,14 @@
-export const data = JSON.parse("{\"key\":\"v-3715cd4a\",\"path\":\"/jiqiao.html\",\"title\":\"校园技巧\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"生活\",\"slug\":\"生活\",\"link\":\"#生活\",\"children\":[]},{\"level\":2,\"title\":\"学习\",\"slug\":\"学习\",\"link\":\"#学习\",\"children\":[]}],\"git\":{\"createdTime\":1783099945000,\"updatedTime\":1783701521000,\"contributors\":[{\"name\":\"Updater\",\"email\":\"\",\"commits\":1},{\"name\":\"root\",\"email\":\"root@LIN-LAPTOP.localdomain\",\"commits\":1}]},\"readingTime\":{\"minutes\":1.87,\"words\":562},\"filePathRelative\":\"jiqiao.md\",\"localizedDate\":\"2026年7月3日\"}")
+export const data = JSON.parse("{\"key\":\"v-3715cd4a\",\"path\":\"/jiqiao.html\",\"title\":\"校园技巧\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"生活\",\"slug\":\"生活\",\"link\":\"#生活\",\"children\":[]},{\"level\":2,\"title\":\"学习\",\"slug\":\"学习\",\"link\":\"#学习\",\"children\":[]}],\"readingTime\":{\"minutes\":1.87,\"words\":562},\"filePathRelative\":\"jiqiao.md\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

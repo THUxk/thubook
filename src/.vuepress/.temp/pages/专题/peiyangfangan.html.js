@@ -1,1 +1,14 @@
-export const data = JSON.parse("{\"key\":\"v-100a626c\",\"path\":\"/%E4%B8%93%E9%A2%98/peiyangfangan.html\",\"title\":\"培养方案\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[],\"git\":{\"createdTime\":1783099945000,\"updatedTime\":1783300271000,\"contributors\":[{\"name\":\"LinTHU\",\"email\":\"DPICW_WY@163.com\",\"commits\":1},{\"name\":\"root\",\"email\":\"root@LIN-LAPTOP.localdomain\",\"commits\":1}]},\"readingTime\":{\"minutes\":0.17,\"words\":52},\"filePathRelative\":\"专题/peiyangfangan.md\",\"localizedDate\":\"2026年7月3日\"}")
+export const data = JSON.parse("{\"key\":\"v-100a626c\",\"path\":\"/%E4%B8%93%E9%A2%98/peiyangfangan.html\",\"title\":\"培养方案\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[],\"readingTime\":{\"minutes\":0.17,\"words\":52},\"filePathRelative\":\"专题/peiyangfangan.md\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

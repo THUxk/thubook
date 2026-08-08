@@ -19,42 +19,12 @@ export const pagesData = {
   "v-fe548b70": () => import(/* webpackChunkName: "v-fe548b70" */"/root/thubook/src/.vuepress/.temp/pages/websites.html.js").then(({ data }) => data),
   // path: /words.html
   "v-5b11b789": () => import(/* webpackChunkName: "v-5b11b789" */"/root/thubook/src/.vuepress/.temp/pages/words.html.js").then(({ data }) => data),
-  // path: /%E5%85%B6%E4%BB%96/keyanweb.html
-  "v-cb606780": () => import(/* webpackChunkName: "v-cb606780" */"/root/thubook/src/.vuepress/.temp/pages/其他/keyanweb.html.js").then(({ data }) => data),
-  // path: /%E5%85%B6%E4%BB%96/lvyou.html
-  "v-46a90ad6": () => import(/* webpackChunkName: "v-46a90ad6" */"/root/thubook/src/.vuepress/.temp/pages/其他/lvyou.html.js").then(({ data }) => data),
-  // path: /%E5%85%B6%E4%BB%96/park.html
-  "v-3d042e1e": () => import(/* webpackChunkName: "v-3d042e1e" */"/root/thubook/src/.vuepress/.temp/pages/其他/park.html.js").then(({ data }) => data),
-  // path: /%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/buybook.html
-  "v-3e338724": () => import(/* webpackChunkName: "v-3e338724" */"/root/thubook/src/.vuepress/.temp/pages/校内生活设施/buybook.html.js").then(({ data }) => data),
-  // path: /%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/chaoshi.html
-  "v-fea2f75c": () => import(/* webpackChunkName: "v-fea2f75c" */"/root/thubook/src/.vuepress/.temp/pages/校内生活设施/chaoshi.html.js").then(({ data }) => data),
-  // path: /%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/dayin.html
-  "v-44ca74dc": () => import(/* webpackChunkName: "v-44ca74dc" */"/root/thubook/src/.vuepress/.temp/pages/校内生活设施/dayin.html.js").then(({ data }) => data),
-  // path: /%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/kafei.html
-  "v-0c753e82": () => import(/* webpackChunkName: "v-0c753e82" */"/root/thubook/src/.vuepress/.temp/pages/校内生活设施/kafei.html.js").then(({ data }) => data),
-  // path: /%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/lifa.html
-  "v-66095bc7": () => import(/* webpackChunkName: "v-66095bc7" */"/root/thubook/src/.vuepress/.temp/pages/校内生活设施/lifa.html.js").then(({ data }) => data),
-  // path: /%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/sm.html
-  "v-923669b6": () => import(/* webpackChunkName: "v-923669b6" */"/root/thubook/src/.vuepress/.temp/pages/校内生活设施/sm.html.js").then(({ data }) => data),
-  // path: /%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/xiuche.html
-  "v-76cd1d43": () => import(/* webpackChunkName: "v-76cd1d43" */"/root/thubook/src/.vuepress/.temp/pages/校内生活设施/xiuche.html.js").then(({ data }) => data),
-  // path: /%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/xiyifang.html
-  "v-713628ea": () => import(/* webpackChunkName: "v-713628ea" */"/root/thubook/src/.vuepress/.temp/pages/校内生活设施/xiyifang.html.js").then(({ data }) => data),
-  // path: /%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/yanjing.html
-  "v-75734756": () => import(/* webpackChunkName: "v-75734756" */"/root/thubook/src/.vuepress/.temp/pages/校内生活设施/yanjing.html.js").then(({ data }) => data),
-  // path: /%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/yd.html
-  "v-3622ddd8": () => import(/* webpackChunkName: "v-3622ddd8" */"/root/thubook/src/.vuepress/.temp/pages/校内生活设施/yd.html.js").then(({ data }) => data),
-  // path: /%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/yinhang.html
-  "v-04d9ad63": () => import(/* webpackChunkName: "v-04d9ad63" */"/root/thubook/src/.vuepress/.temp/pages/校内生活设施/yinhang.html.js").then(({ data }) => data),
-  // path: /%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/youju.html
-  "v-b69ad96e": () => import(/* webpackChunkName: "v-b69ad96e" */"/root/thubook/src/.vuepress/.temp/pages/校内生活设施/youju.html.js").then(({ data }) => data),
-  // path: /%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/zhaoxiang.html
-  "v-ae98fa34": () => import(/* webpackChunkName: "v-ae98fa34" */"/root/thubook/src/.vuepress/.temp/pages/校内生活设施/zhaoxiang.html.js").then(({ data }) => data),
   // path: /%E4%B8%93%E9%A2%98/chuguo.html
   "v-1a6354be": () => import(/* webpackChunkName: "v-1a6354be" */"/root/thubook/src/.vuepress/.temp/pages/专题/chuguo.html.js").then(({ data }) => data),
   // path: /%E4%B8%93%E9%A2%98/dance.html
   "v-6f09f92d": () => import(/* webpackChunkName: "v-6f09f92d" */"/root/thubook/src/.vuepress/.temp/pages/专题/dance.html.js").then(({ data }) => data),
+  // path: /%E4%B8%93%E9%A2%98/ed06289b8b6f.html
+  "v-6860cd84": () => import(/* webpackChunkName: "v-6860cd84" */"/root/thubook/src/.vuepress/.temp/pages/专题/ed06289b8b6f.html.js").then(({ data }) => data),
   // path: /%E4%B8%93%E9%A2%98/erzhao.html
   "v-5a9e45ae": () => import(/* webpackChunkName: "v-5a9e45ae" */"/root/thubook/src/.vuepress/.temp/pages/专题/erzhao.html.js").then(({ data }) => data),
   // path: /%E4%B8%93%E9%A2%98/exit.html
@@ -127,16 +97,48 @@ export const pagesData = {
   "v-5884a076": () => import(/* webpackChunkName: "v-5884a076" */"/root/thubook/src/.vuepress/.temp/pages/专题/zszn.html.js").then(({ data }) => data),
   // path: /%E4%B8%93%E9%A2%98/zzy.html
   "v-6bbdf127": () => import(/* webpackChunkName: "v-6bbdf127" */"/root/thubook/src/.vuepress/.temp/pages/专题/zzy.html.js").then(({ data }) => data),
+  // path: /%E5%85%B6%E4%BB%96/keyanweb.html
+  "v-cb606780": () => import(/* webpackChunkName: "v-cb606780" */"/root/thubook/src/.vuepress/.temp/pages/其他/keyanweb.html.js").then(({ data }) => data),
+  // path: /%E5%85%B6%E4%BB%96/lvyou.html
+  "v-46a90ad6": () => import(/* webpackChunkName: "v-46a90ad6" */"/root/thubook/src/.vuepress/.temp/pages/其他/lvyou.html.js").then(({ data }) => data),
+  // path: /%E5%85%B6%E4%BB%96/park.html
+  "v-3d042e1e": () => import(/* webpackChunkName: "v-3d042e1e" */"/root/thubook/src/.vuepress/.temp/pages/其他/park.html.js").then(({ data }) => data),
   // path: /%E8%80%81%E4%B9%A1%E5%9C%A8%E6%B8%85%E5%8D%8E/hunan.html
   "v-3e493e2c": () => import(/* webpackChunkName: "v-3e493e2c" */"/root/thubook/src/.vuepress/.temp/pages/老乡在清华/hunan.html.js").then(({ data }) => data),
+  // path: /%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/buybook.html
+  "v-3e338724": () => import(/* webpackChunkName: "v-3e338724" */"/root/thubook/src/.vuepress/.temp/pages/校内生活设施/buybook.html.js").then(({ data }) => data),
+  // path: /%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/chaoshi.html
+  "v-fea2f75c": () => import(/* webpackChunkName: "v-fea2f75c" */"/root/thubook/src/.vuepress/.temp/pages/校内生活设施/chaoshi.html.js").then(({ data }) => data),
+  // path: /%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/dayin.html
+  "v-44ca74dc": () => import(/* webpackChunkName: "v-44ca74dc" */"/root/thubook/src/.vuepress/.temp/pages/校内生活设施/dayin.html.js").then(({ data }) => data),
+  // path: /%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/kafei.html
+  "v-0c753e82": () => import(/* webpackChunkName: "v-0c753e82" */"/root/thubook/src/.vuepress/.temp/pages/校内生活设施/kafei.html.js").then(({ data }) => data),
+  // path: /%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/lifa.html
+  "v-66095bc7": () => import(/* webpackChunkName: "v-66095bc7" */"/root/thubook/src/.vuepress/.temp/pages/校内生活设施/lifa.html.js").then(({ data }) => data),
+  // path: /%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/sm.html
+  "v-923669b6": () => import(/* webpackChunkName: "v-923669b6" */"/root/thubook/src/.vuepress/.temp/pages/校内生活设施/sm.html.js").then(({ data }) => data),
+  // path: /%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/xiuche.html
+  "v-76cd1d43": () => import(/* webpackChunkName: "v-76cd1d43" */"/root/thubook/src/.vuepress/.temp/pages/校内生活设施/xiuche.html.js").then(({ data }) => data),
+  // path: /%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/xiyifang.html
+  "v-713628ea": () => import(/* webpackChunkName: "v-713628ea" */"/root/thubook/src/.vuepress/.temp/pages/校内生活设施/xiyifang.html.js").then(({ data }) => data),
+  // path: /%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/yanjing.html
+  "v-75734756": () => import(/* webpackChunkName: "v-75734756" */"/root/thubook/src/.vuepress/.temp/pages/校内生活设施/yanjing.html.js").then(({ data }) => data),
+  // path: /%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/yd.html
+  "v-3622ddd8": () => import(/* webpackChunkName: "v-3622ddd8" */"/root/thubook/src/.vuepress/.temp/pages/校内生活设施/yd.html.js").then(({ data }) => data),
+  // path: /%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/yinhang.html
+  "v-04d9ad63": () => import(/* webpackChunkName: "v-04d9ad63" */"/root/thubook/src/.vuepress/.temp/pages/校内生活设施/yinhang.html.js").then(({ data }) => data),
+  // path: /%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/youju.html
+  "v-b69ad96e": () => import(/* webpackChunkName: "v-b69ad96e" */"/root/thubook/src/.vuepress/.temp/pages/校内生活设施/youju.html.js").then(({ data }) => data),
+  // path: /%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/zhaoxiang.html
+  "v-ae98fa34": () => import(/* webpackChunkName: "v-ae98fa34" */"/root/thubook/src/.vuepress/.temp/pages/校内生活设施/zhaoxiang.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"/root/thubook/src/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
-  // path: /%E5%85%B6%E4%BB%96/
-  "v-43bb8f9e": () => import(/* webpackChunkName: "v-43bb8f9e" */"/root/thubook/src/.vuepress/.temp/pages/其他/index.html.js").then(({ data }) => data),
-  // path: /%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/
-  "v-21be565a": () => import(/* webpackChunkName: "v-21be565a" */"/root/thubook/src/.vuepress/.temp/pages/校内生活设施/index.html.js").then(({ data }) => data),
   // path: /%E4%B8%93%E9%A2%98/
   "v-92f2f632": () => import(/* webpackChunkName: "v-92f2f632" */"/root/thubook/src/.vuepress/.temp/pages/专题/index.html.js").then(({ data }) => data),
+  // path: /%E5%85%B6%E4%BB%96/
+  "v-43bb8f9e": () => import(/* webpackChunkName: "v-43bb8f9e" */"/root/thubook/src/.vuepress/.temp/pages/其他/index.html.js").then(({ data }) => data),
   // path: /%E8%80%81%E4%B9%A1%E5%9C%A8%E6%B8%85%E5%8D%8E/
   "v-73563ac1": () => import(/* webpackChunkName: "v-73563ac1" */"/root/thubook/src/.vuepress/.temp/pages/老乡在清华/index.html.js").then(({ data }) => data),
+  // path: /%E6%A0%A1%E5%86%85%E7%94%9F%E6%B4%BB%E8%AE%BE%E6%96%BD/
+  "v-21be565a": () => import(/* webpackChunkName: "v-21be565a" */"/root/thubook/src/.vuepress/.temp/pages/校内生活设施/index.html.js").then(({ data }) => data),
 }

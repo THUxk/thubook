@@ -18,18 +18,10 @@
 <h4 id="紫荆网球场" tabindex="-1"><a class="header-anchor" href="#紫荆网球场" aria-hidden="true">#</a> 紫荆网球场</h4>
 <p><img src="/assets/cc_5.jpg" alt="cc_5"></p>
 <ul>
-<li>
-<p>网球场**开放时间：**周一至周三、周五：17：00-22：00，周四、周末：8:00-12:00和13:00-22:00</p>
-</li>
-<li>
-<p>网球场需要提前<a href="http://50.tsinghua.edu.cn" target="_blank" rel="noopener noreferrer">预约<ExternalLinkIcon/></a></p>
-</li>
-<li>
-<p>网球场设有12块双打场地、4块单打场地</p>
-</li>
-<li>
-<p>价格 15元/h</p>
-</li>
+<li>网球场**开放时间：**周一至周三、周五：17：00-22：00，周四、周末：8:00-12:00和13:00-22:00</li>
+<li>网球场需要提前<a href="http://50.tsinghua.edu.cn" target="_blank" rel="noopener noreferrer">预约<ExternalLinkIcon/></a></li>
+<li>网球场设有12块双打场地、4块单打场地</li>
+<li>价格 15元/h</li>
 </ul>
 <h3 id="东大操场" tabindex="-1"><a class="header-anchor" href="#东大操场" aria-hidden="true">#</a> 东大操场</h3>
 <p><img src="/assets/cc_8.jpg" alt="cc_8"></p>
@@ -49,12 +41,8 @@
 <p><img src="/assets/cc_9.png" alt="cc_9"></p>
 <p>​																						东操篮球场</p>
 <ul>
-<li>
-<p>棒垒球场/沙排场 通常为校队训练和上课使用</p>
-</li>
-<li>
-<p>网球场 15元/h，预约同紫操网球场</p>
-</li>
+<li>棒垒球场/沙排场 通常为校队训练和上课使用</li>
+<li>网球场 日间15元/h，晚间25/h。预约同紫操网球场</li>
 </ul>
 <h3 id="西大操场" tabindex="-1"><a class="header-anchor" href="#西大操场" aria-hidden="true">#</a> 西大操场</h3>
 <p><img src="/assets/cc_10.webp" alt="cc_10"></p>
@@ -123,7 +111,12 @@
 </ul>
 <p><img src="/assets/cc_21.jpg" alt="cc_21"></p>
 <p>**电话：**62782578</p>
+<p>**预约方式：**前台登记学号预约</p>
 <p><s>写到这绷不住了，壕无人性啊</s></p>
+<h3 id="健身设施" tabindex="-1"><a class="header-anchor" href="#健身设施" aria-hidden="true">#</a> 健身设施</h3>
+<ul>
+<li>东操篮球场西侧、西大操场南侧、紫荆篮球场南侧、紫操东边均设置有健身器械供日常练习。</li>
+</ul>
 <h3 id="气膜馆" tabindex="-1"><a class="header-anchor" href="#气膜馆" aria-hidden="true">#</a> 气膜馆</h3>
 <p><img src="/assets/cc_30.jpg" alt="cc_30"></p>
 <p>**位置：**紫荆公寓东北角，18号楼北侧。<a href="https://surl.amap.com/lu2yGOs1zcC4" target="_blank" rel="noopener noreferrer">气膜馆<ExternalLinkIcon/></a></p>
@@ -131,7 +124,7 @@
 <p><img src="/assets/cc_28.jpg" alt="cc_28"></p>
 <p>**价格：**羽毛球场20/h，乒乓球台10元/h</p>
 <p><img src="/assets/cc_29.jpg" alt="cc_29"></p>
-<p><strong>预约方式：</strong><a href="http://50.tsinghua.edu.cn" target="_blank" rel="noopener noreferrer">预约<ExternalLinkIcon/></a></p>
+<p>**预约方式：**清华体育小程序<a href="http://50.tsinghua.edu.cn" target="_blank" rel="noopener noreferrer">预约<ExternalLinkIcon/></a></p>
 <p>**电话：**62798605</p>
 <h3 id="综合体育馆" tabindex="-1"><a class="header-anchor" href="#综合体育馆" aria-hidden="true">#</a> 综合体育馆</h3>
 <p><img src="/assets/cc_31.jpg" alt="cc_31"></p>
@@ -154,18 +147,12 @@
 <p>清华第一个体育馆，早期四大建筑之一，但现在依然在使用，和大礼堂同辈分。</p>
 <p>**位置：**西大操场西侧</p>
 <p><img src="/assets/cc_33.jpg" alt="cc_33"></p>
-<p>**介绍：**内设有羽毛球场、篮球场、台球场。</p>
+<p>**介绍：**内设有羽毛球场、篮球场、台球场、排球场。</p>
 <ul>
-<li>
-<p>羽毛球场：开设时间：18:30-22:30 场地价格：40元/2h</p>
-</li>
-<li>
-<p>篮球场：周一到周五不开放预约，周末按照两小时为一个单位预约，600元/2h</p>
-</li>
-<li>
-<p>台球场：开放时间：工作日17:00 - 21:00，周末 9:00 - 21:00，价格 15元/h</p>
-<p><img src="/assets/cc_34.jpg" alt="cc_34"></p>
-</li>
+<li>羽毛球场：开放时间：18:30-22:30 场地价格：40元/2h</li>
+<li>篮球场：周一到周五不开放预约，周末按照两小时为一个单位预约，600元/2h</li>
+<li>台球场：开放时间：工作日17:00 - 21:00，周末 9:00 - 21:00，价格 15元/h</li>
+<li>排球场：价格300元/h  <img src="/assets/cc_34.jpg" alt="cc_34"></li>
 </ul>
 <p>**预约：**同其他体育馆</p>
 <p>**电话：**62782489</p>
@@ -193,8 +180,8 @@
 <strong>营业时间</strong>：全天开放<br>
 <strong>预约方式</strong>：免费，自由</p>
 <hr>
-<p><em>上次修改时间：2024-6-1</em>
-<em>贡献者：自76张广昱</em></p>
+<p><em>上次修改时间：2026-7-10</em>
+<em>贡献者：自76张广昱、至善51黄丽洁</em></p>
 </div></template>
 
 

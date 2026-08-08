@@ -1,98 +1,100 @@
 <template><div><h1 id="清华gpa" tabindex="-1"><a class="header-anchor" href="#清华gpa" aria-hidden="true">#</a> 清华GPA</h1>
+<p>以下表格仅供参考，实际百分制分数与每门课绩点的对应关系由授课老师自行决定：</p>
 <table>
 <thead>
 <tr>
-<th style="text-align:center">等级</th>
-<th style="text-align:center">绩点</th>
-<th style="text-align:center">百分制范围</th>
-<th style="text-align:center">对应百分制数值</th>
+<th>等级</th>
+<th>绩点</th>
+<th>百分制范围</th>
+<th>对应百分制数值</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center">A+</td>
-<td style="text-align:center">4.0</td>
-<td style="text-align:center">95-100</td>
-<td style="text-align:center">100</td>
+<td>A+</td>
+<td>4.0</td>
+<td>95-100</td>
+<td>100</td>
 </tr>
 <tr>
-<td style="text-align:center">A</td>
-<td style="text-align:center">4.0</td>
-<td style="text-align:center">95-100</td>
-<td style="text-align:center">98</td>
+<td>A</td>
+<td>4.0</td>
+<td>95-100</td>
+<td>98</td>
 </tr>
 <tr>
-<td style="text-align:center">A-</td>
-<td style="text-align:center">4.0</td>
-<td style="text-align:center">90-94</td>
-<td style="text-align:center">92</td>
+<td>A-</td>
+<td>4.0</td>
+<td>90-94</td>
+<td>92</td>
 </tr>
 <tr>
-<td style="text-align:center">B+</td>
-<td style="text-align:center">3.6</td>
-<td style="text-align:center">85-89</td>
-<td style="text-align:center">87</td>
+<td>B+</td>
+<td>3.6</td>
+<td>85-89</td>
+<td>87</td>
 </tr>
 <tr>
-<td style="text-align:center">B</td>
-<td style="text-align:center">3.3</td>
-<td style="text-align:center">80-84</td>
-<td style="text-align:center">82</td>
+<td>B</td>
+<td>3.3</td>
+<td>80-84</td>
+<td>82</td>
 </tr>
 <tr>
-<td style="text-align:center">B-</td>
-<td style="text-align:center">3.0</td>
-<td style="text-align:center">77-79</td>
-<td style="text-align:center">78</td>
+<td>B-</td>
+<td>3.0</td>
+<td>77-79</td>
+<td>78</td>
 </tr>
 <tr>
-<td style="text-align:center">C+</td>
-<td style="text-align:center">2.6</td>
-<td style="text-align:center">73-76</td>
-<td style="text-align:center">75</td>
+<td>C+</td>
+<td>2.6</td>
+<td>73-76</td>
+<td>75</td>
 </tr>
 <tr>
-<td style="text-align:center">C</td>
-<td style="text-align:center">2.3</td>
-<td style="text-align:center">70-72</td>
-<td style="text-align:center">71</td>
+<td>C</td>
+<td>2.3</td>
+<td>70-72</td>
+<td>71</td>
 </tr>
 <tr>
-<td style="text-align:center">C-</td>
-<td style="text-align:center">2.0</td>
-<td style="text-align:center">67-69</td>
-<td style="text-align:center">68</td>
+<td>C-</td>
+<td>2.0</td>
+<td>67-69</td>
+<td>68</td>
 </tr>
 <tr>
-<td style="text-align:center">D+</td>
-<td style="text-align:center">1.6</td>
-<td style="text-align:center">63-66</td>
-<td style="text-align:center">65</td>
+<td>D+</td>
+<td>1.6</td>
+<td>63-66</td>
+<td>65</td>
 </tr>
 <tr>
-<td style="text-align:center">D</td>
-<td style="text-align:center">1.3</td>
-<td style="text-align:center">60-62</td>
-<td style="text-align:center">61</td>
+<td>D</td>
+<td>1.3</td>
+<td>60-62</td>
+<td>61</td>
 </tr>
 <tr>
-<td style="text-align:center">F</td>
-<td style="text-align:center">0</td>
-<td style="text-align:center">0-59</td>
-<td style="text-align:center">0</td>
+<td>F</td>
+<td>0</td>
+<td>0-59</td>
+<td>0</td>
 </tr>
 </tbody>
 </table>
+<p>GPA计算公式：GPA = (每门计入GPA的课绩点×学分的乘积之和) ÷ (计入GPA的总学分)</p>
 <p>其他不计入GPA的等级：</p>
 <p><strong>P(pass)：通过</strong></p>
 <p>部分课程不计入GPA,只记录P/F，这些课又叫pf课，通常比较抢手。</p>
 <p><strong>W(withdraw)：退课</strong></p>
 <p>在退课第二阶段（通常上了半学期）将课程退掉不上了，记录W，补退选第一阶段退课的（通常为开学第一周），不记录W。</p>
-<p><strong>EX(exemption)：免修</strong></p>
+<p><strong>Ex(exemption)：免修</strong></p>
 <p>通过教务批准免修的课，学分计入，但是不计入GPA。</p>
 <hr>
-<p><em>上次修改时间：2024-6-1</em>
-<em>贡献者：自76张广昱</em></p>
+<p><em>上次修改时间：2026-8-2</em>
+<em>贡献者：自76张广昱，无52🐋</em></p>
 </div></template>
 
 

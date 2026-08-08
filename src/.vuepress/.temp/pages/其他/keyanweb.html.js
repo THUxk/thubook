@@ -1,1 +1,14 @@
-export const data = JSON.parse("{\"key\":\"v-cb606780\",\"path\":\"/%E5%85%B6%E4%BB%96/keyanweb.html\",\"title\":\"科研相关网址\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[],\"git\":{\"createdTime\":1783099945000,\"updatedTime\":1783701521000,\"contributors\":[{\"name\":\"Updater\",\"email\":\"\",\"commits\":1},{\"name\":\"root\",\"email\":\"root@LIN-LAPTOP.localdomain\",\"commits\":1}]},\"readingTime\":{\"minutes\":0.54,\"words\":161},\"filePathRelative\":\"其他/keyanweb.md\",\"localizedDate\":\"2026年7月3日\"}")
+export const data = JSON.parse("{\"key\":\"v-cb606780\",\"path\":\"/%E5%85%B6%E4%BB%96/keyanweb.html\",\"title\":\"科研相关网址\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[],\"readingTime\":{\"minutes\":0.54,\"words\":161},\"filePathRelative\":\"其他/keyanweb.md\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

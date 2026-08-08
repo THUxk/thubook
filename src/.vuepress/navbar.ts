@@ -290,6 +290,10 @@ export default navbar([
           link: "/其他/park.md"
         }
       ]
+    },
+    {
+      text: "✏️贡献内容",
+      link: "https://thubook.help/admin"
     }
 
 ]);

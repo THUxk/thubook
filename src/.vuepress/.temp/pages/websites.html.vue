@@ -67,7 +67,7 @@
 <p>注：非官方指由清华在校生or毕业生开发与维护</p>
 <h3 id="thu选课社区" tabindex="-1"><a class="header-anchor" href="#thu选课社区" aria-hidden="true">#</a> <a href="https://yourschool.cc.cd/thucourse" target="_blank" rel="noopener noreferrer">THU选课社区<ExternalLinkIcon/></a></h3>
 <p>清华课程评测网站</p>
-<p>网址：https://yourschool.cc.cd/thucourse</p>
+<p>网址：https://thubook.help/thucourse</p>
 <p><img src="/assets/wb7.png" alt="wb7"></p>
 <p><img src="/assets/wb8.jpg" alt="wb8"></p>
 <h3 id="清华ppt模版-简约风" tabindex="-1"><a class="header-anchor" href="#清华ppt模版-简约风" aria-hidden="true">#</a> <a href="https://github.com/atomiechen/THU-PPT-Theme.git" target="_blank" rel="noopener noreferrer">清华ppt模版-简约风<ExternalLinkIcon/></a></h3>
@@ -85,7 +85,7 @@
 <p>网络学堂的app版。</p>
 <p><img src="/assets/websites_2.png" alt="wb2"></p>
 <h3 id="coursex" tabindex="-1"><a class="header-anchor" href="#coursex" aria-hidden="true">#</a> <a href="https://tsinghua.app/courses" target="_blank" rel="noopener noreferrer">coursex<ExternalLinkIcon/></a></h3>
-<p>清华大学课程共享计划，可以用来查询某门课，某位老师的开课信息</p>
+<p>清华大学课程共享计划，可以用来查询某门课，某位老师的开课信息和上课地点，一般用于旁听感兴趣但没选上的课程。</p>
 <p><img src="/assets/websites_3.png" alt="wb3"></p>
 <h3 id="毕业论文latex模版" tabindex="-1"><a class="header-anchor" href="#毕业论文latex模版" aria-hidden="true">#</a> <a href="https://github.com/tuna/thuthesis" target="_blank" rel="noopener noreferrer">毕业论文latex模版<ExternalLinkIcon/></a></h3>
 <p>网址：<a href="https://github.com/tuna/thuthesis" target="_blank" rel="noopener noreferrer">https://github.com/tuna/thuthesis<ExternalLinkIcon/></a></p>

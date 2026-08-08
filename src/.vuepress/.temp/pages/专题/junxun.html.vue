@@ -27,15 +27,15 @@
 <p>会分批次带到北体育馆2F，每人10发进行射击。会根据射击成绩计入军训成绩的5%</p>
 <p><strong>4.定向越野</strong></p>
 <p>可以理解为“校内根据地图寻宝”。每人会发一张地图，然后地图上会有打卡点，完成所有打卡即可。注意定向越野需徒步完成 ，骑自行车为违规行为。</p>
-<p><img src="@source/assets/junxun_3.jpg" alt="jx2"></p>
+<p><img src="/assets/junxun_3.jpg" alt="jx2"></p>
 <p><strong>5.拉练</strong></p>
 <p>拉练会在某个晚上12点开始，全体新生集体出校，暴走20公里返校，整个过程持续4-5个小时。</p>
 <p>拉练前会要求打包被子，被个人背上自己的被子鞋子出行，可以穿自己的鞋。</p>
-<p><img src="@source/assets/junxun_5.jpg" alt="jx5"></p>
+<p><img src="/assets/junxun_5.jpg" alt="jx5"></p>
 <p>拉练后的第二天白天通常为休息。</p>
-<p><img src="@source/assets/junxun_4.jpg" alt="jx4"></p>
-<p><img src="@source/assets/junxun_6.jpg" alt="jx6"></p>
-<p><img src="@source/assets/junxun_7.jpg" alt="jx7"></p>
+<p><img src="/assets/junxun_4.jpg" alt="jx4"></p>
+<p><img src="/assets/junxun_6.jpg" alt="jx6"></p>
+<p><img src="/assets/junxun_7.jpg" alt="jx7"></p>
 <h2 id="其他活动" tabindex="-1"><a class="header-anchor" href="#其他活动" aria-hidden="true">#</a> 其他活动</h2>
 <p>军训结束时会有文艺汇演</p>
 <h2 id="注意事项" tabindex="-1"><a class="header-anchor" href="#注意事项" aria-hidden="true">#</a> 注意事项</h2>
@@ -56,14 +56,14 @@
 </li>
 <li>
 <p>路线安排建议顺or逆时针绕一圈回到原点。下面附上我个人规划的路线图。</p>
-<p><img src="@source/assets/jx20.jpg" alt="jx20"></p>
+<p><img src="/assets/jx20.jpg" alt="jx20"></p>
 </li>
 <li>
 <p>会发一个类似电子手表的小牌牌，可以带在手指上，用来打卡。<strong>建议多刷两次，听他多哔哔两声，避免刷不上。</strong></p>
 </li>
 <li>
 <p>有些点位位置比较偏僻或者诡异（请看下面的地图）</p>
-<p><img src="@source/assets/jx21.jpg" alt="jx21"></p>
+<p><img src="/assets/jx21.jpg" alt="jx21"></p>
 <ul>
 <li>比如69号点在小丘正中央的一棵树干上；</li>
 <li>49号点在水木清华对面的陡坡上的一个平台；</li>

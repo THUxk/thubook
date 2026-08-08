@@ -30,6 +30,12 @@
 <p><strong>位置：</strong><a href="https://surl.amap.com/iTyd3bOH4OT" target="_blank" rel="noopener noreferrer">法图位置<ExternalLinkIcon/></a></p>
 <p>**介绍：**1999年12月，位于明理楼的法律图书馆正式启用，法律图书馆建筑面积为10,000平方米，包括二至五楼层的整体开放空间和闭架的地下书库。</p>
 <p>**功能：**团建教室申请，自习。</p>
+<h2 id="美图" tabindex="-1"><a class="header-anchor" href="#美图" aria-hidden="true">#</a> 美图</h2>
+<p><img src="/assets/ce3df7971615e23f94eec333f7de13e8.jpg" alt="lib_mt"></p>
+<p>**全称：**清华大学美术图书馆</p>
+<p>**位置：**美院A座1F</p>
+<p>**介绍：**前身是中央工艺美术学院图书馆，2005年10月迁入清华园校区，总面积3000平方米。</p>
+<p>**功能：**研讨间申请，自习。</p>
 <h2 id="经管图书馆" tabindex="-1"><a class="header-anchor" href="#经管图书馆" aria-hidden="true">#</a> 经管图书馆</h2>
 <p><img src="/assets/lib_6.jpg" alt="lib_6"></p>
 <p>**全称：**清华大学经管图书馆</p>
@@ -38,18 +44,10 @@
 <h2 id="图书馆预约规则" tabindex="-1"><a class="header-anchor" href="#图书馆预约规则" aria-hidden="true">#</a> 图书馆预约规则</h2>
 <p><strong>预约当日座位，须在预约成功后30分钟内完成签到</strong></p>
 <ul>
-<li>
-<p>当日预约不可取消；</p>
-</li>
-<li>
-<p>刷卡入馆前完成的预约，读者通过门禁闸机刷卡入馆自动完成签到；</p>
-</li>
-<li>
-<p>刷卡入馆后完成的预约，系统自动完成签到；</p>
-</li>
-<li>
-<p>如未在规定时间内签到，系统将记违规1次。</p>
-</li>
+<li>当日预约不可取消；</li>
+<li>刷卡入馆前完成的预约，读者通过门禁闸机刷卡入馆自动完成签到；</li>
+<li>刷卡入馆后完成的预约，系统自动完成签到；</li>
+<li>如未在规定时间内签到，系统将记违规1次。</li>
 </ul>
 <p><strong>预约次日座位，须在预约生效日开馆后30分钟内签到</strong></p>
 <ul>
@@ -71,21 +69,21 @@
 <table>
 <thead>
 <tr>
-<th style="text-align:center">图书类别</th>
-<th style="text-align:center">借期</th>
-<th style="text-align:center">续借</th>
+<th>图书类别</th>
+<th>借期</th>
+<th>续借</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center">一般图书</td>
-<td style="text-align:center">8周</td>
-<td style="text-align:center">可续借3次，每次续借8周，最长允许224天。</td>
+<td>一般图书</td>
+<td>8周</td>
+<td>可续借3次，每次续借8周，最长允许224天。</td>
 </tr>
 <tr>
-<td style="text-align:center">短期图书</td>
-<td style="text-align:center">7天</td>
-<td style="text-align:center">可续借3次，每次续借1周，最长允许28天。</td>
+<td>短期图书</td>
+<td>7天</td>
+<td>可续借3次，每次续借1周，最长允许28天。</td>
 </tr>
 </tbody>
 </table>
@@ -96,26 +94,26 @@
 <table>
 <thead>
 <tr>
-<th style="text-align:center">图书类型</th>
-<th style="text-align:center">金额</th>
+<th>图书类型</th>
+<th>金额</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center">一般图书</td>
-<td style="text-align:center">0.2元/天</td>
+<td>一般图书</td>
+<td>0.2元/天</td>
 </tr>
 <tr>
-<td style="text-align:center">短期图书</td>
-<td style="text-align:center">10元/天</td>
+<td>短期图书</td>
+<td>10元/天</td>
 </tr>
 </tbody>
 </table>
 <p><strong>丢失</strong></p>
 <p><a href="https://lib.tsinghua.edu.cn/info/1115/2621.htm" target="_blank" rel="noopener noreferrer">清华大学图书馆馆藏书刊遗失、损坏赔偿办法<ExternalLinkIcon/></a></p>
 <hr>
-<p><em>上次修改时间：2024-6-1</em>
-<em>贡献者：自76张广昱</em></p>
+<p><em>上次修改时间：2026-7-11</em>
+<em>贡献者：自76张广昱、至善51黄丽洁</em></p>
 </div></template>
 
 
