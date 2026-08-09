@@ -1,1 +1,141 @@
-// place your custom styles here
+// ===== 搜索插件基础样式（原 @vuepress/plugin-search） =====
+:root {
+  --search-bg-color: #ffffff;
+  --search-accent-color: #3eaf7c;
+  --search-text-color: #2c3e50;
+  --search-border-color: #eaecef;
+  --search-item-text-color: #5d81a5;
+  --search-item-focus-bg-color: #f3f4f5;
+  --search-input-width: 8rem;
+  --search-result-width: 20rem;
+}
+
+.search-box {
+  display: inline-block;
+  position: relative;
+  margin-left: 1rem;
+}
+
+@media print {
+  .search-box {
+    display: none;
+  }
+}
+
+$search-icon: url('data:image/svg+xml,%3C?xml version="1.0" encoding="UTF-8"?%3E%3Csvg xmlns="http://www.w3.org/2000/svg" width="12" height="13"%3E%3Cg stroke-width="2" stroke="%23aaa" fill="none"%3E%3Cpath d="M11.29 11.71l-4-4"/%3E%3Ccircle cx="5" cy="5" r="4"/%3E%3C/g%3E%3C/svg%3E');
+
+.search-box input {
+  -webkit-appearance: none;
+  appearance: none;
+  cursor: text;
+  width: var(--search-input-width);
+  height: 2rem;
+  color: var(--search-text-color);
+  display: inline-block;
+  border: 1px solid var(--search-border-color);
+  border-radius: 2rem;
+  font-size: 0.9rem;
+  line-height: 2rem;
+  padding: 0 0.5rem 0 2rem;
+  outline: none;
+  transition: all ease 0.3s;
+  background: var(--search-bg-color) #{$search-icon} 0.6rem 0.5rem no-repeat;
+  background-size: 1rem;
+}
+
+.search-box input:focus {
+  cursor: auto;
+  border-color: var(--search-accent-color);
+}
+
+.search-box .suggestions {
+  background: var(--search-bg-color);
+  width: var(--search-result-width);
+  position: absolute;
+  top: 2rem;
+  right: 0;
+  border: 1px solid var(--search-border-color);
+  border-radius: 6px;
+  padding: 0.4rem;
+  list-style-type: none;
+}
+
+.search-box .suggestion {
+  line-height: 1.4;
+  padding: 0.4rem 0.6rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.search-box .suggestion.focus {
+  background-color: var(--search-item-focus-bg-color);
+}
+
+.search-box .suggestion.focus a {
+  color: var(--search-accent-color);
+}
+
+.search-box .suggestion a {
+  white-space: normal;
+  color: var(--search-item-text-color);
+}
+
+.search-box .suggestion .page-title {
+  font-weight: 600;
+}
+
+.search-box .suggestion .page-header {
+  font-size: 0.9em;
+  margin-left: 0.25em;
+}
+
+// ===== 收纳为放大镜图标，点击展开 =====
+.search-box input {
+  cursor: pointer !important;
+  width: 2.5rem !important;
+  border-color: transparent !important;
+  position: relative;
+}
+
+.search-box input:focus {
+  cursor: text !important;
+  width: 10rem !important;
+  border-color: var(--search-border-color) !important;
+}
+
+// ===== 搜索结果增强样式 =====
+.search-box .suggestions {
+  max-height: 70vh;
+  overflow-y: auto;
+  width: 24rem !important;
+}
+
+.search-box .suggestion {
+  padding: 0.5rem 0.6rem;
+  border-bottom: 1px solid var(--search-border-color);
+
+  &:last-child {
+    border-bottom: none;
+  }
+
+  a {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+  }
+}
+
+.search-box .suggestion .page-snippet {
+  display: block;
+  font-size: 0.8em;
+  color: var(--search-item-text-color);
+  line-height: 1.5;
+  opacity: 0.85;
+  white-space: normal;
+}
+
+// 关键词高亮
+.search-highlight {
+  color: var(--search-accent-color);
+  font-weight: 600;
+}

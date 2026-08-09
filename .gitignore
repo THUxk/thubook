@@ -3,7 +3,9 @@ node_modules/
 
 # build output
 dist/
-.vuepress/dist/
+**/.vuepress/dist/
+**/.vuepress/.cache/
+**/.vuepress/.temp/
 
 # env files
 .env.local

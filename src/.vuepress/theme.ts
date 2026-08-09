@@ -11,6 +11,6 @@ export default hopeTheme({
   darkmode:"disable",
   sidebar,
   headerDepth:1,
-  contributors: false
+  contributors: false,
 })
 
