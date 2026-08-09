@@ -13,13 +13,13 @@
 涵盖从学校通知公告到个人学习生活的各种功能，也是通往校内各大分支网站的途径之一。登录后的界面功能更丰富，常用功能有选课、成绩查询、场馆预约等。
 
 注意：部分浏览器可能对http://info.tsinghua.edu.cn/访问出错，请换成https前缀再试。
-
+<!--
 #### [教学门户](https://academic.tsinghua.edu.cn/)
 
 网址：https://academic.tsinghua.edu.cn
 
 涵盖所有与教育教学相关的内容，包括教务、课程、项目相关的操作和信息披露，关于辅修、课程替代的重要信息都可以在教学门户上查到。
-
+-->
 #### [webvpn](https://webvpn.tsinghua.edu.cn/)
 
 网址：https://webvpn.tsinghua.edu.cn/
@@ -34,9 +34,9 @@
 
 ### 图书馆相关
 
-#### [官网](http://www.lib.tsinghua.edu.cn/)
+#### [官网](http://lib.tsinghua.edu.cn/)
 
-网址：http://www.lib.tsinghua.edu.cn/
+网址：http://lib.tsinghua.edu.cn/
 
 #### [水木搜索](https://discover.lib.tsinghua.edu.cn/)
 
@@ -82,9 +82,9 @@
 
 报销，保修，电话查询，订餐等杂事
 
-#### [体育馆预约](https://50.tsinghua.edu.cn/)
+#### [体育馆预约](https://www.sports.tsinghua.edu.cn/venue/)
 
-网址：https://50.tsinghua.edu.cn/
+网址：https://www.sports.tsinghua.edu.cn/venue/
 
 预约各种体育场馆，气膜馆，游泳馆等
 
@@ -106,7 +106,7 @@
 
 网址：https://cloud.tsinghua.edu.cn/
 
-每人提供300G的免费存储空间
+每人提供1TB的免费存储空间
 
 #### [清华邮箱](https://mails.tsinghua.edu.cn)
 
@@ -114,17 +114,19 @@
 
 清华校园邮箱，可用来申请一些软件的教育版或学生身份认证。
 
-注意：毕业后半年内清华邮箱会被回收失效，所以一些重要的账号绑定请慎用清华邮箱。
+注意：毕业后半年内清华邮箱会被回收失效，但可以手动迁移所有邮件到[清华校友邮箱](https://mail.tsinghua.org.cn)。<!--建议一些重要的账号绑定请慎用清华邮箱。-->
 
-#### [各院系培养方案](https://www.tsinghua.edu.cn/jyjx/bksjy/bkzy.htm)
+#### [各院系培养方案](https://info.tsinghua.edu.cn/f/info/xxfb_fg/xnzx/template/detail?xxid=3428ae959bf3420e8b2d12ca428d5c75)
 
-网址：https://www.tsinghua.edu.cn/jyjx/bksjy/bkzy.htm
+网址：https://info.tsinghua.edu.cn/f/info/xxfb_fg/xnzx/template/detail?xxid=3428ae959bf3420e8b2d12ca428d5c75
+
+专业列表参见[本科专业](https://www.tsinghua.edu.cn/jyjx/bksjy/bkzy.htm)
 
 ## 非官方
 
 注：非官方指由清华在校生or毕业生开发与维护
 
-### [THU选课社区](https://yourschool.cc.cd/thucourse)
+### [THU选课社区](https://thubook.help/thucourse)
 
 清华课程评测网站
 
