@@ -12,14 +12,16 @@
 
 涵盖从学校通知公告到个人学习生活的各种功能，也是通往校内各大分支网站的途径之一。登录后的界面功能更丰富，常用功能有选课、成绩查询、场馆预约等。
 
-注意：部分浏览器可能对http://info.tsinghua.edu.cn/访问出错，请换成https前缀再试。
+注意：部分浏览器可能对 http://info.tsinghua.edu.cn/ 访问出错，请换成https前缀再试。
 <!--
+
 #### [教学门户](https://academic.tsinghua.edu.cn/)
 
 网址：https://academic.tsinghua.edu.cn
 
 涵盖所有与教育教学相关的内容，包括教务、课程、项目相关的操作和信息披露，关于辅修、课程替代的重要信息都可以在教学门户上查到。
 -->
+
 #### [webvpn](https://webvpn.tsinghua.edu.cn/)
 
 网址：https://webvpn.tsinghua.edu.cn/
