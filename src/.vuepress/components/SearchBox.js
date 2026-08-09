@@ -80,16 +80,22 @@ export const SearchBox = defineComponent({
     // 预计算当前 locale 的搜索索引
     const localIndex = computed(() => {
       const locale = routeLocale.value;
+      const SEP = "\u001f";
       return searchIndex.value
         .filter((item) => item.pathLocale === locale)
         .map((item) => {
-          const content = (item.extraFields || []).join(" ");
+          // 每个 extraField 格式为 "slug\x1ftext"，解析为段落列表
+          const sections = (item.extraFields || []).map((field) => {
+            const sepIdx = field.indexOf(SEP);
+            const slug = sepIdx >= 0 ? field.slice(0, sepIdx) : "";
+            const text = sepIdx >= 0 ? field.slice(sepIdx + 1) : field;
+            return { slug, text, textLower: text.toLowerCase() };
+          });
           return {
             title: item.title,
             headers: item.headers || [],
             path: item.path,
-            content,
-            contentLower: content.toLowerCase(),
+            sections,
             titleLower: item.title.toLowerCase(),
           };
         });
@@ -145,15 +151,21 @@ export const SearchBox = defineComponent({
 
         if (headerFound) continue;
 
-        // 3. 匹配正文内容
-        if (item.contentLower && hasAnyMatch(item.contentLower, words)) {
-          const snippet = extractSnippet(item.content, words);
-          results.push({
-            link: item.path,
-            title: item.title,
-            header: "",
-            snippet,
-          });
+        // 3. 匹配正文段落，命中后携带所属标题 slug 精确跳转
+        for (const section of item.sections) {
+          if (results.length >= max) break;
+          if (section.textLower && hasAnyMatch(section.textLower, words)) {
+            const snippet = extractSnippet(section.text, words);
+            results.push({
+              link: section.slug
+                ? `${item.path}#${section.slug}`
+                : item.path,
+              title: item.title,
+              header: "",
+              snippet,
+            });
+            break; // 每页只取第一个匹配段落
+          }
         }
       }
       return results;
@@ -175,10 +187,27 @@ export const SearchBox = defineComponent({
     const goTo = (index) => {
       const suggestion = suggestions.value[index];
       if (!suggestion) return;
+      const hashIdx = suggestion.link.indexOf("#");
+      const path = hashIdx >= 0 ? suggestion.link.slice(0, hashIdx) : suggestion.link;
+      const hash = hashIdx >= 0 ? suggestion.link.slice(hashIdx + 1) : "";
+
       router.push(suggestion.link).then(() => {
         query.value = "";
         debouncedQuery.value = "";
         focusIndex.value = 0;
+        // 跳转后滚动到锚点元素
+        if (hash) {
+          // 多次尝试，等待页面渲染完成
+          const scrollToAnchor = (retries = 10) => {
+            const el = document.getElementById(hash);
+            if (el) {
+              el.scrollIntoView({ behavior: "smooth", block: "start" });
+            } else if (retries > 0) {
+              setTimeout(() => scrollToAnchor(retries - 1), 100);
+            }
+          };
+          setTimeout(() => scrollToAnchor(), 150);
+        }
       });
     };
 

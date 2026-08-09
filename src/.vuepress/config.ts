@@ -12,15 +12,35 @@ const search = searchPlugin({
   },
   maxSuggestions: 10,
   hotKeys: ["s", "/", "k"],
-  // 提取页面正文内容加入搜索索引，实现全文精细搜索
+  // 按 HTML 标题标签将正文拆分为多段，每段携带所属标题的 slug（用于精确锚点跳转）
   getExtraFields: (page) => {
-    const text = page.contentRendered
-      ?.replace(/<[^>]+>/g, " ")
-      .replace(/&[a-z]+;/gi, " ")
-      .replace(/\s+/g, " ")
-      .trim()
-      .slice(0, 2000);
-    return text ? [text] : [];
+    const html = page.contentRendered || "";
+    const SEP = "\u001f"; // ASCII Unit Separator
+    const sections = [];
+    const headerRegex = /<h[1-6][^>]*\sid="([^"]*)"[^>]*>/gi;
+    let lastSlug = "";
+    let lastIdx = 0;
+    let match;
+
+    // 将 HTML 片段转为可搜索的纯文本，保留图片 alt 和链接/代码文本
+    const htmlToText = (fragment) =>
+      fragment
+        .replace(/<img[^>]*\salt="([^"]*)"[^>]*>/gi, " $1 ") // 保留图片 alt
+        .replace(/<[^>]+>/g, " ") // 去除其余 HTML 标签
+        .replace(/&[a-z]+;/gi, " ")
+        .replace(/\s+/g, " ")
+        .trim();
+
+    while ((match = headerRegex.exec(html)) !== null) {
+      const chunk = htmlToText(html.slice(lastIdx, match.index));
+      if (chunk) sections.push(lastSlug + SEP + chunk.slice(0, 1000));
+      lastSlug = match[1];
+      lastIdx = match.index;
+    }
+    const remaining = htmlToText(html.slice(lastIdx));
+    if (remaining) sections.push(lastSlug + SEP + remaining.slice(0, 1000));
+
+    return sections;
   },
 });
 
