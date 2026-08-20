@@ -1,32 +1,50 @@
-# 常用网站及App
+# 信息化
 
-## 官方
+在报道前约3天，新生可在[清华电子身份服务系统](https://id.tsinghua.edu.cn)激活你的电子身份及清华邮箱，** 建议知道可激活后尽快激活，~~不然就会像某位学长一样拿到XXXshitXXX~~ **，请牢记你的电子身份用户名与密码，下列绝大部分都需要验证你的电子身份
+
+## 邮箱
+
+### [清华邮箱](https://mails.tsinghua.edu.cn)
+
+网址：https://mails.tsinghua.edu.cn
+
+清华校园邮箱，可用来申请一些软件的教育版或学生身份认证。~~比如KFC的大神卡~~
+首次进入请使用电脑，手机暂时有bug ~~（你清的锅）~~
+非首次进入时电脑端请填入 _用户名_ ，手机端请填入 **_用户名_@mails.tsinghua.edu.cn**，密码为你电子身份的密码。
+
+注意：毕业后半年内清华邮箱会被回收失效，但可以手动迁移所有邮件到[清华校友邮箱](https://mail.tsinghua.org.cn)。
+**对于一些重要的账号绑定请慎用清华邮箱。**
+
+## 常用网站及App
+
+### 官方
 
 注意，以下部分网站需在内网环境下打开
 
-### 最常访问
+#### 最常用
 
-#### [info](http://info.tsinghua.edu.cn/)
+##### [info](https://info.tsinghua.edu.cn/f/info/xxfb_fg/xnzx/stu/index)
 
-网址：https://info.tsinghua.edu.cn/
+网址：http://info.tsinghua.edu.cn/ （默认进入是教工版，点上面info进入是学生版）
 
-涵盖从学校通知公告到个人学习生活的各种功能，也是通往校内各大分支网站的途径之一。登录后的界面功能更丰富，常用功能有选课、成绩查询、场馆预约等。
+涵盖从学校通知公告到个人学习生活的各种功能，也是通往校内各大分支网站的途径之一。登录后的界面功能更丰富，常用功能有选课、成绩查询、场馆预约等
 
-注意：部分浏览器可能对 http://info.tsinghua.edu.cn/ 访问出错，请换成https前缀再试。
-<!--
+注意：部分浏览器可能对 http://info.tsinghua.edu.cn/ 访问出错，请换成https前缀再试
 
-#### [教学门户](https://academic.tsinghua.edu.cn/)
-
-网址：https://academic.tsinghua.edu.cn
-
-涵盖所有与教育教学相关的内容，包括教务、课程、项目相关的操作和信息披露，关于辅修、课程替代的重要信息都可以在教学门户上查到。
--->
-
-#### [webvpn](https://webvpn.tsinghua.edu.cn/)
+##### [webvpn](https://webvpn.tsinghua.edu.cn/)
 
 网址：https://webvpn.tsinghua.edu.cn/
 
 校外访问内网环境时自动跳转的网址。登录后可无阻碍访问内网
+也可尝试配置sslvpn，但实际使用频率极少
+
+#### [选课系统](https://zhjwxk.cic.tsinghua.edu.cn/xklogin.do)
+
+网址：https://zhjwxk.cic.tsinghua.edu.cn/xklogin.do
+
+校内选课网站，每学期选课必备
+在侧边栏可查询开课信息和课程相关要求
+更详细的介绍在[选课](./专题/xuanke.html)页面中
 
 #### [网络学堂](https://learn.tsinghua.edu.cn/)
 
@@ -92,13 +110,13 @@
 
 ### 信息服务
 
-#### [校园公共软件its](http://its.tsinghua.edu.cn)
+#### [校园公共软件](http://its.tsinghua.edu.cn)
 
 网址：http://its.tsinghua.edu.cn
 
 提供一些学校购买的正版软件，如
 
-* windows：win8、win8.1、win10、win11
+* windows：win11
 * 杀毒软件： NOD32、卡巴斯基
 * 开发软件： Visual Studio、 SqlServer
 * 办公类：福昕PDF编辑器、WPS、Xmind、visio、 Office
@@ -109,14 +127,6 @@
 网址：https://cloud.tsinghua.edu.cn/
 
 每人提供1TB的免费存储空间
-
-#### [清华邮箱](https://mails.tsinghua.edu.cn)
-
-网址：https://mails.tsinghua.edu.cn
-
-清华校园邮箱，可用来申请一些软件的教育版或学生身份认证。
-
-注意：毕业后半年内清华邮箱会被回收失效，但可以手动迁移所有邮件到[清华校友邮箱](https://mail.tsinghua.org.cn)。<!--建议一些重要的账号绑定请慎用清华邮箱。-->
 
 #### [各院系培养方案](https://info.tsinghua.edu.cn/f/info/xxfb_fg/xnzx/template/detail?xxid=3428ae959bf3420e8b2d12ca428d5c75)
 
