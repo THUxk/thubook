@@ -8,24 +8,24 @@
 
 科室介绍：
 
-|科室|电话|
-|:-:|:-:|
-|[医务科](https://xyy.tsinghua.edu.cn/info/1020/4250.htm)|62785827|
-|[办公室](https://xyy.tsinghua.edu.cn/info/1020/4249.htm)|62784635/62773131|
-|[保健科](https://xyy.tsinghua.edu.cn/info/1020/4248.htm)|62797647|
-|[护理部](https://xyy.tsinghua.edu.cn/info/1020/4247.htm)|62781675|
-|[急诊科](https://xyy.tsinghua.edu.cn/info/1021/4261.htm)|62782185（抢救室）/62795835（急诊内科）/62794639（急诊外科）|
-|[内科](https://xyy.tsinghua.edu.cn/info/1021/4260.htm)|62783281|
-|[外科](https://xyy.tsinghua.edu.cn/info/1021/4258.htm)|62783088|
-|[妇科](https://xyy.tsinghua.edu.cn/info/1021/4256.htm)|62782673|
-|[口腔科](https://xyy.tsinghua.edu.cn/info/1021/4255.htm)|62783590|
-|[眼科](https://xyy.tsinghua.edu.cn/info/1021/4254.htm)|62782276|
-|[耳鼻喉科](https://xyy.tsinghua.edu.cn/info/1021/4253.htm)|62782276|
-|[中医科](https://xyy.tsinghua.edu.cn/info/1021/4252.htm)|62781105|
-|[检验科](https://xyy.tsinghua.edu.cn/info/1022/4262.htm)|62782648|
-|[放射科](https://xyy.tsinghua.edu.cn/info/1022/4265.htm)|62782281|
-|[功能科](https://xyy.tsinghua.edu.cn/info/1022/4264.htm)|62781142|
-|[挂号收费住院](https://xyy.tsinghua.edu.cn/info/1023/4268.htm)|62783185 |
+| 科室 | 电话 |
+| --- | --- |
+| [医务科](https://xyy.tsinghua.edu.cn/info/1020/4250.htm) | 62785827 |
+| [办公室](https://xyy.tsinghua.edu.cn/info/1020/4249.htm) | 62784635/62773131 |
+| [保健科](https://xyy.tsinghua.edu.cn/info/1020/4248.htm) | 62797647 |
+| [护理部](https://xyy.tsinghua.edu.cn/info/1020/4247.htm) | 62781675 |
+| [急诊科](https://xyy.tsinghua.edu.cn/info/1021/4261.htm) | 62782185（抢救室）/62795835（急诊内科）/62794639（急诊外科） |
+| [内科](https://xyy.tsinghua.edu.cn/info/1021/4260.htm) | 62783281 |
+| [外科](https://xyy.tsinghua.edu.cn/info/1021/4258.htm) | 62783088 |
+| [妇科](https://xyy.tsinghua.edu.cn/info/1021/4256.htm) | 62782673 |
+| [口腔科](https://xyy.tsinghua.edu.cn/info/1021/4255.htm) | 62783590 |
+| [眼科](https://xyy.tsinghua.edu.cn/info/1021/4254.htm) | 62782276 |
+| [耳鼻喉科](https://xyy.tsinghua.edu.cn/info/1021/4253.htm) | 62782276 |
+| [中医科](https://xyy.tsinghua.edu.cn/info/1021/4252.htm) | 62781105 |
+| [检验科](https://xyy.tsinghua.edu.cn/info/1022/4262.htm) | 62782648 |
+| [放射科](https://xyy.tsinghua.edu.cn/info/1022/4265.htm) | 62782281 |
+| [功能科](https://xyy.tsinghua.edu.cn/info/1022/4264.htm) | 62781142 |
+| [挂号收费住院](https://xyy.tsinghua.edu.cn/info/1023/4268.htm) | 62783185 |
 
 工作时间：
 
@@ -33,29 +33,26 @@
 周一至周五 早8:00 - 12:00 下午 13:30-17:00
 
 急诊：
-7 * 24小时
+7 \* 24小时
 
 若不确定门诊某天是否开放
+
 * 进入“清华后勤”公众号查询，若显示“当日无出诊医生”，则不开放。
 * 支付宝“清华大学医院”小程序查询，若显示无法挂号，已挂满or不开放，则可能暂时无法就诊。
-				
+
 ## 预约
 
 - **必须预约的科室**：
-
-  - 精神科、专家门诊、口腔科看牙
-
+    - 精神科、专家门诊、口腔科看牙
 - **无需预约的口腔科情况**：
-
-  - 开转诊单、开药、就医口腔溃疡或咬合问题等，直接去二楼口腔科挂号
-
-    
+    - 开转诊单、开药、就医口腔溃疡或咬合问题等，直接去二楼口腔科挂号
 
 ### 1.电话预约
 
 拨打 62793001，转人工，可以预约第二，三天的号。
 
 ### 2.公众号预约
+
 "清华后勤服务" —— “微服务” ——- “挂号预约”‘
 
 ![xyy_2](/assets/xyy_2.jpg)
@@ -71,7 +68,6 @@
 
 * 一楼挂号大厅挂号机自助挂号
 * 凭预约记录去挂号收费窗口挂号
-
 * 口腔科，凭借预约记录去口腔科现场挂号，不用在一楼挂号机或窗口挂号
 
 ### 2.支付宝挂号
@@ -101,11 +97,8 @@
 校医院内看病无需报销，自动按公费医疗处理。报销只针对转诊至校外就医的情况：
 
 * 在校医院某个科室就诊，发现需要更进一步的检查或更明确的诊断，校医院医生可以开出**转诊单**。
-
 * 转诊单在校医院一层挂号大厅**综合服务台**盖“**清华大学医院医疗专用章**”。
-
 * 在转诊医院就诊时，先以“**非医保**”途径**自费**就诊，所有产生费用的项目要开成规范的单据。
-
 * 就诊结束后，所有单据拿回**校医院北三楼报销处**报销。
 
 1.准备材料：
@@ -115,21 +108,18 @@
 2.流程：
 
 * 清华后勤公众号，报销预约
-
 * 工作日，上午8:00-11:30,下午1:00 - 4:00
-
 * 校医院北楼三层
-
-  
 
 tips: 学生发生的医疗费用，按照公费医疗管理规定扣除自费部分后可**100%报销**。
 
 ## 就诊全流程示意图
 
 ![xxy_3](/assets/xxy_3.jpg)
+
 ## 更多校医院指南
 
-[转诊与公费医疗报销](https://mp.weixin.qq.com/s/xNLOoYxrIFn9v1DNEAe2vA)
+[转诊与公费医疗报销](https://mp.weixin.qq.com/s/VS2Kwh-8aiELcj8uOr_sSg)
 
 [预约挂号与就医指南](https://mp.weixin.qq.com/s/X5XmVIxSD5PKMwbZ_Yf52g)
 
@@ -139,6 +129,7 @@ tips: 学生发生的医疗费用，按照公费医疗管理规定扣除自费�
 
 [校医院体检指南](https://mp.weixin.qq.com/s/E9RuW1SN5N1lEIPNBr9gOA)
 
----
-*上次修改时间：2024-6-1*
-*贡献者：自76张广昱*
+***
+
+_上次修改时间：2024-6-1_
+_贡献者：自76张广昱_
