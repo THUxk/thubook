@@ -2,6 +2,16 @@
 
 在报道前约3天，新生可在[清华电子身份服务系统](https://id.tsinghua.edu.cn)激活你的电子身份及清华邮箱，建议知道可激活后尽快激活，~~不然就会像某位学长一样拿到XXXshitXXX~~，请牢记你的电子身份用户名与密码，下列绝大部分都需要验证你的电子身份
 
+## 校园网
+
+### [校园网自服务](https://usereg.tsinghua.edu.cn)
+
+网址：https://usereg.tsinghua.edu.cn
+若不在校园网内请进入[webvpn](https://webvpn.tsinghua.edu.cn/)后选择校园网自服务
+1.进入上面所提供的校园网自服务官网，用自己的电子身份账号-密码登录
+2.侧栏选择用户 - 修改Tsinghua-Secure密码中设置密码（后部分称呼为Secure密码）
+3.连接Tsinghua-Secure，CA证书处选择“使用系统证书”，在线证书状态选择“要求证书状态”，域名处填写“wifi.tsinghua.edu.cn”，身份填用户名，密码填2中的Secure密码
+
 ## 邮箱
 
 ### [清华邮箱](https://mails.tsinghua.edu.cn)
@@ -36,7 +46,6 @@
 网址：https://webvpn.tsinghua.edu.cn/
 
 校外访问内网环境时自动跳转的网址。登录后可无阻碍访问内网
-也可尝试配置sslvpn，但实际使用频率极少
 
 #### [选课系统](https://zhjwxk.cic.tsinghua.edu.cn/xklogin.do)
 
