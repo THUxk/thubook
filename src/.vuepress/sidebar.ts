@@ -285,7 +285,7 @@ export default sidebar({
           link: "/其他/keyanweb.md"
         },
         {
-          text: "北京旅游推荐",
+          text: "北京游玩指南",
           link: "/其他/lvyou.md"
         }
         ,
