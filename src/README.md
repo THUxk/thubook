@@ -97,7 +97,7 @@
 
 ## 关于开源
 
-已经开源在THUxk/thubook。
+已经开源在 [THUxk/thubook](https://github.com/THUxk/thubook)。
 
 ## 所有贡献者列表
 
