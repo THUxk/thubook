@@ -72,7 +72,9 @@
 
 拉练后的第二天白天通常为休息。
 
-![jx4](/assets/junxun_4.jpg)
+以下是2026年拉练路线图。
+
+![jx4](/assets/b5ef2c150a68fc3cf1a1b3c4ce4f43fa.jpg)
 
 ![jx6](/assets/junxun_6.jpg)
 
